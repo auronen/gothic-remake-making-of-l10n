@@ -284,7 +284,7 @@ Bardzo spodobał mi się Gothic, ze względu na scenerię i świat.
 
 72
 00:04:41,033 --> 00:04:43,400
-To, co naprawdę przykuło moją uwagę
+To, co naprawdę przykuło moją uwagę,
 
 73
 00:04:43,400 --> 00:04:45,033
@@ -392,7 +392,7 @@ wszystko ma swoją codzienną rutynę, na którą możesz wpływać.
 
 99
 00:06:04,616 --> 00:06:07,466
-Możesz odkrywać nowe rzeczy, być stać się jego częścią.
+Możesz odkrywać nowe rzeczy, stać się tego organizmu.
 
 100
 00:06:07,683 --> 00:06:11,600
@@ -440,7 +440,7 @@ i wszystko ma wpływ, a na koniec gry
 
 110
 00:06:46,533 --> 00:06:49,550
-jesteś silniejszy i zyskujesz "imię" w Kolonii
+jesteś silniejszy i zyskujesz "imię" w Kolonii;
 
 111
 00:06:49,550 --> 00:06:52,016
@@ -464,7 +464,8 @@ i stajesz się lepszy w walce bronią.
 
 116
 00:07:04,666 --> 00:07:11,266
-Chodzi o to, że musisz znaleźć kogoś, kto może cię uczyć, przekonać go, aby pomógł ci poprawić swoje umiejętności,
+Chodzi o to, że musisz znaleźć kogoś, kto może cię uczyć, przekonać go,
+aby pomógł ci poprawić swoje umiejętności,
 
 117
 00:07:11,916 --> 00:07:15,583
@@ -476,7 +477,7 @@ To relacje międzyludzkie.
 
 119
 00:07:17,783 --> 00:07:23,783
-Naszym celem było również stworzenie tego Remake'u w przemyślany sposób.
+Naszym celem było również stworzenie tego Remake'u w przemyślany sposób
 
 120
 00:07:23,783 --> 00:07:25,883
@@ -508,11 +509,11 @@ Projektujesz to w bardzo specyficzny sposób, aby ożywić tę fantazję.
 
 127
 00:07:53,200 --> 00:07:54,916
-Trzeba było to zrobić, ale wracając 
+Trzeba było to zrobić, ale w tamtych czasach. 
 
 128
 00:07:55,316 --> 00:07:57,000
-jeśli są ludzie, którzy mówią
+Jeśli są ludzie, którzy mówią
 
 129
 00:07:57,233 --> 00:07:58,233
@@ -561,7 +562,7 @@ W języku hiszpańskim mówimy w takich przypadkach
 
 140
 00:08:35,083 --> 00:08:39,900
-to tłumaczy się jak "Każdy czas, każdy miniony czas był o wiele lepszy"
+co tłumaczy się jak "Każdy czas, każdy miniony czas był o wiele lepszy"
 
 141
 00:08:40,050 --> 00:08:43,483
@@ -828,7 +829,8 @@ Ale tak, może za dziesięć lat będziemy mogli zagrać razem.
 
 204
 00:00:00,000 --> 00:00:05,000
-Może zawierać treści nieodpowiednie dla dzieci. Więcej informacji na temat klasyfikacji wiekowej można znaleźć na stronie esrb.org
+Może zawierać treści nieodpowiednie dla dzieci.
+Więcej informacji na temat klasyfikacji wiekowej można znaleźć na stronie esrb.org
 
 205
 00:00:30,000 --> 00:00:39,000
@@ -857,4 +859,8 @@ Bezimienny bohater - Bezimienny bohater
 211
 00:12:47,000 --> 00:13:00,000
 Dodaj do listy życzeń
+
+212
+00:00:40,000 --> 00:00:43,000
+Rozdział 1 - Esencja Gothica
 
