@@ -408,8 +408,8 @@
 
 103
 00:06:07,683 --> 00:06:11,600
-It was the first simulation that I feel like was not centered
-around the player.
+Це була перша симуляція, яка, не була зосереджена
+навколо гравця.
 
 104
 00:06:11,966 --> 00:06:17,983
