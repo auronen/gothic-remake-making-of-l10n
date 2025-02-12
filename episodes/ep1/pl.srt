@@ -552,11 +552,11 @@ dbanie o serię i poszczególne gry, aby upewnić się,
 
 138
 00:08:26,733 --> 00:08:30,183
-W końcu walczymy o odtworzenie ukochanych wspomnień,
+W końcu walczymy o odtworzenie ukochanych wspomnień
 
 139
 00:08:30,516 --> 00:08:34,716
-W języku hiszpańskim mówimy w takich przypadkach
+i w języku hiszpańskim mówimy w takich przypadkach
 „Cualquier tiempo pasado fue mejor”
 
 140
@@ -593,7 +593,7 @@ A potem inni fani pokazują mu rzeczywisty wygląd Nowego Obozu z oryginalnej gr
 
 148
 00:09:07,366 --> 00:09:09,566
-Myślałem, że to z remake'u.
+„Myślałem, że to z remake'u.”
 
 149
 00:09:09,766 --> 00:09:12,966
@@ -633,7 +633,7 @@ byli starzy fani, którzy mówili
 
 158
 00:09:35,733 --> 00:09:38,466
-„Wspaniale, nareszcie robią coś innego!”zro
+„Wspaniale, nareszcie robią coś innego!”
 
 159
 00:09:38,700 --> 00:09:39,550
@@ -857,5 +857,5 @@ Dodaj do listy życzeń
 
 212
 00:00:40,000 --> 00:00:43,000
-Rozdział 1 - Esencja Gothica
+Rozdział 1 – Esencja Gothica
 
