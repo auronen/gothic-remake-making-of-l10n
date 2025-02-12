@@ -729,136 +729,136 @@ around the player.
 
 181
 00:10:38,733 --> 00:10:41,016
-Those are the funding pillars and it should be there.
+Це ключові стовпи, на яких ми будуємо.
 
 182
 00:10:41,266 --> 00:10:45,966
-So for me the PT was good because, it helped
-us to define those basic pillars.
+Тому для мене Playable Teaser був важливим, тому що він допоміг
+сформувати ці основи.
 
 183
 00:10:45,966 --> 00:10:46,966
-And we are here today.
+І сьогодні ми тут.
 
 184
 00:10:47,133 --> 00:10:51,400
-When we started to create the real Gothic 1 Remake and got the green light to do it,
+Коли ми почали створювати справжній ремейк Ґотики 1 і отримали на це зелене світло,
 
 185
 00:10:52,183 --> 00:10:55,350
-we set out to, or we defined that.
+ми поставили собі за мету або визначили її.
 
 186
 00:10:55,350 --> 00:11:00,200
-First and foremost, we have to please the old Gothic fans.
+Перш за все, ми повинні догодити старим фанатам Ґотики.
 
 187
 00:11:00,616 --> 00:11:02,966
-Because if they don't like our game,
+Бо якщо їм не сподобається наша гра,
 
 188
 00:11:03,200 --> 00:11:05,300
-then this game has no right to exist.
+то вона не має права на існування.
 
 189
 00:11:05,833 --> 00:11:10,116
-I will say two things.
-The first thing is to the fans, is that I hope that they fully understand
+Я скажу дві речі.
+Перше - фанатам, я сподіваюся, що вони повністю розуміють
 
 190
 00:11:10,266 --> 00:11:14,516
-the way we embrace the original, the way we respect and try,
+те, як ми сприймаємо оригінал, як ми поважаємо і стараємось,
 
 191
 00:11:14,883 --> 00:11:18,783
-we are trying to honor the original, because we understand how important is this game.
+ми намагаємося шанувати оригінал, тому що розуміємо, наскільки важлива ця гра.
 
 192
 00:11:19,000 --> 00:11:22,000
-Well, the franchise, but Gothic 1 is special for them.
+Вся серія загалом, але Ґотика 1 є унікальною для них.
 
 193
 00:11:22,233 --> 00:11:25,800
-Sometimes I read fans telling, “Okay, I was playing this with my father
+Іноді я читаю, як фанати розповідають: «Так, я грав у неї з батьком
 
 194
 00:11:26,566 --> 00:11:28,783
-and i will play the Remake with my son”
+і я зіграю з сином у «Ремейк»»
 
 195
 00:11:29,566 --> 00:11:34,483
-So I hope that they understand that we are doing this
-with passion and with all of our heart.
+Сподіваюся, вони зрозуміють, що ми робимо це
+з пристрастю і від щирого серця.
 
 196
 00:11:35,050 --> 00:11:39,450
-It's the people out there that make us do what we love doing.
+Саме люди змушують нас робити те, що ми любимо.
 
 197
 00:11:39,866 --> 00:11:42,116
-It's they enable us to do that and
+Саме завдяки їм ми можемо робити це і
 
 198
 00:11:42,116 --> 00:11:46,666
-they are kind of the other half of that,
+вони є другою частиною цього,
 
 199
 00:11:46,666 --> 00:11:50,500
-that world that kind of only works if the both halves come together.
+того механізму що працює лише тоді, коли дві половини з'єднуються разом.
 
 200
 00:11:50,800 --> 00:11:55,100
-We being passionate game developers
-that pour our hearts and souls
+Ми, пристрасні розробники ігор.
+які вкладають свої серця і душі
 
 201
 00:11:55,100 --> 00:11:59,833
-into making the game and the audience
-that enjoys playing those games
+у створення гри та аудиторії.
+яка насолоджується грою в ній.
 
 202
 00:11:59,833 --> 00:12:02,550
-and kind of keeping it to life over so many years.
+і підтримує їх життя протягом багатьох років.
 
 203
 00:12:03,166 --> 00:12:08,466
-And for the future, I would like to play a Remake
-in 20 years with Arán, with my son.
+І в майбутньому я хотів би зіграти ремейк
+через 20 років з Араном, моїм сином.
 
 204
 00:12:08,466 --> 00:12:12,100
-He is 2 years old now, but maybe in
-15 years or 16 years we can play together.
+Зараз йому два рочки, але, можливо, через
+15 чи 16 років, ми зіграємо разом.
 
 205
 00:12:12,100 --> 00:12:14,883
-And he says, “Okay Papa, you did this?” and I say "Yes".
+І він скаже: «Тато, ти це зробив?», і я відповім: «Так».
 
 206
 00:12:14,883 --> 00:12:18,916
-But yeah, but maybe in ten years we can we can play together.
+Але так, можливо, через десять років ми зможемо зіграти разом.
 
 207
 00:12:38,000 --> 00:12:39,000
-The Nameless Hero - the Nameless Hero
+Безіменний герой - Безіменний герой
 
 208
 00:12:39,000 --> 00:12:41,000
-23 meat bugs were harmed during the creation of this video
+23 м'ясних жуків постраждали під час створення цього відео
 
 209
 00:12:41,000 --> 00:12:43,000
-2 meat bug stews were consumed during the making of this episode
+Під час зйомок цього епізоду було з'їдено 2 рагу з м'ясними жуками
 
 210
 00:12:43,000 --> 00:12:45,000
-The Sleeper is still sleeping
+Сплячий все ще спить
 
 211
 00:12:45,000 --> 00:12:47,000
-Everything will be fine.
+Все буде добре.
 
 212
 00:12:47,000 --> 00:13:00,000
-Wishlist now
+Додати в список бажань
 
