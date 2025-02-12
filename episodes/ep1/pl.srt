@@ -834,11 +834,13 @@ Tworzenie Gothic 1 Remake
 
 206
 00:12:39,000 --> 00:12:41,000
-W trakcie tworzenia nagrania ucierpiały 23 chrząszcze
+23 chrząszcze
+ucierpiały w trakcie tworzenia nagrania
 
 207
 00:12:41,000 --> 00:12:43,000
-W trakcie produkcji odcinka zjedzono 2 potrawki z chrząszcza
+2 potrawki z chrząszcza
+zjedzono w trakcie produkcji tego odcinka
 
 208
 00:12:43,000 --> 00:12:45,000
@@ -850,7 +852,7 @@ Wszystko będzie w porządku!
 
 210
 00:12:38,000 --> 00:12:39,000
-Bezimienny bohater - Bezimienny bohater
+Bezimienny – Bezimienny
 
 211
 00:12:47,000 --> 00:13:00,000
