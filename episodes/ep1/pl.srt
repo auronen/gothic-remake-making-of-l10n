@@ -529,7 +529,8 @@ chodzi mi o to, że myślę, że jest już gra dla ciebie, i jest nią oryginał
 
 132
 00:08:05,050 --> 00:08:10,800
-I na szczęście, mam na myśli to, że można już teraz grać w klasyczne edycje Gothic 1 i 2
+I na szczęście, mam na myśli to, że można już teraz grać
+w klasyczne edycje Gothic 1 i 2
 
 133
 00:08:11,100 --> 00:08:13,183
@@ -545,7 +546,7 @@ zawsze jedną z naszych strategii było
 
 136
 00:08:19,050 --> 00:08:22,783
-dbanie o serię i poszczególne gry, aby się upewnić,
+dbanie o serię i poszczególne gry, aby upewnić się,
 
 137
 00:08:23,400 --> 00:08:26,283
@@ -611,11 +612,11 @@ demograficznie i strukturalnie.
 
 152
 00:09:18,333 --> 00:09:22,300
-Myślę, że nie ma ani jednego głosu, którego można by posłuchać i powiedzieć
+Myślę, że nie ma ani jednego głosu, którego można by posłuchać i powiedzieć,
 
 153
 00:09:22,500 --> 00:09:24,183
-Jeśli zrobisz to w ten sposób, wszystkim się spodoba.
+że jeśli zrobisz to w ten sposób, wszystkim się spodoba.
 
 154
 00:09:24,450 --> 00:09:25,966
@@ -663,7 +664,7 @@ Czy chcą oni tej samej historii z nową grafiką?
 
 165
 00:09:56,600 --> 00:09:59,700
-Albo powtórzenia historii? Albo nowej historii w świecie gry?
+Albo opowiedzieć ją na nowo? Albo nowej historii w świecie gry?
 
 166
 00:09:59,700 --> 00:10:00,700
@@ -699,8 +700,7 @@ Otrzymaliśmy wiele pomysłów od fanów, fani wskazali nam drogę
 
 174
 00:10:22,466 --> 00:10:26,033
-i pomagają nam tworzyć
-filary, filary Gothic Remake.
+i pomagają nam tworzyć filary, filary Gothic Remake.
 
 175
 00:10:26,033 --> 00:10:30,500
@@ -713,8 +713,7 @@ czego nie możemy zmienić ani przesunąć.
 
 177
 00:10:35,383 --> 00:10:38,733
-To są filary wszystkiego, co budujemy w kolejnych latach. 
-w następnych latach.
+To są filary wszystkiego, co budujemy w kolejnych latach.
 
 178
 00:10:38,733 --> 00:10:41,016
@@ -731,15 +730,15 @@ I dziś jesteśmy tutaj.
 
 181
 00:10:47,133 --> 00:10:51,400
-Kiedy zaczęliśmy tworzyć prawdziwy remake Gothic 1, dostaliśmy na to zielone światło,
+Kiedy zaczęliśmy tworzyć Gothic 1 Remake i dostaliśmy na to zielone światło,
 
 182
 00:10:52,183 --> 00:10:55,350
-postanowiliśmy, czy też zdefiniowaliśmy to.
+zdaliśmy sobie sprawę,
 
 183
 00:10:55,350 --> 00:11:00,200
-Przede wszystkim musimy zadowolić starych fanów Gothica.
+że przede wszystkim musimy dotrzeć do starych fanów Gothica.
 
 184
 00:11:00,616 --> 00:11:02,966
@@ -760,7 +759,7 @@ Pierwsza jest dla fanów, mam nadzieję, że zrozumieją
 
 188
 00:11:14,883 --> 00:11:18,783
-go uhonorować, ponieważ rozumiemy, jak ważna jest te gry.
+go uhonorować, ponieważ rozumiemy, jak ważna jest ta gra.
 
 189
 00:11:19,000 --> 00:11:22,000
@@ -776,8 +775,7 @@ więc zagram w Remake z moim synem".
 
 192
 00:11:29,566 --> 00:11:34,483
-Mam nadzieję, że zrozumieją, że robimy to
-z pasją i całym sercem.
+Mam nadzieję, że zrozumieją, że robimy to z pasją i całym sercem.
 
 193
 00:11:35,050 --> 00:11:39,450
@@ -797,13 +795,11 @@ ten mechanizm działa tylko wtedy, gdy obie połówki się łączą.
 
 197
 00:11:50,800 --> 00:11:55,100
-Jesteśmy zapalonymi twórcami gier
-którzy wlewają swoje serca i dusze
+Jesteśmy zapalonymi twórcami gier, którzy wlewają swoje serca i dusze
 
 198
 00:11:55,100 --> 00:11:59,833
-w tworzenie gry i publiczność
-która lubi grać w te gry
+w tworzenie gry i publiczność, która lubi grać w te gry
 
 199
 00:11:59,833 --> 00:12:02,550
@@ -830,7 +826,7 @@ Ale tak, może za dziesięć lat będziemy mogli zagrać razem.
 204
 00:00:00,000 --> 00:00:05,000
 Może zawierać treści nieodpowiednie dla dzieci.
-Więcej informacji na temat klasyfikacji wiekowej można znaleźć na stronie esrb.org
+Więcej informacji na temat kryteriów wiekowych można znaleźć na stronie esrb.org
 
 205
 00:00:30,000 --> 00:00:39,000
@@ -850,7 +846,7 @@ W trakcie produkcji odcinka zjedzono 2 potrawki z chrząszcza
 
 209
 00:12:45,000 --> 00:12:47,000
-Wszystko będzie w porządku.
+Wszystko będzie w porządku!
 
 210
 00:12:38,000 --> 00:12:39,000
