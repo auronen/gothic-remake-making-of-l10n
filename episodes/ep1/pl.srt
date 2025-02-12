@@ -20,7 +20,7 @@ respektowaniu i przyjęciu oryginalnej wizji stojącej za grą.
 
 6
 00:00:54,866 --> 00:00:58,950
-Studiowaliśmy oryginalną wizję, staraliśmy się zrozumieć wszystko, co chcieli powiedzieć,
+Badaliśmy oryginalną wizję, staraliśmy się zrozumieć wszystko, co chcieli powiedzieć,
 
 7
 00:00:58,950 --> 00:01:01,116
@@ -28,7 +28,7 @@ co chcieli przekazać.
 
 8
 00:01:01,116 --> 00:01:04,666
-I po prostu pomyśleliśmy, dobra - to jest Remake.
+I po prostu pomyśleliśmy, dobra – to jest Remake.
 
 9
 00:01:04,800 --> 00:01:07,066
@@ -44,7 +44,7 @@ z serią Gothic.
 
 12
 00:01:12,083 --> 00:01:13,733
-To jest remake - my akceptujemy,
+To jest remake – my akceptujemy,
 
 13
 00:01:13,733 --> 00:01:17,466
@@ -60,7 +60,7 @@ Po tak wielu latach, a właściwie po dość krótkim czasie,
 
 16
 00:01:23,216 --> 00:01:26,300
-po wydaniu Gothic 1, kiedy patrzę wstecz na muzykę
+po wydaniu Gothic 1, kiedy patrzę wstecz na muzykę,
 
 17
 00:01:26,316 --> 00:01:27,316
@@ -88,11 +88,11 @@ dążenie do tego, by wszystko było lepsze.
 
 23
 00:01:43,650 --> 00:01:46,600
-Teraz dostałem drugą szansę, więc mogę wrócić do mojej muzyki
+Teraz dostałem drugą szansę, więc mogę wrócić do mojej muzyki,
 
 24
 00:01:46,716 --> 00:01:49,616
-które wtedy napisałem i stworzyć nowe wersje,
+którą wtedy napisałem i tworzyć nowe wersje,
 
 25
 00:01:49,733 --> 00:01:52,466
@@ -100,11 +100,11 @@ tworzyć świeże wersje, które przetrwają próbę czasu.
 
 26
 00:01:52,833 --> 00:01:56,083
-Od premiery pierwszego Gothica minęło już ponad 20 lat,
+Od premiery pierwszego Gothica minęło już ponad 20 lat
 
 27
 00:01:56,500 --> 00:01:59,200
-i trudno jest wymyśleć jak
+i trudno jest wymyślić jak
 
 28
 00:01:59,200 --> 00:02:02,500
@@ -160,7 +160,7 @@ graczowi pójść wszędzie, gdziekolwiek i kiedykolwiek.
 
 41
 00:02:49,600 --> 00:02:51,916
-To jest te uczucie, że gracz może
+To jest to uczucie, że gracz może
 
 42
 00:02:52,183 --> 00:02:54,600
@@ -176,7 +176,7 @@ Ponad 10. Nic się nie działo z tą serią.
 
 45
 00:02:59,550 --> 00:03:03,316
-Co jest naprawdę smutne, ponieważ jest to gra i ogólnie seria
+Co jest naprawdę smutne, ponieważ jest to gra i ogólnie seria,
 
 46
 00:03:04,100 --> 00:03:07,500
@@ -184,7 +184,7 @@ na której ludziom bardzo zależy i do której podchodzą bardzo emocjonalnie,
 
 47
 00:03:08,666 --> 00:03:10,983
-i ja też jestem smutny z tego powodu
+i ja też jestem smutny z tego powodu,
 
 48
 00:03:10,983 --> 00:03:14,016
@@ -204,7 +204,7 @@ Kiedy byłem mały, grałem w gry po niemiecku.
 
 52
 00:03:23,800 --> 00:03:25,400
-Była to jedna z niewielu gier
+Była to jedna z niewielu gier,
 
 53
 00:03:25,883 --> 00:03:31,200
@@ -220,7 +220,7 @@ Dialogi zostały napisane w taki sposób, że
 
 56
 00:03:37,216 --> 00:03:42,916
-jakbyśmy rozmawiali o różnych sprawach popijając piwo. Prawda?
+jakbyśmy rozmawiali o różnych sprawach, popijając piwo. Prawda?
 
 57
 00:03:43,100 --> 00:03:46,666
@@ -240,7 +240,7 @@ Zawsze mnie to fascynowało.
 
 61
 00:03:59,300 --> 00:04:02,450
-ponieważ to jest tak, że oni przeklinali na siebie w grze
+Ponieważ to jest tak, że oni przeklinali na siebie w grze
 
 62
 00:04:02,683 --> 00:04:06,666
@@ -312,7 +312,7 @@ To jest naprawdę
 
 79
 00:04:55,433 --> 00:04:57,166
-bardzo wciągające doświadczenie,
+bardzo wciągające doświadczenie
 
 80
 00:04:57,466 --> 00:05:01,550
@@ -372,7 +372,7 @@ i nie daje ci poczucia, że jesteś
 
 94
 00:05:49,033 --> 00:05:50,883
-w grze która nie mogłaby zaistnieć w prawdziwym życiu,
+w grze, która nie mogłaby zaistnieć w prawdziwym życiu,
 
 95
 00:05:50,883 --> 00:05:52,483
@@ -384,7 +384,7 @@ czujesz się, jakbyś był wewnątrz postaci i że mógłbyś nią żyć.
 
 97
 00:05:57,800 --> 00:05:59,950
-Żywy świat - to jest jak symulacja życia,
+Żywy świat – to jest jak symulacja życia,
 
 98
 00:06:00,266 --> 00:06:04,400
@@ -401,8 +401,7 @@ wokół gracza.
 
 101
 00:06:11,966 --> 00:06:17,983
-Działo się to w czasie, gdy, wiesz,
-nie byłeś w centrum uwagi.
+Działo się to w czasie, gdy, wiesz, nie byłeś w centrum uwagi.
 
 102
 00:06:18,083 --> 00:06:19,083
@@ -414,8 +413,7 @@ Naprawdę podoba mi się system progresji
 
 104
 00:06:22,716 --> 00:06:26,800
-i w jaki sposób uczysz się umiejętności, a także jak ta progresja
-ma wpływ na
+i w jaki sposób uczysz się umiejętności, a także jak ta progresja ma wpływ na
 
 105
 00:06:28,033 --> 00:06:31,350
@@ -423,7 +421,7 @@ style walki głównego bohatera.
 
 106
 00:06:32,283 --> 00:06:36,483
-Naprawdę, myślę, że wszyscy ucierpieli walcząc z pierwszym ścierwojadem
+Naprawdę, myślę, że wszyscy ucierpieli, walcząc z pierwszym ścierwojadem
 
 107
 00:06:36,483 --> 00:06:39,483
@@ -448,7 +446,7 @@ dla mnie jest to najbardziej pamiętny fragment gry.
 
 112
 00:06:52,016 --> 00:06:55,016
-Dla mnie główną rzeczą, która definiuje Gothic jest to,
+Dla mnie główną rzeczą, która definiuje Gothic, jest to,
 
 113
 00:06:55,016 --> 00:06:56,683
@@ -456,7 +454,7 @@ w jaki sposób wchodzisz w interakcję z innymi postaciami.
 
 114
 00:06:56,683 --> 00:06:59,966
-To nie jest tak, że zabijasz 20 wilków,
+To nie jest tak, że zabijasz 20 wilków
 
 115
 00:06:59,966 --> 00:07:04,233
@@ -517,7 +515,7 @@ Jeśli są ludzie, którzy mówią
 
 129
 00:07:57,233 --> 00:07:58,233
-"Jasne, ale lubię, jak to wygląda!"
+„Jasne, ale lubię, jak to wygląda!”
 
 130
 00:07:58,566 --> 00:08:01,616
@@ -559,7 +557,7 @@ W końcu walczymy o odtworzenie ukochanych wspomnień,
 139
 00:08:30,516 --> 00:08:34,716
 W języku hiszpańskim mówimy w takich przypadkach
-“Cualquier tiempo pasado fue mejor”
+„Cualquier tiempo pasado fue mejor”
 
 140
 00:08:35,083 --> 00:08:39,900
@@ -567,8 +565,7 @@ co tłumaczy się jak "Każdy czas, każdy miniony czas był o wiele lepszy"
 
 141
 00:08:40,050 --> 00:08:43,483
-Więc ostatecznie staramy się rzucić wyzwanie
-ale to miłe wyzwanie.
+Więc ostatecznie staramy się rzucić wyzwanie, ale to miłe wyzwanie.
 
 142
 00:08:43,883 --> 00:08:47,416
@@ -584,7 +581,7 @@ nie tak dawno temu i mówią,
 
 145
 00:08:53,200 --> 00:08:57,650
-"Wow, to dokładnie tak, jak wyobrażałem sobie Nowy Obóz, gdy grałem."
+„Wow, to dokładnie tak, jak wyobrażałem sobie Nowy Obóz, gdy grałem.”
 
 146
 00:08:58,083 --> 00:09:04,183
@@ -592,7 +589,7 @@ A potem inni fani pokazują mu rzeczywisty wygląd Nowego Obozu z oryginalnej gr
 
 147
 00:09:04,583 --> 00:09:06,783
-"Co jest do diabła? Co to jest?"
+„Co jest do diabła? Co to jest?”
 
 148
 00:09:07,366 --> 00:09:09,566
@@ -636,7 +633,7 @@ byli starzy fani, którzy mówili
 
 158
 00:09:35,733 --> 00:09:38,466
-"Wspaniale, nareszcie robią coś innego!"
+„Wspaniale, nareszcie robią coś innego!”zro
 
 159
 00:09:38,700 --> 00:09:39,550
@@ -751,7 +748,7 @@ to ta gra nie ma prawa istnieć.
 186
 00:11:05,833 --> 00:11:10,116
 Powiem dwie rzeczy.
-Pierwsza jest dla fanów, mam nadzieję, że zrozumieją
+Pierwsza jest dla fanów, mam nadzieję, że zrozumieją,
 
 187
 00:11:10,266 --> 00:11:14,516
@@ -767,11 +764,11 @@ Ogólnie cała seria, ale Gothic 1 jest dla nich wyjątkowy.
 
 190
 00:11:22,233 --> 00:11:25,800
-Czasami czytam historie fanów: "Grałem w tę grę z moim tatą
+Czasami czytam historie fanów: „Grałem w tę grę z moim tatą,
 
 191
 00:11:26,566 --> 00:11:28,783
-więc zagram w Remake z moim synem".
+więc zagram w Remake z moim synem”.
 
 192
 00:11:29,566 --> 00:11:34,483
@@ -808,7 +805,7 @@ i utrzymuje je przy życiu przez tyle lat.
 200
 00:12:03,166 --> 00:12:08,466
 A w przyszłości chciałbym zagrać w Remake,
-za jakieś 20 lat od teraz z Aránem, moim synem
+za jakieś 20 lat od teraz z Aránem, moim synem.
 
 201
 00:12:08,466 --> 00:12:12,100
@@ -817,7 +814,7 @@ Ma teraz 2 lata, ale może za jakieś
 
 202
 00:12:12,100 --> 00:12:14,883
-A on powie: "Dobra, tato, zrobiłeś to?", a ja odpowiem: "Tak".
+A on powie: „Dobra, tato, zrobiłeś to?”, a ja odpowiem: „Tak”.
 
 203
 00:12:14,883 --> 00:12:18,916
