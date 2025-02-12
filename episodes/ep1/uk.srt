@@ -1,42 +1,42 @@
 ﻿1
 00:00:00,000 --> 00:00:05,000
-May contain content unsuitable for children. For more information on age ratings, visit esrb.org
+Може містити контент, не рекомендований дітям. Додаткова інформація про вікові рейтинги на esrb.org
 
 2
 00:00:09,150 --> 00:00:10,400
-The original Gothic
+Оригінальна Ґотика
 
 3
 00:00:10,633 --> 00:00:14,566
-was so popular and so unique at the time, that I feel like
+була настільки популярною та унікальною в той час, що я відчуваю, що
 
 4
 00:00:14,566 --> 00:00:17,466
-it deserves a proper remake.
+вона заслуговує на належний римейк.
 
 5
 00:00:30,000 --> 00:00:39,000
-Creation of Gothic 1 Remake
+Створення ремейку Gothic 1
 
 6
 00:00:40:00 - 00:00:43:00
-Chapter I - The Spirit of Gothic
+Розділ I - Ґотичний дух
 
 6
 00:00:48,900 --> 00:00:51,000
-Our approach was first and foremost to
+Наш підхід полягав передусім у тому, щоб
 
 7
 00:00:51,000 --> 00:00:54,550
-respect and embrace the original vision behind the game.
+поважати та сприймати оригінальне бачення гри.
 
 8
 00:00:54,866 --> 00:00:58,950
-We studied the original vision, we tried to understand everything,
+Ми вивчали оригінальне бачення, намагалися в усьому розібратися,
 
 9
 00:00:58,950 --> 00:01:01,116
-what they were trying to say, what they were trying to convey.
+що вони намагалися сказати, що вони намагалися донести.
 
 10
 00:01:01,116 --> 00:01:04,666
