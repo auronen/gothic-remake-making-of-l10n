@@ -824,41 +824,37 @@ A on powie: "Dobra, tato, zrobiłeś to?", a ja odpowiem: "Tak".
 
 203
 00:12:14,883 --> 00:12:18,916
-But yeah, but maybe in ten years we can we can play together.
+Ale tak, może za dziesięć lat będziemy mogli zagrać razem.
 
 204
-00:00-05:00
-May contain content unsuitable for children. For more information on age ratings, visit esrb.org
+00:00:00,000 --> 00:00:05,000
+Może zawierać treści nieodpowiednie dla dzieci. Więcej informacji na temat klasyfikacji wiekowej można znaleźć na stronie esrb.org
 
 205
-00:00:30:00 - 00:00:39:00
-Creation of Gothic 1 Remake
+00:00:30,000 --> 00:00:39,000
+Tworzenie Gothic 1 Remake
 
 206
-00:00:40:00 - 00:00:43:00
-Chapter I - The Spirit of Gothic
+00:12:39,000 --> 00:12:41,000
+W trakcie tworzenia nagrania ucierpiały 23 chrząszcze
 
 207
-00:12:38:00 - 00:12:39:00
-The Nameless Hero - the Nameless Hero
+00:12:41,000 --> 00:12:43,000
+W trakcie produkcji odcinka zjedzono 2 potrawki z chrząszcza
 
 208
-00:12:39:00 - 00:12:41:00
-23 meat bugs were harmed during the creation of this video
+00:12:43,000 --> 00:12:45,000
+Śniący nadal śpi
 
 209
-00:12:41:00 - 00:12:43:00
-2 meat bug stews were consumed during the making of this episode
+00:12:45,000 --> 00:12:47,000
+Wszystko będzie w porządku.
 
 210
-00:12:43:00 - 00:12:45:00
-The Sleeper is still sleeping
+00:12:38,000 --> 00:12:39,000
+Bezimienny bohater - Bezimienny bohater
 
 211
-00:12:45:00 - 00:12:47:00
-Everything will be fine.
-
-212
-00:12:47:00 - 00:13:00:00
-Wishlist now
+00:12:47,000 --> 00:13:00,000
+Dodaj do listy życzeń
 
