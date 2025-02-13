@@ -1,286 +1,286 @@
 ﻿1
 00:00:09,150 --> 00:00:10,400
-The original Gothic
+Originální Gothic
 
 2
 00:00:10,633 --> 00:00:14,566
-was so popular and so unique at the time, that I feel like
+byl tak populární a unkatní na svou dobu, že si myslím,
 
 3
 00:00:14,566 --> 00:00:17,466
-it deserves a proper remake.
+že si zaslouží pořádný remake.
 
 4
 00:00:48,900 --> 00:00:51,000
-Our approach was first and foremost to
+Náš přístup byl především
 
 5
 00:00:51,000 --> 00:00:54,550
-respect and embrace the original vision behind the game.
+respektovat a přijmout vizi původní hry.
 
 6
 00:00:54,866 --> 00:00:58,950
-We studied the original vision, we tried to understand everything,
+Studovali jsme původní vizi, snažili jsme se pochopit všechno,
 
 7
 00:00:58,950 --> 00:01:01,116
-what they were trying to say, what they were trying to convey.
+co se snažili říct, co se snažili hrou vyjádřit.
 
 8
 00:01:01,116 --> 00:01:04,666
-And we just thought about, okay - this is a Remake.
+A potom jsme si řekli, okay - tohle je Remake.
 
 9
 00:01:04,800 --> 00:01:07,066
-That's the first thing that the fans should have clear,
+To je ta první věc, kterou by fanoušci měli vědět.
 
 10
 00:01:07,300 --> 00:01:10,450
-we are not trying to reinvent the wheel or to do something crazy
+nesnažíme se objevovat dávno objevené, nebo dělat se sérií Gothic
 
 11
 00:01:10,616 --> 00:01:11,933
-with the Gothic franchise.
+něco šíleného.
 
 12
 00:01:12,083 --> 00:01:13,733
-This is a remake - we embrace,
+Je to remake - přijímáme
 
 13
 00:01:13,733 --> 00:01:17,466
-we honor the original vision, and we just try to approach their 
+a ctíme původní vizi hry a snažíme se k tomuto úkolu přistopovat 
 
 14
 00:01:17,466 --> 00:01:19,416
-with most, with the utmost respect.
+s nejvyšším respektem.
 
 15
 00:01:19,483 --> 00:01:22,916
-After so many years and actually after quite a short time,
+Po tolika letech a vlastně po docela krátce po
 
 16
 00:01:23,216 --> 00:01:26,300
-after the release of Gothic 1, when I look back at the music
+vydání Gothicu 1, pokaždé když jsem si zpětně poslechl svou hudbu,
 
 17
 00:01:26,316 --> 00:01:27,316
-that I've done back then,
+kterou jsem tehdy složil,
 
 18
 00:01:28,600 --> 00:01:31,783
-I kind of always find the things that I would have loved to improve.
+jsem vždy našel místa, která bych rád vylepšil.
 
 19
 00:01:32,183 --> 00:01:35,016
-If I had more time, I would have thrown things away 
+Kdybych měl více času, hudbu bych zahodil 
 
 20
 00:01:35,250 --> 00:01:36,983
-and replaced them with other ideas,
+a nahradil ji jinými nápad,
 
 21
 00:01:37,616 --> 00:01:40,500
-so that constant, you know,
+abych ukojil konstantní nutkání
 
 22
 00:01:40,550 --> 00:01:43,483
-striving and trive to make everything better.
+dělat všechno lépe.
 
 23
 00:01:43,650 --> 00:01:46,600
-Now I get a second chance, so I can return to my music
+Teď jsem dostal druhou šanci, vrátit se ke své hudbě,
 
 24
 00:01:46,716 --> 00:01:49,616
-that I wrote back then and create new versions,
+kterou jsem tenkrát napsal a vytvořit novou verzi,
 
 25
 00:01:49,733 --> 00:01:52,466
-create fresh versions that kind of stand the test of time.
+která bude nadčasová.
 
 26
 00:01:52,833 --> 00:01:56,083
-It's been more than 20 years since the first Gothic came out,
+Už je to víc než 20 let, co vyšel první Gothic,
 
 27
 00:01:56,500 --> 00:01:59,200
-and it's difficult to think about how
+a je složité přijít na to,
 
 28
 00:01:59,200 --> 00:02:02,500
-you bring something that has such a history,
+jak přenést něco s takovou historií,
 
 29
 00:02:02,866 --> 00:02:06,183
-into modern times, with the quality of life we have now
+do moderní doby, se současnými technologiemi
 
 30
 00:02:06,183 --> 00:02:10,566
-and how you stay truthful to the original
+a jak zůstat věrní originálnímu
 
 31
 00:02:11,550 --> 00:02:13,166
-experience of playing such a game,
+požitku z hraní hry,
 
 32
 00:02:13,900 --> 00:02:16,150
-which was quite innovative, quite new
+která byla dost inovativní, nová
 
 33
 00:02:16,433 --> 00:02:20,733
-to the whole market and what it brought to RPGs.
+pro celý herní trh a ca přinesla ostatním RPG.
 
 34
 00:02:21,000 --> 00:02:23,633
-I got immersed into the world of Gothic
+Ponořil jsem se do světa Gothicu
 
 35
 00:02:23,633 --> 00:02:27,200
-thanks to Kai Rosenkranz and his creations.
+díky Kaii Rosenkranzovi a jeho díle.
 
 36
 00:02:27,700 --> 00:02:34,133
-And I want to say a big thank you to Snowball localization team,
+A já bych chtěl poděkaovat překladatelskému týmu Snowball,
 
 37
 00:02:34,283 --> 00:02:36,316
-because they made a huge job.
+protože ti odvedli pořádný kus práce.
 
 38
 00:02:36,533 --> 00:02:41,050
-The voices and localization, it helped me a lot to go deeper in this world.
+Dabing a překlad mi hodně pomohli ponořit se do světa Gtohicu.
 
 39
 00:02:41,550 --> 00:02:45,566
-I think that Gothic 1 was a game that allows
+Myslím, že Gothic 1 byla hra, která dovolila
 
 40
 00:02:45,566 --> 00:02:48,600
-the player to go everywhere, anywhere and anytime.
+hráči jít kamkoliv a kdykoliv.
 
 41
 00:02:49,600 --> 00:02:51,916
-So that feeling that the player has,
+Díky tomu má hráč
 
 42
 00:02:52,183 --> 00:02:54,600
-to make his own choices.
+možnost dělat vlastní rozhodnutí.
 
 43
 00:02:55,100 --> 00:02:57,016
-There was I don't know, 15 years?
+Bylo to, já nevím, 15 let?
 
 44
 00:02:57,216 --> 00:02:59,400
-Over 10 years. There was nothing happening with it.
+Přes 10 let. Nic se s Gothicem nedělo.
 
 45
 00:02:59,550 --> 00:03:03,316
-Which is sad because it's like, it's a franchise and the game
+A to je smutné, je to série a hra
 
 46
 00:03:04,100 --> 00:03:07,500
-the people deeply care about and are very emotional towards to,
+na které lidem hluboce záleží, mají k ní citový vztah,
 
 47
 00:03:08,666 --> 00:03:10,983
-and I'm I myself sad actually
+a já jsem z toho také smutný
 
 48
 00:03:10,983 --> 00:03:14,016
-that I never got to play another Gothic game in this time.
+že jsem si nemohl zahrát další hru Gothic behěm těch let.
 
 49
 00:03:14,466 --> 00:03:17,316
-We are - fighting with memories.
+Bojujeme se vzpomínkami.
 
 50
 00:03:17,483 --> 00:03:20,733
-We’re just trying to embrace the original vision of the authors.
+Snažíme se jen podtrhnout původni vizi autorů.
 
 51
 00:03:20,850 --> 00:03:23,150
-When I was young, I've played the games in German.
+Když jsem byl mladý, hrál jsem hry v němčině.
 
 52
 00:03:23,800 --> 00:03:25,400
-It was one of the only games
+Byla to jedna z mála her
 
 53
 00:03:25,883 --> 00:03:31,200
-which had a real character and authenticity
+která měla skutečné postavy a autentičnost
 
 54
 00:03:31,450 --> 00:03:34,000
-to German like culture.
+německé kultury.
 
 55
 00:03:34,216 --> 00:03:37,100
-The dialogues were written in a way how
+Dialogy byly napsané tak,
 
 56
 00:03:37,216 --> 00:03:42,916
-you and me would speak, if we would be, I don’t know, frankly drinking a beer and talking about stuff. Right?
+jak bychom se spolu bavili ty a já, kdybychom byli, nevím, no.. popíjeli pivo a jen si povídali. Ne?
 
 57
 00:03:43,100 --> 00:03:46,666
-And that is something that, was never done by a game,
+A to je něco, co dřív nikdo ve hře předtím neudělal,
 
 58
 00:03:46,950 --> 00:03:51,766
-like it was so natural and so close to reality
+bylo to tak přirozené a realistické
 
 59
 00:03:52,350 --> 00:03:56,183
-in a way, like without being a simulation or whatever.
+bez toho, aby to byla simlace nebo něco takového.
 
 60
 00:03:56,250 --> 00:03:58,966
-Kind of fascinated me always. Right?
+Vždycky mě to fascinovalo.
 
 61
 00:03:59,300 --> 00:04:02,450
-because it also like, they were cursing each other in the game
+protože postavy si ve hře nadávali
 
 62
 00:04:02,683 --> 00:04:06,666
-and reacting to each other in a very rude way sometimes,
+a reagovali na sebe, někdy i dost hrubě,
 
 63
 00:04:07,016 --> 00:04:10,250
-and that was kind of attractive for me.
+a to se mi moc líbilo.
 
 64
 00:04:10,416 --> 00:04:14,766
-I think this game has something special from the start,
+Myslím si, že ta hra měla v sobě něco speciálního už od začátku,
 
 65
 00:04:14,766 --> 00:04:18,583
-right from the moment you begin playing, it grabs you,
+od chvíle, co začnete hrát, vás hra pohltí,
 
 66
 00:04:18,583 --> 00:04:21,300
-it draws you in with that,
+vtáhne vás svou
 
 67
 00:04:21,666 --> 00:04:22,800
-with that dark
+temnou
 
 68
 00:04:23,033 --> 00:04:25,450
-and tough aura that is established very quickly.
+a drsnou aurou, kteorá na vás rychle dýchne.
 
 69
 00:04:26,133 --> 00:04:31,533
-That feeling of being part of the world
+Ten pocit, že jste součástí světa
 
 70
 00:04:32,266 --> 00:04:35,183
-is already there in the music, the environments, in everything.
+je už v hudbě, v prostředí, všude.
 
 71
 00:04:36,983 --> 00:04:40,266
-I really liked Gothic, because of the setting and the world.
+Gothic jsem měl rád, kvůli jeho prostředí a světu.
 
 72
 00:04:41,033 --> 00:04:43,400
