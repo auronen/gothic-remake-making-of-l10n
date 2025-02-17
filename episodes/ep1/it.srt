@@ -1,18 +1,18 @@
 ﻿1
 00:00:00,000 --> 00:00:05,000
-May contain content unsuitable for children. For more information on age ratings, visit esrb.org
+Potrebbe contenere contenuti non adatti ai bambini. Per maggiori informazioni sulle classificazioni in base all'età, visita esrb.org
 
 2
 00:00:09,150 --> 00:00:10,400
-The original Gothic
+L'originale Gothic
 
 3
 00:00:10,633 --> 00:00:14,566
-was so popular and so unique at the time, that I feel like
+era così popolare e così unico all'epoca, che penso che
 
 4
 00:00:14,566 --> 00:00:17,466
-it deserves a proper remake.
+meriti un remake adeguato.
 
 5
 00:00:30,000 --> 00:00:39,000
@@ -24,818 +24,816 @@ Chapter I - The Spirit of Gothic
 
 7
 00:00:48,900 --> 00:00:51,000
-Our approach was first and foremost to
+Il nostro approccio è stato innanzitutto quello di
 
 8
 00:00:51,000 --> 00:00:54,550
-respect and embrace the original vision behind the game.
+rispettare e abbracciare la visione originale dietro il gioco.
 
 9
 00:00:54,866 --> 00:00:58,950
-We studied the original vision, we tried to understand everything,
+Abbiamo studiato la visione originale, abbiamo cercato di capire tutto,
 
 10
 00:00:58,950 --> 00:01:01,116
-what they were trying to say, what they were trying to convey.
+cosa stavano cercando di dire, cosa stavano cercando di trasmettere.
 
 11
 00:01:01,116 --> 00:01:04,666
-And we just thought about, okay - this is a Remake.
+E abbiamo pensato, okay, questo è un Remake.
 
 12
 00:01:04,800 --> 00:01:07,066
-That's the first thing that the fans should have clear,
+Questa è la prima cosa che i fan devono avere chiara,
 
 13
 00:01:07,300 --> 00:01:10,450
-we are not trying to reinvent the wheel or to do something crazy
+non stiamo cercando di reinventare la ruota o di fare qualcosa di folle
 
 14
 00:01:10,616 --> 00:01:11,933
-with the Gothic franchise.
+con il franchise di Gothic.
 
 15
 00:01:12,083 --> 00:01:13,733
-This is a remake - we embrace,
+Questo è un remake: teniamolo presente,
 
 16
 00:01:13,733 --> 00:01:17,466
-we honor the original vision, and we just try to approach their 
+onoriamo la visione originale e cerchiamo di avvicinarci
 
 17
 00:01:17,466 --> 00:01:19,416
-with most, with the utmost respect.
+il più possibile, con il massimo rispetto.
 
 18
 00:01:19,483 --> 00:01:22,916
-After so many years and actually after quite a short time,
+Dopo così tanti anni ma in realtà quasi subito,
 
 19
 00:01:23,216 --> 00:01:26,300
-after the release of Gothic 1, when I look back at the music
+dopo l'uscita di Gothic 1, quando ripenso alla musica
 
 20
 00:01:26,316 --> 00:01:27,316
-that I've done back then,
+che ho fatto allora,
 
 21
 00:01:28,600 --> 00:01:31,783
-I kind of always find the things that I would have loved to improve.
+Trovo sempre delle cose che mi sarebbe piaciuto migliorare.
 
 22
 00:01:32,183 --> 00:01:35,016
-If I had more time, I would have thrown things away 
+Se avessi avuto più tempo, avrei buttato via alcune cose
 
 23
 00:01:35,250 --> 00:01:36,983
-and replaced them with other ideas,
+e le avrei sostituite con altre,
 
 24
 00:01:37,616 --> 00:01:40,500
-so that constant, you know,
+quindi c'è sempre quella costante, sai,
 
 25
 00:01:40,550 --> 00:01:43,483
-striving and trive to make everything better.
+quella voglia di sforzarsi di migliorare tutto.
 
 26
 00:01:43,650 --> 00:01:46,600
-Now I get a second chance, so I can return to my music
+Ora ho una seconda possibilità, così posso tornare alla musica
 
 27
 00:01:46,716 --> 00:01:49,616
-that I wrote back then and create new versions,
+che ho scritto allora e creare nuove versioni,
 
 28
 00:01:49,733 --> 00:01:52,466
-create fresh versions that kind of stand the test of time.
+creare nuove versioni che in un certo senso resistono alla prova del tempo.
 
 29
 00:01:52,833 --> 00:01:56,083
-It's been more than 20 years since the first Gothic came out,
+Sono passati più di 20 anni da quando è uscito il primo Gothic,
 
 30
 00:01:56,500 --> 00:01:59,200
-and it's difficult to think about how
+ed è difficile pensare a come
 
 31
 00:01:59,200 --> 00:02:02,500
-you bring something that has such a history,
+si possa portare qualcosa che ha una tale storia,
 
 32
 00:02:02,866 --> 00:02:06,183
-into modern times, with the quality of life we have now
+nei tempi moderni, con la qualità della vita che abbiamo ora
 
 33
 00:02:06,183 --> 00:02:10,566
-and how you stay truthful to the original
+e come si possa rimanere fedeli all'originale
 
 34
 00:02:11,550 --> 00:02:13,166
-experience of playing such a game,
+esperienza di gioco di un gioco del genere,
 
 35
 00:02:13,900 --> 00:02:16,150
-which was quite innovative, quite new
+che era molto innovativo, molto nuovo
 
 36
 00:02:16,433 --> 00:02:20,733
-to the whole market and what it brought to RPGs.
+per l'intero mercato e per ciò che ha portato ai giochi di ruolo.
 
 37
 00:02:21,000 --> 00:02:23,633
-I got immersed into the world of Gothic
+Mi sono immerso nel mondo di Gothic
 
 38
 00:02:23,633 --> 00:02:27,200
-thanks to Kai Rosenkranz and his creations.
+grazie a Kai Rosenkranz e alle sue creazioni.
 
 39
 00:02:27,700 --> 00:02:34,133
-And I want to say a big thank you to Snowball localization team,
+E vorrei ringraziare di cuore il team di localizzazione di Snowball,
 
 40
 00:02:34,283 --> 00:02:36,316
-because they made a huge job.
+perché hanno fatto un lavoro enorme.
 
 41
 00:02:36,533 --> 00:02:41,050
-The voices and localization, it helped me a lot to go deeper in this world.
+Le voci e la localizzazione mi hanno aiutato molto ad approfondire questo mondo.
 
 42
 00:02:41,550 --> 00:02:45,566
-I think that Gothic 1 was a game that allows
+Penso che Gothic 1 sia un gioco che consente
 
 43
 00:02:45,566 --> 00:02:48,600
-the player to go everywhere, anywhere and anytime.
+al giocatore di andare ovunque, dovunque e in qualsiasi momento.
 
 44
 00:02:49,600 --> 00:02:51,916
-So that feeling that the player has,
+Quindi quella sensazione che ha il giocatore,
 
 45
 00:02:52,183 --> 00:02:54,600
-to make his own choices.
+di fare le proprie scelte.
 
 46
 00:02:55,100 --> 00:02:57,016
-There was I don't know, 15 years?
+Sono passati, non so, 15 anni?
 
 47
 00:02:57,216 --> 00:02:59,400
-Over 10 years. There was nothing happening with it.
+Più di 10 anni. Non è successo niente.
 
 48
 00:02:59,550 --> 00:03:03,316
-Which is sad because it's like, it's a franchise and the game
+Il che è triste perché è come... è un franchise e il gioco
 
 49
 00:03:04,100 --> 00:03:07,500
-the people deeply care about and are very emotional towards to,
+e le persone ci tengono molto e sono molto emotive nei suoi confronti,
 
 50
 00:03:08,666 --> 00:03:10,983
-and I'm I myself sad actually
+e io stesso sono triste in realtà
 
 51
 00:03:10,983 --> 00:03:14,016
-that I never got to play another Gothic game in this time.
+per non aver mai giocato a un altro gioco di Gothic in questo periodo.
 
 52
 00:03:14,466 --> 00:03:17,316
-We are - fighting with memories.
+Stiamo combattendo con i ricordi.
 
 53
 00:03:17,483 --> 00:03:20,733
-We’re just trying to embrace the original vision of the authors.
+Stiamo solo cercando di abbracciare la visione originale degli autori.
 
 54
 00:03:20,850 --> 00:03:23,150
-When I was young, I've played the games in German.
+Quando ero giovane, giocavo ai giochi in tedesco.
 
 55
 00:03:23,800 --> 00:03:25,400
-It was one of the only games
+Era uno dei pochi giochi
 
 56
 00:03:25,883 --> 00:03:31,200
-which had a real character and authenticity
+che aveva un vero carattere e autenticità
 
 57
 00:03:31,450 --> 00:03:34,000
-to German like culture.
+verso la cultura tedesca.
 
 58
 00:03:34,216 --> 00:03:37,100
-The dialogues were written in a way how
+I dialoghi sono stati scritti nel modo in cui
 
 59
 00:03:37,216 --> 00:03:42,916
-you and me would speak, if we would be, I don’t know, frankly drinking a beer and talking about stuff. Right?
+tu e io parleremmo, se stessimo, non so, bevendo una birra e parlando di cose. Giusto?
 
 60
 00:03:43,100 --> 00:03:46,666
-And that is something that, was never done by a game,
+E questa è una cosa che non è mai stata fatta da un gioco,
 
 61
 00:03:46,950 --> 00:03:51,766
-like it was so natural and so close to reality
+come se fosse così naturale e così vicino alla realtà
 
 62
 00:03:52,350 --> 00:03:56,183
-in a way, like without being a simulation or whatever.
+in un certo senso, come se non fosse una simulazione o qualcosa del genere.
 
 63
 00:03:56,250 --> 00:03:58,966
-Kind of fascinated me always. Right?
+Mi ha sempre affascinato. Vero?
 
 64
 00:03:59,300 --> 00:04:02,450
-because it also like, they were cursing each other in the game
+perché era anche come se si stessero maledicendo a vicenda nel gioco
 
 65
 00:04:02,683 --> 00:04:06,666
-and reacting to each other in a very rude way sometimes,
+e a volte reagivano l'uno all'altro in modo molto maleducato,
 
 66
 00:04:07,016 --> 00:04:10,250
-and that was kind of attractive for me.
+e questo mi attraeva.
 
 67
 00:04:10,416 --> 00:04:14,766
-I think this game has something special from the start,
+Penso che questo gioco abbia qualcosa di speciale fin dall'inizio,
 
 68
 00:04:14,766 --> 00:04:18,583
-right from the moment you begin playing, it grabs you,
+fin dal momento in cui inizi a giocare, ti cattura,
 
 69
 00:04:18,583 --> 00:04:21,300
-it draws you in with that,
+ti cattura con quello...
 
 70
 00:04:21,666 --> 00:04:22,800
-with that dark
+con quell'aura oscura
 
 71
 00:04:23,033 --> 00:04:25,450
-and tough aura that is established very quickly.
+e dura che si stabilisce molto rapidamente.
 
 72
 00:04:26,133 --> 00:04:31,533
-That feeling of being part of the world
+Quella sensazione di essere parte del mondo
 
 73
 00:04:32,266 --> 00:04:35,183
-is already there in the music, the environments, in everything.
+è già presente nella musica, negli ambienti, in tutto.
 
 74
 00:04:36,983 --> 00:04:40,266
-I really liked Gothic, because of the setting and the world.
+Mi è piaciuto molto Gothic, per l'ambientazione e il mondo.
 
 75
 00:04:41,033 --> 00:04:43,400
-What really caught my attention was that it was a game
+Quello che ha davvero catturato la mia attenzione è stato il fatto che fosse un gioco.
 
 76
 00:04:43,400 --> 00:04:45,033
-I wasn’t used to playing at the time.
+Non ero abituato a giocare a quel tempo.
 
 77
 00:04:45,433 --> 00:04:48,950
-A game that doesn’t guide you, doesn’t tell you where to go
+Un gioco che non ti guida, non ti dice dove andare
 
 78
 00:04:48,950 --> 00:04:49,950
-or what to do.
+o cosa fare.
 
 79
 00:04:50,100 --> 00:04:52,616
-You have to pay attention to what the characters say,
+Devi prestare attenzione a ciò che dicono i personaggi,
 
 80
 00:04:52,616 --> 00:04:54,433
-buy the map, and stay very alert.
+acquista una mappa e stai molto attento.
 
 81
 00:04:54,433 --> 00:04:55,433
-That’s truly
+È davvero
 
 82
 00:04:55,433 --> 00:04:57,166
-a very immersive experience,
+un'esperienza molto coinvolgente,
 
 83
 00:04:57,466 --> 00:05:01,550
-and I think that’s what I liked most about the game.
+e penso che sia ciò che mi è piaciuto di più del gioco.
 
 84
 00:05:01,816 --> 00:05:05,483
-Gothic is very grounded game, that you feel like is tough,
+Gothic è un gioco molto concreto, che ti fa sentire duro,
 
 85
 00:05:05,750 --> 00:05:08,833
-it's hard, but it’s also very realistic.
+è difficile, ma è anche molto realistico.
 
 86
 00:05:09,233 --> 00:05:12,416
-What was amazing to me the first time that I played Gothic was
+Quello che mi ha stupito la prima volta che ho giocato a Gothic è stato
 
 87
 00:05:13,400 --> 00:05:17,783
-how you could solve a lot of situations, taking advantage of everyone.
+come si potessero risolvere un sacco di situazioni, approfittando di tutti.
 
 88
 00:05:18,700 --> 00:05:21,466
-Everyone would take advantage of you of course, but then you have
+Ovviamente tutti approfitterebbero di te, ma poi hai
 
 89
 00:05:21,466 --> 00:05:24,216
-these chances where you can take advantage of a
+queste possibilità in cui puoi approfittare di un
 
 90
 00:05:24,750 --> 00:05:28,250
-character killing a scavenger for you so you can go around something.
+personaggio che uccide un saprofago per te in modo da poter aggirare qualcosa.
 
 91
 00:05:28,383 --> 00:05:29,383
-I think what I like the most
+Penso che ciò che mi piace di più
 
 92
 00:05:29,383 --> 00:05:33,766
-about Gothic is that it combines magic and everything.
+di Gothic è che combina magia e tutto il resto.
 
 93
 00:05:34,016 --> 00:05:37,700
-Even though it’s a fantasy game, it’s very believable.
+Anche se è un gioco fantasy, è molto credibile.
 
 94
 00:05:38,450 --> 00:05:43,216
-It’s not 100% realistic, but we do try to make it look realistic.
+Non è realistica al 100%, ma cerca di renderla realistica.
 
 95
 00:05:43,866 --> 00:05:46,333
-It combines these two worlds
+Combina questi due mondi
 
 96
 00:05:46,333 --> 00:05:48,616
-and it doesn’t give you the feeling that you’re
+e non ti dà la sensazione di essere
 
 97
 00:05:49,033 --> 00:05:50,883
-in a game that couldn’t exist in real life,
+in un gioco che non potrebbe esistere nella vita reale,
 
 98
 00:05:50,883 --> 00:05:52,483
-but rather something that makes you
+ma piuttosto qualcosa che ti fa
 
 99
 00:05:52,866 --> 00:05:57,650
-feel like you’re inside the character and that you could be living that.
+sentire di essere dentro il personaggio e che potresti viverlo.
 
 100
 00:05:57,800 --> 00:05:59,950
-The living world - like the simulation that like,
+Il mondo vivente, come la simulazione che,
 
 101
 00:06:00,266 --> 00:06:04,400
-everything has a daily routine, you can affect it.
+tutto ha una routine quotidiana che puoi influenzare.
 
 102
 00:06:04,616 --> 00:06:07,466
-You can get to discover, kind of like be part of the life.
+Puoi scoprire, in un certo senso far parte della vita.
 
 103
 00:06:07,683 --> 00:06:11,600
-It was the first simulation that I feel like was not centered
-around the player.
+È stata la prima simulazione che, secondo me, non era incentrata
+sul giocatore.
 
 104
 00:06:11,966 --> 00:06:17,983
-It was actually going on while, you know,
-you were not a center of attention for everything.
+In realtà tutto funzionava anche, sai, se
+non eri al centro dell'attenzione di tutti.
 
 105
 00:06:18,083 --> 00:06:19,083
-You were just a nobody.
+Eri solo un nessuno.
 
 106
 00:06:19,316 --> 00:06:21,933
-I really like was the progression system
+Mi è piaciuto molto il sistema di progressione
 
 107
 00:06:22,716 --> 00:06:26,800
-and how you learn abilities and what also the progression 
-have an impact on
+e come impari le abilità e anche su come la progressione
+ha un impatto sugli
 
 108
 00:06:28,033 --> 00:06:31,350
-your fighting styles your main character had.
+stili di combattimento che aveva il tuo personaggio principale.
 
 109
 00:06:32,283 --> 00:06:36,483
-Really, I think everybody struggle fighting against the first scavanger
+Davvero, penso che tutti facciano fatica a combattere contro il primo saprofago
 
 110
 00:06:36,483 --> 00:06:39,483
-or run away from the diggers.
+o a scappare dai minatori.
 
 111
 00:06:39,850 --> 00:06:41,883
-And for me this point from then,
+E per me questo era punto,
 
 112
 00:06:42,066 --> 00:06:46,533
-learning that all the decisions make sense
-and all that affect and in the end of the game
+imparare che tutte le decisioni hanno senso
+e tutto ciò che influenza e alla fine del gioco
 
 113
 00:06:46,533 --> 00:06:49,550
-you are stronger and you get "a name" in the colony
+sei più forte e ottieni "un nome" nella colonia
 
 114
 00:06:49,550 --> 00:06:52,016
-for me, that's the most memorable thing of the of the game.
+per me, questa è la cosa più memorabile del gioco.
 
 115
 00:06:52,016 --> 00:06:55,016
-For me them the main thing that for me defines Gothic,
+Per me la cosa principale che definisce Gothic,
 
 116
 00:06:55,016 --> 00:06:56,683
-it's the way you interact with other characters.
+è il modo in cui interagisci con gli altri personaggi.
 
 117
 00:06:56,683 --> 00:06:59,966
-I mean, it's not about, you know, killing 20 wolves,
+Voglio dire, non si tratta, sai, di uccidere 20 lupi,
 
 118
 00:06:59,966 --> 00:07:04,233
-and so you get rise in your level of expertise in sword fighting.
+e quindi ottieni un aumento del tuo livello di competenza nel combattimento con la spada.
 
 119
 00:07:04,666 --> 00:07:11,266
-It's about find someone, convince him to teach you, how to improve your skills and then
+Si tratta di trovare qualcuno, convincerlo a insegnarti come migliorare le tue capacità e poi
 
 120
 00:07:11,916 --> 00:07:15,583
-maybe if you are good enough, he will teach you something.
+forse se sei abbastanza bravo, ti insegnerà qualcosa.
 
 121
 00:07:15,983 --> 00:07:17,500
-This human relations.
+Queste relazioni umane.
 
 122
 00:07:17,783 --> 00:07:23,783
-Our aim was also, to create this Remake, in a mindfull way
+Il nostro obiettivo era anche quello di creare questo Remake in modo consapevole
 
 123
 00:07:23,783 --> 00:07:25,883
-and with respecting greatly the original,
+e rispettando molto l'originale,
 
 124
 00:07:26,216 --> 00:07:30,400
-but we also wanted to setup with the graphics, to be like
+ma volevamo anche impostare la grafica, come
 
 125
 00:07:30,400 --> 00:07:34,016
-a modern game with the realistic look. Right?
+un gioco moderno con un aspetto realistico. Giusto?
 
 126
 00:07:34,433 --> 00:07:37,200
-And that kinda fights with the original, because the original,
+E questo in un certo senso contrasta con l'originale, perché l'originale,
 
 127
 00:07:37,933 --> 00:07:40,750
-they only had so much polygons for figures for example,
+aveva solo un certo numero di poligoni per le figure, per esempio,
 
 128
 00:07:40,966 --> 00:07:47,200
-and with these restrictions, you design creatures and NPCs and whatever.
+e con queste restrizioni, progetti creature e PNG e quant'altro.
 
 129
 00:07:47,500 --> 00:07:52,900
-You design it in a very specific way to get the fantasy in your head.
+Lo progetti in un modo molto specifico per ottenere la fantasia nella tua testa.
 
 130
 00:07:53,200 --> 00:07:54,916
-You had to do this, but back in the day. 
+Dovevi farlo, ma ai vecchi tempi.
 
 131
 00:07:55,316 --> 00:07:57,000
-If there is people who are like,
+Se ci sono persone che dicono,
 
 132
 00:07:57,233 --> 00:07:58,233
-"Yeah, but I like this look!"
+"Sì, ma mi piace questo look!"
 
 133
 00:07:58,566 --> 00:08:01,616
-If you really like the look of the original game,
+Se ti piace davvero l'aspetto del gioco originale,
 
 134
 00:08:01,766 --> 00:08:04,533
-I mean, I think that there is the game for you, which is the original.
+Voglio dire, penso che ci sia il gioco che fa per te, è l'originale.
 
 135
 00:08:05,050 --> 00:08:10,800
-And thankfully, I mean, you can now play Gothic 1 and 2 as classic editions
+E per fortuna, intendo, ora puoi giocare a Gothic 1 e 2 come edizioni classiche
 
 136
 00:08:11,100 --> 00:08:13,183
-on modern consoles.
+sulle console moderne.
 
 137
 00:08:13,183 --> 00:08:15,133
-Which I think was also
+Credo che fosse anche
 
 138
 00:08:15,550 --> 00:08:19,050
-one of our strategies is always to
+una delle nostre strategie è sempre
 
 139
 00:08:19,050 --> 00:08:22,783
-to take care about franchises and IP’s to make sure,
+prenderci cura del franchising per assicurarci che ciò,
 
 140
 00:08:23,400 --> 00:08:26,283
-that thing that people love is actually preserved.
+che la gente ama venga effettivamente preservata.
 
 141
 00:08:26,733 --> 00:08:30,183
-In the end we're fighting to recreate beloved memories,
+Alla fine stiamo lottando per ricreare ricordi amati,
 
 142
 00:08:30,516 --> 00:08:34,716
-And in Spanish we say, there is a say:
+E in spagnolo c'è un detto che dice:
 “Cualquier tiempo pasado fue mejor”
 
 143
 00:08:35,083 --> 00:08:39,900
-it seems “Any time, any past time was way better”
+si potrebbe tradurre come “I bei tempi andati”.
 
 144
 00:08:40,050 --> 00:08:43,483
-So in the end, we're trying to challenge
-with these, but it's a nice challenge.
+Quindi alla fine, stiamo cercando di combattere
+con questo, ma è una bella sfida.
 
 145
 00:08:43,883 --> 00:08:47,416
-So when I see, when I read some fans comments about
+Quindi quando vedo, quando leggo alcuni commenti dei fan
 
 146
 00:08:47,500 --> 00:08:50,600
-and they see for example New Camp, image we released
+e vedono ad esempio Campo Nuovo, un'immagine che abbiamo pubblicato
 
 147
 00:08:50,950 --> 00:08:53,000
-not much time ago and they say,
+non molto tempo fa e dicono,
 
 148
 00:08:53,200 --> 00:08:57,650
-“Wow, this is exactly how the New Camp was in my mind, when I was playing.
+"Wow, questo è esattamente come era Campo Nuovo nella mia mente, quando giocavo.
 
 149
 00:08:58,083 --> 00:09:04,183
-And then some other fans show him the real image of the New Camp of the original game and they say
+E poi altri fan gli hanno mostrato la vera immagine di Campo Nuovo del gioco originale e hanno detto
 
 150
 00:09:04,583 --> 00:09:06,783
-“What the hell? What is this?”
+"Che diavolo? Cos'è questo?"
 
 151
 00:09:07,366 --> 00:09:09,566
-In my head it was like the remake one.
+Nella mia testa era come il remake.
 
 152
 00:09:09,766 --> 00:09:12,966
-So first of all, I think that the fan base of the original
+Quindi, prima di tutto, penso che la base di fan dell'originale
 
 153
 00:09:13,500 --> 00:09:14,750
-is a multilayered,
+sia multistrato,
 
 154
 00:09:14,933 --> 00:09:17,883
-demographic and structure.
+demograficamente e strutturalmente.
 
 155
 00:09:18,333 --> 00:09:22,300
-I think that not one voice that you can listen to and say
+Penso che non ci sia una voce che puoi ascoltare e dire
 
 156
 00:09:22,500 --> 00:09:24,183
-if you do it like that, everybody will like it.
+se lo fai così, piacerà a tutti.
 
 157
 00:09:24,450 --> 00:09:25,966
-And that's, that's the core problem.
+E questo è, questo è il problema principale.
 
 158
 00:09:26,333 --> 00:09:28,183
-There's so many different opinions.
+Ci sono così tante opinioni diverse.
 
 159
 00:09:28,550 --> 00:09:31,800
-There is even like, when we did the the Gothic Playable Teaser,
+C'è persino, tipo, quando abbiamo fatto il Gothic Playable Teaser,
 
 160
 00:09:32,100 --> 00:09:35,200
-there were even like old fans who were like,
+c'erano persino vecchi fan che dicevano,
 
 161
 00:09:35,733 --> 00:09:38,466
-“Great finally they are doing something different with it!”
+"Fantastico, finalmente stanno facendo qualcosa di diverso!"
 
 162
 00:09:38,700 --> 00:09:39,550
-I disagree with this.
+Non sono d'accordo.
 
 163
 00:09:39,716 --> 00:09:43,400
-I feel like with the the Playable Teaser the aim was to really push
+Penso che con il Playable Teaser l'obiettivo fosse davvero quello di spingere
 
 164
 00:09:43,583 --> 00:09:46,983
-the boundaries and go over it to get strong reactions, and we got that.
+i limiti e superarli per ottenere reazioni forti, e ci siamo riusciti.
 
 165
 00:09:47,066 --> 00:09:48,233
-So so that worked out.
+Quindi ha funzionato.
 
 166
 00:09:48,583 --> 00:09:51,583
-So back in the day we were asking what fans want, what do they want?
+Allora ci chiedevamo cosa vogliono i fan, cosa vogliono?
 
 167
 00:09:51,966 --> 00:09:56,066
-They want to, I mean, the same story with new graphics?
+Vogliono, intendo, la stessa storia con una nuova grafica?
 
 168
 00:09:56,600 --> 00:09:59,700
-Or maybe a retold? Maybe the one with new story within the world?
+O forse una rivisitazione? Forse quella con una nuova storia all'interno del mondo?
 
 169
 00:09:59,700 --> 00:10:00,700
-Or maybe they want something
+O forse vogliono qualcosa
 
 170
 00:10:00,700 --> 00:10:05,050
-in the line of new modern games where the character is always talking
+nella linea dei nuovi giochi moderni in cui il personaggio parla sempre
 
 171
 00:10:05,716 --> 00:10:08,450
-you know, doing jokes to the player, I don't know.
+sai, fa scherzi al giocatore, non lo so.
 
 172
 00:10:08,783 --> 00:10:10,833
-So we thought, okay, let's go stream.
+Quindi abbiamo pensato, ok, andiamo in streaming.
 
 173
 00:10:10,833 --> 00:10:12,933
-Let's force a very strong reaction.
+Forziamo una reazione molto forte.
 
 174
 00:10:12,933 --> 00:10:16,466
-And with that we can understand what they really want.
+E con questo possiamo capire cosa vogliono veramente.
 
 175
 00:10:16,750 --> 00:10:18,150
-And in the end we got the reaction.
+E alla fine abbiamo ottenuto il risultato.
 
 176
 00:10:18,150 --> 00:10:22,466
-We got a lot of ideas from the fans, the fans showed us the way
+Abbiamo ricevuto un sacco di idee dai fan, i fan ci hanno mostrato la strada
 
 177
 00:10:22,466 --> 00:10:26,033
-and they help us to create the the
-pillars, the pillars of a Gothic Remake.
+e ci hanno aiutato a creare i
+pilastri, i pilastri di un Gothic Remake.
 
 178
 00:10:26,033 --> 00:10:30,500
-I remember four years ago creating a document with the pillars
+Ricordo che quattro anni fa ho creato un documento con i punti fissi ricavati
 
 179
 00:10:30,500 --> 00:10:34,850
-of the game review and saying, okay, those are the we can not move.
+dalle recensioni del gioco e ho detto, okay, quelli sono, non possiamo spostarli.
 
 180
 00:10:35,383 --> 00:10:38,733
-Those are the pillars of everything what we are we constructing 
-the next years.
+Questi sono i pilastri di tutto ciò che costruiremo nei prossimi anni.
 
 181
 00:10:38,733 --> 00:10:41,016
-Those are the funding pillars and it should be there.
+Questi sono i principi di funzionamento e dovrebbero restare così.
 
 182
 00:10:41,266 --> 00:10:45,966
-So for me the PT was good because, it helped
-us to define those basic pillars.
+Quindi per me il Playable Teaser è stato positivo perché ci ha aiutato
+a definire quei pilastri di base.
 
 183
 00:10:45,966 --> 00:10:46,966
-And we are here today.
+E siamo qui oggi.
 
 184
 00:10:47,133 --> 00:10:51,400
-When we started to create the real Gothic 1 Remake and got the green light to do it,
+Quando abbiamo iniziato a creare il vero Gothic 1 Remake e abbiamo avuto il via libera per farlo,
 
 185
 00:10:52,183 --> 00:10:55,350
-we set out to, or we defined that.
+ci siamo prefissati di farlo così, lo abbiamo definito.
 
 186
 00:10:55,350 --> 00:11:00,200
-First and foremost, we have to please the old Gothic fans.
+Prima di tutto, dobbiamo accontentare i vecchi fan di Gothic.
 
 187
 00:11:00,616 --> 00:11:02,966
-Because if they don't like our game,
+Perché se non gli piace il nostro gioco,
 
 188
 00:11:03,200 --> 00:11:05,300
-then this game has no right to exist.
+allora questo gioco non ha diritto di esistere.
 
 189
 00:11:05,833 --> 00:11:10,116
-I will say two things.
-The first thing is to the fans, is that I hope that they fully understand
+Dirò due cose.
+La prima cosa è per i fan, spero che capiscano appieno
 
 190
 00:11:10,266 --> 00:11:14,516
-the way we embrace the original, the way we respect and try,
+il modo in cui abbracciamo l'originale, il modo in cui rispettiamo e proviamo,
 
 191
 00:11:14,883 --> 00:11:18,783
-we are trying to honor the original, because we understand how important is this game.
+stiamo cercando di onorare l'originale, perché capiamo quanto sia importante questo gioco.
 
 192
 00:11:19,000 --> 00:11:22,000
-Well, the franchise, but Gothic 1 is special for them.
+Beh, il franchise, ma Gothic 1 è speciale per loro.
 
 193
 00:11:22,233 --> 00:11:25,800
-Sometimes I read fans telling, “Okay, I was playing this with my father
+A volte leggo fan che dicono: "Ok, ci giocavo con mio padre
 
 194
 00:11:26,566 --> 00:11:28,783
-and i will play the Remake with my son”
+e giocherò al Remake con mio figlio"
 
 195
 00:11:29,566 --> 00:11:34,483
-So I hope that they understand that we are doing this
-with passion and with all of our heart.
+Quindi spero che capiscano che lo stiamo facendo
+con passione e con tutto il nostro cuore.
 
 196
 00:11:35,050 --> 00:11:39,450
-It's the people out there that make us do what we love doing.
+Sono le persone là fuori che ci fanno fare ciò che amiamo fare.
 
 197
 00:11:39,866 --> 00:11:42,116
-It's they enable us to do that and
+Ci permettono di farlo e
 
 198
 00:11:42,116 --> 00:11:46,666
-they are kind of the other half of that,
+sono in un certo senso l'altra metà di tutto questo,
 
 199
 00:11:46,666 --> 00:11:50,500
-that world that kind of only works if the both halves come together.
+quel mondo che funziona solo se entrambe le metà si uniscono.
 
 200
 00:11:50,800 --> 00:11:55,100
-We being passionate game developers
-that pour our hearts and souls
+Siamo sviluppatori di giochi appassionati
+che mettono cuore e anima
 
 201
 00:11:55,100 --> 00:11:59,833
-into making the game and the audience
-that enjoys playing those games
+nella creazione del gioco e del pubblico
+che si diverte a giocare a quei giochi
 
 202
 00:11:59,833 --> 00:12:02,550
-and kind of keeping it to life over so many years.
+e in un certo senso lo manteniamo in vita per così tanti anni.
 
 203
 00:12:03,166 --> 00:12:08,466
-And for the future, I would like to play a Remake
-in 20 years with Arán, with my son.
+E per il futuro, mi piacerebbe giocare a un Remake,
+magari tra 20 anni con Arán, con mio figlio.
 
 204
 00:12:08,466 --> 00:12:12,100
-He is 2 years old now, but maybe in
-15 years or 16 years we can play together.
+Ha 2 anni adesso, ma forse tra 15 o 16 anni potremo giocare insieme.
 
 205
 00:12:12,100 --> 00:12:14,883
-And he says, “Okay Papa, you did this?” and I say "Yes".
+E lui potrebbe dire: "Ok papà, questo l'hai fatto tu?" e io dico "Sì".
 
 206
 00:12:14,883 --> 00:12:18,916
-But yeah, but maybe in ten years we can we can play together.
+Ma sì, ma forse tra 10 anni potremo giocarci insieme.
 
 207
 00:12:38,000 --> 00:12:39,000
@@ -860,4 +858,37 @@ Everything will be fine.
 212
 00:12:47,000 --> 00:13:00,000
 Wishlist now
+
+213
+00:00:38,174 --> 00:00:43,225
+Come viene realizzato il remake di Gothic 1
+
+214
+00:00:46,466 --> 00:00:48,900
+Capitolo I - Lo spirito di Gothic
+
+215
+00:12:42,864 --> 00:12:44,493
+L'Eroe Senza Nome - l'Eroe Senza Nome
+
+216
+00:12:44,493 --> 00:12:46,244
+23 scarafaggi sono stati danneggiati durante la creazione di questo video
+
+217
+00:12:46,244 --> 00:12:47,934
+2 stufati di scarafaggio
+sono stati consumati durante la realizzazione di questo episodio
+
+218
+00:12:47,934 --> 00:12:49,645
+Il Dormiente sta ancora dormendo
+
+219
+00:12:49,645 --> 00:12:52,253
+Andrà tutto bene.
+
+220
+00:12:52,253 --> 00:12:55,257
+Sottotitolazione Italiana a cura di Luis "CardinaleRosso" Pendin - Piranha Legacy Italia
 
