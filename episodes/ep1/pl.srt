@@ -858,3 +858,4 @@ Wszystko będzie w porządku!
 212
 00:12:52,253 --> 00:12:55,257
 Dodaj do listy życzeń
+
