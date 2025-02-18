@@ -60,7 +60,7 @@ Je to remake - přijímáme
 
 16
 00:01:13,733 --> 00:01:17,466
-a ctíme původní vizi hry a snažíme se k tomuto úkolu přistopovat 
+a ctíme původní vizi hry a snažíme se k tomuto úkolu přistupovat
 
 17
 00:01:17,466 --> 00:01:19,416
@@ -860,3 +860,4 @@ Everything will be fine.
 212
 00:12:52,253 --> 00:12:55,257
 Wishlist now
+
