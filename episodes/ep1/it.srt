@@ -15,11 +15,11 @@ era così popolare e così unico all'epoca, che penso che
 meriti un remake adeguato.
 
 5
-00:00:30,000 --> 00:00:39,000
+00:00:38,174 --> 00:00:43,225
 Creation of Gothic 1 Remake
 
 6
-00:00:40,000 --> 00:00:43,000
+00:00:46,466 --> 00:00:48,900
 Chapter I - The Spirit of Gothic
 
 7
@@ -891,4 +891,3 @@ Andrà tutto bene.
 220
 00:12:52,253 --> 00:12:55,257
 Sottotitolazione Italiana a cura di Luis "CardinaleRosso" Pendin - Piranha Legacy Italia
-
