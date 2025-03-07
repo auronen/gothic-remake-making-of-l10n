@@ -1,70 +1,70 @@
 ﻿1
 00:00:00,000 --> 00:00:05,000
-May contain content unsuitable for children. For more information on age ratings, visit esrb.org
+Poate conține materiale neadecvate pentru copii. Pentru mai multe informații privind clasificarea pe categorii de vârstă, vizitați esrb.org
 
 2
 00:00:09,150 --> 00:00:10,400
-The original Gothic
+Originalul Gothic
 
 3
 00:00:10,633 --> 00:00:14,566
-was so popular and so unique at the time, that I feel like
+a fost atât de popular și de unic la acea vreme, încât cred că
 
 4
 00:00:14,566 --> 00:00:17,466
-it deserves a proper remake.
+merită un remake ca la carte.
 
 5
 00:00:38,174 --> 00:00:43,225
-Creation of Gothic 1 Remake
+Crearea Gothic 1 Remake
 
 6
 00:00:46,466 --> 00:00:48,900
-Chapter I - The Spirit of Gothic
+Capitolul I - Spiritul Gothic
 
 7
 00:00:48,900 --> 00:00:51,000
-Our approach was first and foremost to
+Abordarea noastră a constat în primul și în primul rând în
 
 8
 00:00:51,000 --> 00:00:54,550
-respect and embrace the original vision behind the game.
+respectarea și îmbrățișarea viziunii originale din spatele jocului.
 
 9
 00:00:54,866 --> 00:00:58,950
-We studied the original vision, we tried to understand everything,
+Am studiat viziunea originală, am încercat să înțelegem totul,
 
 10
 00:00:58,950 --> 00:01:01,116
-what they were trying to say, what they were trying to convey.
+ce au încercat să spună, ce au încercat să transmită.
 
 11
 00:01:01,116 --> 00:01:04,666
-And we just thought about, okay - this is a Remake.
+Și ne-am gândit, bine, e vorba de un Remake.
 
 12
 00:01:04,800 --> 00:01:07,066
-That's the first thing that the fans should have clear,
+E primul lucru care ar trebui să fie clar pentru fani,
 
 13
 00:01:07,300 --> 00:01:10,450
-we are not trying to reinvent the wheel or to do something crazy
+nu încercăm să reinventăm roata sau să facem ceva nebunesc
 
 14
 00:01:10,616 --> 00:01:11,933
-with the Gothic franchise.
+cu franciza Gothic.
 
 15
 00:01:12,083 --> 00:01:13,733
-This is a remake - we embrace,
+Acesta este un remake. Îmbrățișăm,
 
 16
 00:01:13,733 --> 00:01:17,466
-we honor the original vision, and we just try to approach their
+respectăm viziunea originală și ne străduim să o abordăm
 
 17
 00:01:17,466 --> 00:01:19,416
-with most, with the utmost respect.
+cu cel mai mult, cu cel mai mare respect.
 
 18
 00:01:19,483 --> 00:01:22,916
@@ -860,3 +860,4 @@ Everything will be fine.
 212
 00:12:52,253 --> 00:12:55,257
 Wishlist now
+
