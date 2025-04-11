@@ -356,7 +356,7 @@ acele ocazii în care poți profita de un
 
 90
 00:05:24,750 --> 00:05:28,250
-personaj care ucide un scavenger pentru tine, astfel încât să poți ocoli ceva.
+personaj care ucide un necrofag pentru tine, astfel încât să poți ocoli ceva.
 
 91
 00:05:28,383 --> 00:05:29,383
@@ -435,7 +435,7 @@ stilurilor de luptă pe care le avea personajul tău principal.
 
 109
 00:06:32,283 --> 00:06:36,483
-Pe bune, cred că toată lumea se chinuie să lupte împotriva primului scavenger
+Pe bune, cred că toată lumea se chinuie să lupte împotriva primului necrofag
 
 110
 00:06:36,483 --> 00:06:39,483
