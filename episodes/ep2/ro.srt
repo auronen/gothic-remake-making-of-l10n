@@ -1,506 +1,506 @@
 1
 00:00:06,766 --> 00:00:10,850
-Gothic was one of the first, immersive open world RPGs.
+Gothic a fost unul dintre primele RPG-uri cu o lume deschisă care te captivează total.
 
 2
 00:00:10,983 --> 00:00:14,250
-Our job was really to find out, what element should stay
+Treaba noastră a fost într-adevăr să aflăm ce elemente ar trebui să rămână
 
 3
 00:00:14,250 --> 00:00:17,483
-exactly as they are, what element should be expanded.
+exact așa cum sunt, ce elemente ar trebui extinse.
 
 4
 00:00:17,500 --> 00:00:21,900
-Throughout the whole production we found ourselves in struggle between old and new.
+Pe parcursul întregii producții ne-am aflat într-o luptă permanentă dintre vechi și nou.
 
 5
 00:00:40,000 --> 00:00:47,000
-Making of Gothic remake
+Making of - Gothic Remake
 
 6
 00:00:49,000 --> 00:00:53,433
-Chapter II. Old vs. new
+Capitolul II. Vechi vs. Nou
 
 7
 00:00:53,433 --> 00:00:55,566
-Our approach for the story was like, hey
+Abordarea noastră pentru poveste a fost gen: Hei!...
 
 8
 00:00:55,600 --> 00:00:58,600
-the original story is actually good, but
+...povestea originală chiar e bună de fapt, dar
 
 9
 00:00:58,750 --> 00:01:00,483
-it has plot holes,
+are lipsuri în poveste,
 
 10
 00:01:00,583 --> 00:01:02,900
-it has things that are unlogical
+are lucruri ilogice
 
 11
 00:01:03,100 --> 00:01:05,350
-and it has things that are contradicting each other.
+și conține lucruri care se contrazic reciproc.
 
 12
 00:01:05,400 --> 00:01:06,983
-So our initial think was like,
+Așa că gândul nostru inițial a fost:
 
 13
 00:01:07,050 --> 00:01:10,050
-“Okay we have to set out and fix these three points.”
+„Bine, trebuie să ne potrivim și să reparăm aceste trei puncte.”
 
 14
 00:01:11,200 --> 00:01:12,783
-That was one of my first tasks,
+Asta a fost una dintre primele mele sarcini,
 
 15
 00:01:12,783 --> 00:01:17,650
-get everything that we can extract from the old games over to like Unreal,
+să aduc, tot ceea ce putem extrage din seria inițială, pentru a fi utilizat în Unreal,
 
 16
 00:01:17,683 --> 00:01:20,083
-or other tools for our designers to take a look at.
+sau în alte instrumente, pentru ca designerii noștri să arunce o privire.
 
 17
 00:01:20,183 --> 00:01:23,183
-So they can understand how the game worked,
+Pentru ca ei să înțeleagă cum a funcționat jocul,
 
 18
 00:01:23,183 --> 00:01:24,450
-like go through all the conversations,
+cum ar fi: să treci prin toate conversațiile,
 
 19
 00:01:24,450 --> 00:01:31,233
-like a tree size structure um with all the requirements, all the dependencies
+ca o structură de tip arbore cu toate cerințele, toate dependențele
 
 20
 00:01:31,233 --> 00:01:34,233
-between topics, conditions and so on.
+între subiecte, condiții și așa mai departe.
 
 21
 00:01:35,016 --> 00:01:38,200
-Together with the writing team we came up with with solutions
+Împreună cu echipa de scenariști am venit cu soluții
 
 22
 00:01:38,200 --> 00:01:40,733
-and sometimes we had heated discussions about this because
+iar uneori am avut discuţii aprinse despre asta, pentru că
 
 23
 00:01:40,783 --> 00:01:42,133
-it's getting very emotional.
+devine foarte emotionant.
 
 24
 00:01:42,383 --> 00:01:46,833
-We we didn't choose the easiest and most straightforward solution,
+Noi nu am ales cea mai ușoară și mai simplă soluție,
 
 25
 00:01:46,833 --> 00:01:51,533
-but we chose a solution that fits very well in the context of the game.
+dar am ales o soluție care se potrivește foarte bine în contextul jocului.
 
 26
 00:01:51,833 --> 00:01:54,833
-Now we have Alkimia Narrative tool, as it's called.
+Acum avem instrumentul Alkimia Narrative, așa cum se numește.
 
 27
 00:01:55,550 --> 00:02:02,700
-The tool that can handle the complexity of the original game's dialogues. The tool that can display that, handle that and you can work with it.
+Care este o unealtă ce poate gestiona complexitatea dialogurilor jocului original. Instrumentul le afișează, le manevrează în așa fel încât să poți lucra cu ele.
 
 28
 00:02:02,700 --> 00:02:08,550
-And this was the base for our designers to iterate on the original dialogues,
+Și aceasta a fost baza pentru designerii noștri pentru a repeta dialogurile originale,
 
 29
 00:02:08,800 --> 00:02:12,666
-daily routines AI states, the combat AI is implemented in there.
+rutinele zilnice, starea IA, IA-ul de luptă este implementat tot acolo.
 
 30
 00:02:13,433 --> 00:02:17,766
-All the character configuration, what interactions they can do,
+Toată configurația personajelor, interacțiunile pe care le pot face,
 
 31
 00:02:17,766 --> 00:02:20,016
-what animations they should play.
+ce animații ar trebui să deruleze.
 
 32
 00:02:20,016 --> 00:02:25,350
-It’s all in this scripting language and you can go there and modify it as you like.
+Totul este în acest limbaj de scripting și il puteți utiliza pentru a aduce modificări după cum doriți.
 
 33
 00:02:25,633 --> 00:02:28,633
-We even had at one point, a sort of running
+Am avut chiar la un moment dat, un fel de versiune funcțională
 
 34
 00:02:28,750 --> 00:02:31,250
-version of the original game in Unreal.
+a jocului original în Unreal.
 
 35
 00:02:31,266 --> 00:02:34,266
-The biggest challenge from a design perspective is
+Cea mai mare provocare din perspectiva designului este
 
 36
 00:02:34,266 --> 00:02:38,500
-the making the world feel alive and hold this work with all the systems
+de a face lumea să se simtă vie și de a menține această funționalitate cu toate sistemele
 
 37
 00:02:38,900 --> 00:02:41,900
-because in the end, we are creating a living world with a lot of characters,
+pentru că în cele din urmă, creăm o lume vie cu multe personaje,
 
 38
 00:02:41,933 --> 00:02:44,933
-but we are not just configuring the daily routines or their
+dar nu doar configuram rutinele zilnice sau
 
 39
 00:02:44,950 --> 00:02:46,500
-homes or the the kind of things.
+casele lor sau genul ăsta de lucruri.
 
 40
 00:02:46,516 --> 00:02:50,300
-This is a systemic game, so they react to the player actions,
+Acesta este un joc sistemic, așa că se reacționează la acțiunile jucătorului,
 
 41
 00:02:50,383 --> 00:02:53,383
-to the all the system, like they are witness of your crimes,
+la tot sistemul, ca și cum ar fi martori la nelegiuirile tale,
 
 42
 00:02:53,500 --> 00:02:56,500
-how you enter trespassing a forbidden area,
+cum traversezi printr-o zonă interzisă,
 
 43
 00:02:56,666 --> 00:02:59,666
-how you launch an object and they interact with that.
+cum arunci un obiect și ei interacționează cu acesta.
 
 44
 00:03:00,016 --> 00:03:03,016
-Modernizing these systems with all these the world building
+Modernizarea sistemelor cu toate astea, construirea lumii
 
 45
 00:03:03,133 --> 00:03:05,183
-and world setting and make everything works together
+și setarea lumii și de face ca totul să funcționeze împreună
 
 46
 00:03:05,350 --> 00:03:09,050
-is a really, really challenging thing for us.
+chiar este un lucru cu adevărat provocator pentru noi.
 
 47
 00:03:09,250 --> 00:03:14,200
-From a technical point of view, if you have an open world and you can go everywhere,
+Din punct de vedere tehnic, dacă ai o lume deschisă și poți merge peste tot,
 
 48
 00:03:14,333 --> 00:03:18,716
-you need to consider that the world needs to live on while the player is not there.
+trebuie să iei în considerare că această lume trebuie să continue și cât jucătorul nu este acolo.
 
 49
 00:03:18,833 --> 00:03:22,633
-We actually have for the full world the daily routines,
+Avem de fapt pentru întreaga lume rutinele zilnice,
 
 50
 00:03:22,633 --> 00:03:26,016
-the living world simulation is always going.
+avem o simulare continuă a unei lumi vii.
 
 51
 00:03:26,066 --> 00:03:30,450
-and when you come close to an to an NPC so they spawn,
+și când te apropii de un NPC, astfel încât acesta să fie generat,
 
 52
 00:03:30,616 --> 00:03:33,616
-they will be spawned where they would be if you were just standing there waiting.
+ei vor apărea acolo unde ar trebui sa fie ca și cum ați sta doar acolo așteptând.
 
 53
 00:03:34,583 --> 00:03:37,583
-For example we have this, we have the templars
+De exemplu, avem chestia asta, avem templieri
 
 54
 00:03:37,783 --> 00:03:40,333
-walking from the Sect camp to the Old mine
+mergând de la Tabăra Sectei până la Mina Veche
 
 55
 00:03:40,433 --> 00:03:43,616
-and in the original game you could never meet them in between the camps.
+iar în jocul original nu i-ai putea întâlni niciodată pe traseu, între tabere.
 
 56
 00:03:43,750 --> 00:03:47,800
-Now you can stand somewhere wait for the full day,
+Acum poți sta undeva pe traseu, să-i aștepți toată ziua,
 
 57
 00:03:47,800 --> 00:03:49,633
-yeah they will arrive at some point.
+și da, vor trece pe acolo la un moment dat.
 
 58
 00:03:49,633 --> 00:03:52,050
-Then there was the part where we kind of like set out,
+Apoi a fost partea în care ne-am propus să stabilim,
 
 59
 00:03:52,116 --> 00:03:54,283
-well, the German version is iconic
+ei bine, că versiunea în limba germană este emblematică
 
 60
 00:03:54,283 --> 00:03:57,900
-and so is probably the Polish version and the Russian version,
+și la fel este probabil versiunea în limba poloneză și versiunea în limba rusă,
 
 61
 00:03:57,900 --> 00:04:00,900
-but like the English version is actually not iconic.
+dar și că versiunea în limba engleză nu este atât de simbolică.
 
 62
 00:04:01,033 --> 00:04:04,033
-Throughout this series it kind of changed style, so that's one thing.
+Pe parcursul acestei serii s-a cam schimbat stilul, așa că ăsta ar fi un prim pas.
 
 63
 00:04:04,100 --> 00:04:09,933
-It didn't manage to translate this rough language to the entire like story.
+Nu a reușit să traducă acest limbaj dur pe parcursul întregii povești.
 
 64
 00:04:10,266 --> 00:04:13,433
-So we set out to do a rework of the English texts
+Așa că ne-am propus să reluăm textele în limba engleză
 
 65
 00:04:13,816 --> 00:04:18,600
-and that was our starting point and why that we discovered even more of these plot holes
+acesta fiind punctul nostru de plecare și motivul pentru care am descoperit și mai multe necorelări în poveste
 
 66
 00:04:18,733 --> 00:04:21,666
-and things that we need to improve and make better.
+și lucruri care necesită îmbunătățire și pe care să le facem mai bine.
 
 67
 00:04:21,750 --> 00:04:24,750
-Then there are aspects where we added things, that were just
+Apoi sunt aspecte în care am adăugat lucruri, care au fost doar
 
 68
 00:04:24,916 --> 00:04:31,450
-not touched on enough or in later chapters there's too much shortcuts
+neatinse sau nu suficient sau în capitolele dinspre final sunt prea multe comenzi rapide
 
 69
 00:04:31,550 --> 00:04:35,250
-about it or there are places in the world that are not used.
+despre asta sau există locuri în lume care nu sunt folosite.
 
 70
 00:04:35,733 --> 00:04:38,533
-The most interesting part of the Gothic Remake would be
+Cea mai interesantă parte a Gothic Remake ar fi
 
 71
 00:04:38,533 --> 00:04:41,550
-the cut content from the original game.
+conținutul tăiat din jocul original.
 
 72
 00:04:42,350 --> 00:04:45,350
-The places that were pretty empty in the original game
+Locații care erau destul de pustii în jocul original
 
 73
 00:04:45,466 --> 00:04:48,133
-and in Gothic Remake we create them
+iar în Gothic Remake le creăm
 
 74
 00:04:48,133 --> 00:04:52,866
-and put here and there new things that would enhance the experience.
+și punem ici și colo lucruri noi care să îmbunătățească experiența.
 
 75
 00:04:53,033 --> 00:04:57,033
-We try to make a little bit more interesting the dungeons
+Încercăm să facem un pic mai interesante temnițele
 
 76
 00:04:57,033 --> 00:05:01,050
-and also the way the player can get into the castle.
+și, de asemenea, modul în care jucătorul poate intra în castel.
 
 77
 00:05:01,233 --> 00:05:05,550
-It’s like very hidden and you can guess that there is
+Este, gen, foarte ascuns și poți bănui că există
 
 78
 00:05:05,550 --> 00:05:08,550
-something different there, if you go to the to the Gomez cellar.
+ceva diferit pe acolo, dacă mergi în pivnița lui Gomez.
 
 79
 00:05:09,450 --> 00:05:15,116
-One aspect about the story that I can tease here, that we kind of added
+Un aspect despre poveste pe care îl pot tachina aici, pe care l-am cam adăugat
 
 80
 00:05:15,483 --> 00:05:18,850
-and this is like the way how you interact with the Orc culture.
+și acesta ar fi modalitatea în care poți interacționa cu cultura Orcilor.
 
 81
 00:05:19,433 --> 00:05:22,733
-Which I feel like was in the original very base level, I mean you had this interaction
+Ceea ce consider că inițial era chiar undeva foarte jos, adică ai avut această interacțiune
 
 82
 00:05:23,016 --> 00:05:25,200
-with Ur-Shak and Tarrok.
+cu Ur-Shak și apoi Tarrok.
 
 83
 00:05:25,433 --> 00:05:29,716
-It was to a level where it was like “Yeah, okay it served a single purpose”
+A fost la un nivel în care era de genul „Da, bine, a servit unui singur scop”
 
 84
 00:05:29,716 --> 00:05:32,483
-and then it's like you just kill them off.
+și apoi parcă i-ai ucide.
 
 85
 00:05:32,483 --> 00:05:35,483
-But I mean the whole thing in the whole Gothic lore,
+Dar mă refer la întreaga situație în ansamblu poveștii Gothic,
 
 86
 00:05:35,483 --> 00:05:40,416
-the whole theme with the orcs is actually the reason why everything is happening.
+toată tema orcilor este, de fapt, motivul pentru care se întâmplă toată acțiunea.
 
 87
 00:05:42,250 --> 00:05:44,533
-It's the reason for why the colony exists.
+Este motivul pentru care există colonia.
 
 88
 00:05:44,550 --> 00:05:49,050
-It's the reason for why the barrier exists because without the ore mining,
+Este motivul pentru care bariera există, deoarece fără minereu,
 
 89
 00:05:49,050 --> 00:05:52,766
-which is needed for the war you would not have the need to create a barrier.
+care este necesar pentru război, nu ai avea nevoie să creezi o barieră.
 
 90
 00:05:52,783 --> 00:05:55,783
-We felt like we need to give this more space.
+Am simțit că trebuie să-i oferim ceva mai mult.
 
 91
 00:06:03,416 --> 00:06:10,333
-As I'm mostly engaged with all the content related to economy,
+Deoarece sunt în mare parte implicat în tot conținutul legat de economie,
 
 92
 00:06:10,600 --> 00:06:13,383
-what I try to do is mine the whole game.
+ceea ce încerc să fac este să extrag întreg jocul.
 
 93
 00:06:13,383 --> 00:06:15,233
-I have a model of the the original game.
+Am o machetă a jocului original.
 
 94
 00:06:15,333 --> 00:06:17,216
-Then I try to see patterns.
+Apoi încerc să văd tipare.
 
 95
 00:06:17,283 --> 00:06:20,633
-Patterns that talks to me about how, what was the original intent,
+Tipare care îmi “vorbesc“ despre cum și care a fost intenția inițială,
 
 96
 00:06:20,633 --> 00:06:23,633
-with how the economy evolved, how the progression evolved.
+despre modul în care evoluează economia, cum evoluează progresul.
 
 97
 00:06:23,966 --> 00:06:26,966
-And then I tried to see where those patterns break
+Și apoi am încercat să văd unde se “rup“ acele tipare
 
 98
 00:06:26,983 --> 00:06:31,683
-because for example in the original Gothic the economical progression,
+pentru că, de exemplu, în Gothic original, progresul economic,
 
 99
 00:06:31,683 --> 00:06:33,050
-was quite broken for the last chapters.
+a fost destul de stricat în ultimele capitole.
 
 100
 00:06:33,100 --> 00:06:35,566
-You cannot generate value from nothing.
+Nu poți genera valoare din nimic.
 
 101
 00:06:35,716 --> 00:06:38,316
-The player should not be the central bank of the economy.
+Jucătorul nu ar trebui să fie banca centrală a economiei.
 
 102
 00:06:38,533 --> 00:06:42,200
-And that also connects with the trading systems because
+Și asta se conectează și cu sistemele de tranzacționare pentru că
 
 103
 00:06:42,200 --> 00:06:44,600
-the traders in the original game were quite passive.
+negustorii din jocul original erau destul de pasivi.
 
 104
 00:06:44,766 --> 00:06:48,416
-They only regenerated their inventory and the ore between chapters.
+Doar își regenerau inventarul și minereul între capitole.
 
 105
 00:06:48,750 --> 00:06:52,150
-But we have a passive system that do some garbage collecting,
+Dar avem un sistem pasiv care face niște colectare de gunoi,
 
 106
 00:06:52,150 --> 00:06:55,150
-so some items are expansed from the economy.
+deci unele articole sunt extinse din economie.
 
 107
 00:06:55,400 --> 00:06:59,250
-Those items are managed as if they were being traded between the traders,
+Aceste articole sunt gestionate ca și cum ar fi fost tranzacționate între comercianți,
 
 108
 00:06:59,366 --> 00:07:04,683
-So those items are converted into ore so there's always liquidity in the market.
+Deci acele articole sunt transformate în minereu, astfel încât să existe întotdeauna lichiditate pe piață.
 
 109
 00:07:04,683 --> 00:07:08,966
-There's not an overabundance of materials, so we always have control
+Nu există o supraabundență de materiale, așa că avem întotdeauna controlul
 
 110
 00:07:09,116 --> 00:07:10,533
-of how much you can craft.
+de cât de mult poți crea.
 
 111
 00:07:10,716 --> 00:07:13,416
-At some point the economy will break, I mean it's a closed economy.
+La un moment dat economia se va rupe, până la urmă este o economie închisă.
 
 112
 00:07:13,700 --> 00:07:17,616
-It's it's bound to break because the only active agent is the is the character.
+Ruperea economiei este iminentă pentru că singurul agent activ este personajul.
 
 113
 00:07:17,716 --> 00:07:22,250
-But if we can delay that to the sixth chapter that would be the best case scenario.
+Dar dacă putem amâna asta până la al șaselea capitol, ar fi cel mai bun scenariu.
 
 114
 00:07:22,650 --> 00:07:25,266
-The the exploration is a key part of the game.
+Explorarea este o parte cheie a jocului.
 
 115
 00:07:25,833 --> 00:07:30,166
-This is a hard technical thing that we've been looking into,
+Acesta este un lucru tehnic destul de greu pe care l-am analizat,
 
 116
 00:07:30,200 --> 00:07:33,783
-through the whole development, such as giving the players this feeling
+pe parcursul întregii dezvoltări, cum ar fi oferirea jucătorilor acest sentiment
 
 117
 00:07:34,150 --> 00:07:37,316
-of being lost. Once it gets dark you're just lost.
+de a fi pierdut. Odată ce se întunecă, efectiv ești pierdut.
 
 118
 00:07:37,600 --> 00:07:42,450
-I mean we have a lot of places that even if it's day,
+Adică avem o mulțime de locuri în care, chiar dacă este zi,
 
 119
 00:07:42,716 --> 00:07:45,900
-you just get lost, so at night everything is super dark,
+pur și simplu te pierzi, iar noaptea totul este foarte întunecat,
 
 120
 00:07:46,033 --> 00:07:48,316
-but you still can manage your way through.
+dar încă te poți descurca.
 
 121
 00:07:48,316 --> 00:07:52,033
-You can have a lot of spells or even
+Poți avea o mulțime de vrăji sau chiar
 
 122
 00:07:52,033 --> 00:07:55,033
-your own torch that would help you go
+propria torță care te-ar ajuta să treci
 
 123
 00:07:55,166 --> 00:07:59,300
-through all these places, but definitely if you don't have a good sense of orientation
+prin toate aceste locuri, dar cu siguranță dacă nu ai un simț al orientării dezvoltat
 
 124
 00:07:59,350 --> 00:08:00,200
-you gonna get lost.
+te vei pierde.
 
 125
 00:08:00,500 --> 00:08:04,750
-Each one has its own environment and personality
+Fiecare personaj are propriul mediu și personalitate
 
 126
 00:08:04,750 --> 00:08:06,783
-because all the characters
+pentru că toate personajele
 
 127
 00:08:06,783 --> 00:08:09,366
