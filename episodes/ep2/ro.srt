@@ -12,7 +12,7 @@ exact așa cum sunt, ce elemente ar trebui extinse.
 
 4
 00:00:17,500 --> 00:00:21,900
-Pe parcursul întregii producții ne-am aflat într-o luptă permanentă dintre vechi și nou.
+Pe parcursul întregii producții ne-am aflat într-o luptă permanentă între vechi și nou.
 
 5
 00:00:40,000 --> 00:00:47,000
@@ -496,7 +496,7 @@ te vei pierde.
 
 125
 00:08:00,500 --> 00:08:04,750
-Fiecare personaj are propriul mediu și personalitate
+Fiecare personaj are propriul său mediu și personalitate
 
 126
 00:08:04,750 --> 00:08:06,783
@@ -504,362 +504,363 @@ pentru că toate personajele
 
 127
 00:08:06,783 --> 00:08:09,366
-in each camp are unique in one way or another.
+din fiecare tabără, sunt unice într-un fel sau altul.
 
 128
 00:08:09,366 --> 00:08:12,533
-But in the end, when you keep on walking around the world you can see
+Dar până la urmă, când continui să te plimbi prin lume poți vedea
 
 129
 00:08:12,533 --> 00:08:14,483
-that all the camps are somehow connected,
+că toate taberele sunt cumva legate,
 
 130
 00:08:14,483 --> 00:08:17,533
-characters move from one place to another
+personajele se deplasează dintr-un loc în altul
 
 131
 00:08:17,716 --> 00:08:22,500
-and the stories are interrelated among them.
+iar poveștile sunt interconectate între ele.
 
 132
 00:08:22,616 --> 00:08:30,233
-The main idea we have regarding hoarding is to force the player to consume items.
+Ideea principală pe care o avem în ceea ce privește stocarea masivă este de a forța jucătorul să consume articole.
 
 133
 00:08:30,750 --> 00:08:35,716
-Be it because the combat is difficult, be it because there is some dynamics
+Fie pentru că lupta este dificilă, fie pentru că există o dinamică
 
 134
 00:08:35,733 --> 00:08:38,733
-that require the use of those items evidently.
+care necesită în mod evident utilizarea acelor articole.
 
 135
 00:08:38,900 --> 00:08:44,183
-There is a problem with all open world RPGs, that it tends to be an
+Există o problemă cu toate RPG-urile cu lume deschisă, că tinde să fie un
 
 136
 00:08:44,183 --> 00:08:47,383
-overabundance of items because you don't know where the player is going to be,
+o supraabundență de articole pentru că nu știi pe unde va trece jucătorul,
 
 137
 00:08:47,466 --> 00:08:51,733
-where the player is going to look at and you must guarantee a minimum viable
+sau unde are de gând să caute, și trebuie să garantezi totuși un minim viabil
 
 138
 00:08:51,766 --> 00:08:55,833
-amount of utility for the player to overcome the challenges.
+al articolelor de utilitate, astfel încât jucătorul să poată depăși provocările.
 
 139
 00:08:56,233 --> 00:09:05,683
-So if you have a very serious player that loots everything and it's a hoarder by nature,
+Deci, dacă ai un jucător foarte serios care jefuiește totul și este un colecționar prin fire,
 
 140
 00:09:05,883 --> 00:09:10,083
-we won't be able to combat that, but at least uh the design
+nu vom putea combate asta, dar cel puțin designul
 
 141
 00:09:10,166 --> 00:09:18,266
-will try to put the player in situations that force them to use the items they have.
+va încerca să pună jucătorul în situații care îl obligă să folosească obiectele pe care le are.
 
 142
 00:09:24,883 --> 00:09:27,016
-With RPGs you tend to spend a lot of time.
+În RPG-uri ai tendința de a petrece mult timp.
 
 143
 00:09:27,016 --> 00:09:30,983
-In a lot of games you actually get tired of the music at some point,
+Iar în multe jocuri chiar te saturi de aceeași muzică la un moment dat,
 
 144
 00:09:31,050 --> 00:09:37,183
-but in Gothic you never get tired, which is also related to the system that they used back in the day.
+dar în Gothic nu te plictisești niciodată, ceea ce este legat și de sistemul pe care îl foloseau pe vremuri.
 
 145
 00:09:37,450 --> 00:09:40,750
-There wasn't kind of like a master track, that they would just play back.
+Nu era un fel de piesă principală, pe care să o redea.
 
 146
 00:09:40,833 --> 00:09:45,333
-It would kind of like layers that depending on what happens in the game world,
+Avea un fel de straturi care, în funcție de ceea ce se întâmplă în lumea jocului,
 
 147
 00:09:45,333 --> 00:09:49,983
-it would play different cues, so it kind of like always felt different.
+derula repere diferite, drept urmare s-a simțit întotdeauna diferit.
 
 148
 00:09:50,283 --> 00:09:55,766
-So my main priority when making music is - I want to be
-a messenger of emotions.
+Așa că prioritatea mea principală când fac muzică este: vreau să fiu -
+Un mesager al emoțiilor.
 
 149
 00:09:56,000 --> 00:09:58,733
-I want to understand, as the composer I want to understand
+Vreau să înțeleg, ca și compozitor, vreau să înțeleg
 
 150
 00:09:59,050 --> 00:10:02,683
-the emotional message that is in every single scene in the game.
+mesajul emoțional care se află în fiecare scenă a jocului.
 
 151
 00:10:02,950 --> 00:10:08,133
-And I want to be able to kind of push the emotional impact on the player.
+Și vreau să pot să împing impactul emoțional asupra jucătorului.
 
 152
 00:10:08,133 --> 00:10:13,083
-It adds a certain depth to the game because you can actually feel what's going on and it
+Adaugă o anumită profunzime jocului, deoarece poți simți de fapt ce se întâmplă și asta
 
 153
 00:10:13,366 --> 00:10:17,616
-doesn't just work as like background music, but also as its own aspect to the
+nu funcționează doar ca muzica de fundal, ci și ca aspect propriu al
 
 154
 00:10:17,650 --> 00:10:18,916
-emotional landscapes.
+decorului emoțional.
 
 155
 00:10:19,050 --> 00:10:21,533
-You can imagine it as painting pictures.
+Vă puteți imagina ca și o pictură.
 
 156
 00:10:21,566 --> 00:10:24,016
-So I imagine a situation for example,
+Așa că îmi imaginez o situație, de exemplu,
 
 157
 00:10:24,383 --> 00:10:27,383
-where there's a sense of determination and adventure.
+unde există un sentiment de determinare și aventură.
 
 158
 00:10:27,783 --> 00:10:31,366
-Then I try to come up with an image that represents that.
+Apoi încerc să vin cu o imagine care să reprezinte asta.
 
 159
 00:10:31,683 --> 00:10:36,150
-Sometimes I do abstract drawings, sometimes I pick something from from the internet
+Uneori fac desene abstracte, alteori aleg ceva de pe internet
 
 160
 00:10:36,516 --> 00:10:39,516
-and then I look at all those individual visual elements
+și apoi mă uit la toate acele elemente vizuale individuale
 
 161
 00:10:40,000 --> 00:10:42,666
-and try to come up with music ideas for those.
+și încerc să vin cu idei muzicale pentru acestea.
 
 162
 00:10:42,950 --> 00:10:45,950
-So for example if I have a strong, key image
+Deci, de exemplu, dacă am o imagine puternică, cheie
 
 163
 00:10:46,250 --> 00:10:49,733
-in the center of my abstract painting for example,
+în centrul picturii mele abstracte, de exemplu,
 
 164
 00:10:50,300 --> 00:10:55,766
-I try to get an idea of what instrument could represent that specific part of the picture.
+Încerc să îmi fac o idee despre ce instrument ar putea reprezenta acea parte specifică a imaginii.
 
 165
 00:10:56,233 --> 00:10:59,233
-And then I just play around with it,
+Și apoi doar mă joc cu ea,
 
 166
 00:10:59,300 --> 00:11:03,400
-I experiment with different melodic ideas, with different harmonies and through
+Experimentez cu diferite idei melodice, cu diferite armonii și prin
 
 167
 00:11:03,750 --> 00:11:07,783
-lots of iteration and tinkering around in my software I come to the final result.
+o mulțime de iterații și de reparații în software-ul meu ajung la rezultatul final.
 
 168
 00:11:08,583 --> 00:11:13,616
-I'm most excited actually to get the new or the extended abilities
+De fapt, sunt cel mai încântat să pun abilități noi sau extinse
 
 169
 00:11:13,850 --> 00:11:17,316
-in the hands of the players, So we've spent a lot of time
+în mâinile jucătorilor.
+Așa că am petrecut mult timp
 
 170
 00:11:17,400 --> 00:11:22,350
-analyzing like, what sort of abilities actually don't fulfill the true vision
+analizând ce fel de abilități de fapt nu îndeplinesc adevărata viziune
 
 171
 00:11:22,633 --> 00:11:25,016
-of what it could make sense in the world of Gothic.
+a ceea ce ar putea avea sens în lumea Gothic.
 
 172
 00:11:25,150 --> 00:11:29,083
-We’ve teased some of it a little bit in the gameplay reveal
+Am tachinat cu o parte din el în dezvăluirea gameplay-ului
 
 173
 00:11:29,333 --> 00:11:33,483
-with the climbing, will add another dimension and it's similar
+odată cu cățărarea, se va adăuga o altă dimensiune și este asemănător
 
 174
 00:11:33,533 --> 00:11:36,533
-actually to the climbing in Zelda, but it's obviously kind of like
+de fapt, cu cățărarea din Zelda, dar este, evident, că am
 
 175
 00:11:36,583 --> 00:11:39,200
-limited to certain areas of the game.
+limitat la anumite zone ale jocului.
 
 176
 00:11:39,716 --> 00:11:41,933
-And then another thing like we’ve teased, like
+Și apoi un alt lucru pe care l-am tachinat, cum ar fi
 
 177
 00:11:41,933 --> 00:11:47,683
-first of all we try to kind of like make some interesting underwater path and locations.
+în primul rând, încercăm să facem niște trasee și locații subacvatice interesante.
 
 178
 00:11:47,683 --> 00:11:54,050
-So there's a lot to explore there, but also diving is a proper like skill that you need to learn
+Deci sunt multe de explorat acolo, dar și scufundarea este o abilitate asemănătoare pe care trebuie să o înveți
 
 179
 00:11:54,133 --> 00:11:55,300
-and get better on.
+si să devii mai bun.
 
 180
 00:11:55,466 --> 00:11:59,150
-You can also like interact with objects underwater, which is pretty cool,
+De asemenea, vei putea să interacționezi cu obiecte sub apă, ceea ce este destul de mișto,
 
 181
 00:11:59,266 --> 00:12:02,266
-so you can pick up loot, you can interact with stuff.
+astfel încât să puteți colecta articole, să puteți interacționa cu lucruri.
 
 182
 00:12:02,466 --> 00:12:07,316
-So that's that's all stuff that I feel like, I'm proud that we did it,
+Așa că astea sunt toate lucrurile pe care le simt, sunt mândru că am făcut-o,
 
 183
 00:12:07,516 --> 00:12:09,883
-like that we don't just copy the original.
+în așa fel încât nu am copiat doar originalul.
 
 184
 00:12:10,550 --> 00:12:13,916
-Most of the materials will be used for different crafting stations,
+Majoritatea materialelor vor fi folosite pentru diferite bancuri de lucru,
 
 185
 00:12:14,383 --> 00:12:17,083
-so alchemy, cooking, whatever.
+deci alchimie, gătit, orice.
 
 186
 00:12:17,416 --> 00:12:20,416
-The idea is that those recipes will evolve with the player,
+Ideea este că acele rețete vor evolua odată cu jucătorul,
 
 187
 00:12:20,533 --> 00:12:24,683
-so if the player invests points in that those recipes will become useful.
+deci dacă jucătorul investește puncte în asta, rețetele vor deveni utile.
 
 188
 00:12:25,133 --> 00:12:29,766
-Across the gameplay and also there is an important thing that even
+Pe parcursul jocului, există un lucru important care chiar și
 
 189
 00:12:29,933 --> 00:12:32,933
-if you don't have immediate utility for that
+dacă nu ai utilitate imediată pentru acea
 
 190
 00:12:33,216 --> 00:12:40,550
-recipe at that moment, the act of crafting has an inherent value in
+rețetă în acel moment, actul de a lucra are o valoare inerentă în
 
 191
 00:12:40,550 --> 00:12:43,550
-reducing the abundance of materials in your inventory
+reducerea abundenței materialelor din inventarul tău
 
 192
 00:12:43,816 --> 00:12:46,566
-and gaining a bit of ore from the process.
+și obținerea de ceva minereu din proces.
 
 193
 00:12:46,800 --> 00:12:51,866
-So you spend time in and you gain a lot of utility in ore.
+Deci investești timp și câștigi o utilitate în minereu.
 
 194
 00:12:52,150 --> 00:12:55,150
-And there's things I'm sure there are things that are controversial,
+Și sunt chestii despre care sunt sigur că sunt lucruri controversate,
 
 195
 00:12:55,300 --> 00:12:59,650
-that people are like "Well you’re contradicting what the original set out".
+că oamenii sunt de genul „Ei bine, contraziceți ceea ce a stabilit originalul”.
 
 196
 00:13:00,066 --> 00:13:04,900
-We tried to limit these things and we wanted to be extra sure that like,
+Am încercat să limităm aceste lucruri și am vrut să fim extra siguri că
 
 197
 00:13:04,983 --> 00:13:07,116
-our solution is actually better.
+soluția noastră este de fapt mai bună.
 
 198
 00:13:07,266 --> 00:13:08,750
-We cannot please everybody.
+Nu putem mulțumi pe toată lumea.
 
 199
 00:13:08,800 --> 00:13:13,433
-We hope that players look at it give it a try to understand our motivation
+Sperăm ca jucătorii să-și arunce o privire și să încerce să ne înțeleagă motivația
 
 200
 00:13:13,766 --> 00:13:18,650
-And I'm happy to talk through about this after the game is out
+Și mă bucur să vorbesc despre asta după ce jocul va fi lansat
 
 201
 00:13:18,683 --> 00:13:21,683
-and give detailed reason for why we did the way we did.
+și să dau motivele detaliate pentru care am procedat așa cum am procedat.
 
 202
 00:13:21,816 --> 00:13:24,816
-Obviously I don't want to spoil things.
+Evident că nu vreau să stric lucrurile.
 
 203
 00:13:25,100 --> 00:13:29,916
-Our approach of coping with this struggle between old and new was
+Abordarea noastră, de a face față acestei lupte între vechi și nou, a fost
 
 204
 00:13:30,150 --> 00:13:35,783
-being practical and finding a certain baseline, that is always within the
+practic și găsirea unei anumite linii de bază, care este întotdeauna în
 
 205
 00:13:35,883 --> 00:13:38,883
-Gothic vision and especially close to the original.
+viziunea Gothic și mai ales apropiată de original.
 
 206
 00:13:39,000 --> 00:13:42,000
-We can't wait to hear what you think about this.
+Abia așteptăm să auzim ce părere aveți despre asta.
 
 207
 00:13:42,450 --> 00:13:44,616
-I mean for us we are not done with it.
+Adică pentru noi, vreau să spun că nu am terminat cu asta.
 
 208
 00:13:44,616 --> 00:13:47,616
-I mean, like getting started.
+Adică, abia am început.
 
 209
 00:13:58,460 --> 00:14:00,140
-(Spanish.) Good morning, Gothic fans!
+(Spaniolă.) Bună dimineața, fani Gothic!
 
 210
 00:14:00,140 --> 00:14:02,070
-It's not (yet) time to go hunt some boar
+Nu este (încă) timpul să mergem la vânătoare de mistreți
 
 211
 00:14:02,070 --> 00:14:04,110
-Kai when finalizing the sound for this video "Just a little second more!"
+Kai la finalizarea sunetului pentru acest videoclip „Încă o secundă!”
 
 212
 00:14:04,110 --> 00:14:05,390
-We are just here to crawl in "Gomez" ass
+Suntem aici doar să ne târâm în fundul lui "Gomez".
 
 213
 00:14:05,390 --> 00:14:06,510
-After this video I need to buy another SSD, again!
+După acest videoclip trebuie să cumpăr un alt SSD, din nou!
 
 214
 00:14:06,510 --> 00:14:08,190
-Gomez knows nothing... yet
+Gomez nu știe nimic... încă
 
 215
 00:14:08,190 --> 00:14:10,000
-May the sleeper awaken!
+Fie ca Adormitul să se trezească!
 
 216
 00:14:10,000 --> 00:14:22,000
-Wishlist now!
+Adaugă GOTHIC REMAKE în lista de dorințe ACUM!
 
