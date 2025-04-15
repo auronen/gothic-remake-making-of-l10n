@@ -1,0 +1,864 @@
+1
+00:00:06,766 --> 00:00:10,850
+Gothic was one of the first, immersive open world RPGs.
+
+2
+00:00:10,983 --> 00:00:14,250
+Our job was really to find out, what element should stay
+
+3
+00:00:14,250 --> 00:00:17,483
+exactly as they are, what element should be expanded.
+
+4
+00:00:17,500 --> 00:00:21,900
+Throughout the whole production we found ourselves in struggle between old and new.
+
+5
+00:00:40,000 --> 00:00:47,000
+Making of Gothic remake
+
+6
+00:00:49,000 --> 00:00:53,433
+Chapter II. Old vs. new
+
+7
+00:00:53,433 --> 00:00:55,566
+Our approach for the story was like, hey
+
+8
+00:00:55,600 --> 00:00:58,600
+the original story is actually good, but
+
+9
+00:00:58,750 --> 00:01:00,483
+it has plot holes,
+
+10
+00:01:00,583 --> 00:01:02,900
+it has things that are unlogical
+
+11
+00:01:03,100 --> 00:01:05,350
+and it has things that are contradicting each other.
+
+12
+00:01:05,400 --> 00:01:06,983
+So our initial think was like,
+
+13
+00:01:07,050 --> 00:01:10,050
+“Okay we have to set out and fix these three points.”
+
+14
+00:01:11,200 --> 00:01:12,783
+That was one of my first tasks,
+
+15
+00:01:12,783 --> 00:01:17,650
+get everything that we can extract from the old games over to like Unreal,
+
+16
+00:01:17,683 --> 00:01:20,083
+or other tools for our designers to take a look at.
+
+17
+00:01:20,183 --> 00:01:23,183
+So they can understand how the game worked,
+
+18
+00:01:23,183 --> 00:01:24,450
+like go through all the conversations,
+
+19
+00:01:24,450 --> 00:01:31,233
+like a tree size structure um with all the requirements, all the dependencies
+
+20
+00:01:31,233 --> 00:01:34,233
+between topics, conditions and so on.
+
+21
+00:01:35,016 --> 00:01:38,200
+Together with the writing team we came up with with solutions
+
+22
+00:01:38,200 --> 00:01:40,733
+and sometimes we had heated discussions about this because
+
+23
+00:01:40,783 --> 00:01:42,133
+it's getting very emotional.
+
+24
+00:01:42,383 --> 00:01:46,833
+We we didn't choose the easiest and most straightforward solution,
+
+25
+00:01:46,833 --> 00:01:51,533
+but we chose a solution that fits very well in the context of the game.
+
+26
+00:01:51,833 --> 00:01:54,833
+Now we have Alkimia Narrative tool, as it's called.
+
+27
+00:01:55,550 --> 00:02:02,700
+The tool that can handle the complexity of the original game's dialogues. The tool that can display that, handle that and you can work with it.
+
+28
+00:02:02,700 --> 00:02:08,550
+And this was the base for our designers to iterate on the original dialogues,
+
+29
+00:02:08,800 --> 00:02:12,666
+daily routines AI states, the combat AI is implemented in there.
+
+30
+00:02:13,433 --> 00:02:17,766
+All the character configuration, what interactions they can do,
+
+31
+00:02:17,766 --> 00:02:20,016
+what animations they should play.
+
+32
+00:02:20,016 --> 00:02:25,350
+It’s all in this scripting language and you can go there and modify it as you like.
+
+33
+00:02:25,633 --> 00:02:28,633
+We even had at one point, a sort of running
+
+34
+00:02:28,750 --> 00:02:31,250
+version of the original game in Unreal.
+
+35
+00:02:31,266 --> 00:02:34,266
+The biggest challenge from a design perspective is
+
+36
+00:02:34,266 --> 00:02:38,500
+the making the world feel alive and hold this work with all the systems
+
+37
+00:02:38,900 --> 00:02:41,900
+because in the end, we are creating a living world with a lot of characters,
+
+38
+00:02:41,933 --> 00:02:44,933
+but we are not just configuring the daily routines or their
+
+39
+00:02:44,950 --> 00:02:46,500
+homes or the the kind of things.
+
+40
+00:02:46,516 --> 00:02:50,300
+This is a systemic game, so they react to the player actions,
+
+41
+00:02:50,383 --> 00:02:53,383
+to the all the system, like they are witness of your crimes,
+
+42
+00:02:53,500 --> 00:02:56,500
+how you enter trespassing a forbidden area,
+
+43
+00:02:56,666 --> 00:02:59,666
+how you launch an object and they interact with that.
+
+44
+00:03:00,016 --> 00:03:03,016
+Modernizing these systems with all these the world building
+
+45
+00:03:03,133 --> 00:03:05,183
+and world setting and make everything works together
+
+46
+00:03:05,350 --> 00:03:09,050
+is a really, really challenging thing for us.
+
+47
+00:03:09,250 --> 00:03:14,200
+From a technical point of view, if you have an open world and you can go everywhere,
+
+48
+00:03:14,333 --> 00:03:18,716
+you need to consider that the world needs to live on while the player is not there.
+
+49
+00:03:18,833 --> 00:03:22,633
+We actually have for the full world the daily routines,
+
+50
+00:03:22,633 --> 00:03:26,016
+the living world simulation is always going.
+
+51
+00:03:26,066 --> 00:03:30,450
+and when you come close to an to an NPC so they spawn,
+
+52
+00:03:30,616 --> 00:03:33,616
+they will be spawned where they would be if you were just standing there waiting.
+
+53
+00:03:34,583 --> 00:03:37,583
+For example we have this, we have the templars
+
+54
+00:03:37,783 --> 00:03:40,333
+walking from the Sect camp to the Old mine
+
+55
+00:03:40,433 --> 00:03:43,616
+and in the original game you could never meet them in between the camps.
+
+56
+00:03:43,750 --> 00:03:47,800
+Now you can stand somewhere wait for the full day,
+
+57
+00:03:47,800 --> 00:03:49,633
+yeah they will arrive at some point.
+
+58
+00:03:49,633 --> 00:03:52,050
+Then there was the part where we kind of like set out,
+
+59
+00:03:52,116 --> 00:03:54,283
+well, the German version is iconic
+
+60
+00:03:54,283 --> 00:03:57,900
+and so is probably the Polish version and the Russian version,
+
+61
+00:03:57,900 --> 00:04:00,900
+but like the English version is actually not iconic.
+
+62
+00:04:01,033 --> 00:04:04,033
+Throughout this series it kind of changed style, so that's one thing.
+
+63
+00:04:04,100 --> 00:04:09,933
+It didn't manage to translate this rough language to the entire like story.
+
+64
+00:04:10,266 --> 00:04:13,433
+So we set out to do a rework of the English texts
+
+65
+00:04:13,816 --> 00:04:18,600
+and that was our starting point and why that we discovered even more of these plot holes
+
+66
+00:04:18,733 --> 00:04:21,666
+and things that we need to improve and make better.
+
+67
+00:04:21,750 --> 00:04:24,750
+Then there are aspects where we added things, that were just
+
+68
+00:04:24,916 --> 00:04:31,450
+not touched on enough or in later chapters there's too much shortcuts
+
+69
+00:04:31,550 --> 00:04:35,250
+about it or there are places in the world that are not used.
+
+70
+00:04:35,733 --> 00:04:38,533
+The most interesting part of the Gothic Remake would be
+
+71
+00:04:38,533 --> 00:04:41,550
+the cut content from the original game.
+
+72
+00:04:42,350 --> 00:04:45,350
+The places that were pretty empty in the original game
+
+73
+00:04:45,466 --> 00:04:48,133
+and in Gothic Remake we create them
+
+74
+00:04:48,133 --> 00:04:52,866
+and put here and there new things that would enhance the experience.
+
+75
+00:04:53,033 --> 00:04:57,033
+We try to make a little bit more interesting the dungeons
+
+76
+00:04:57,033 --> 00:05:01,050
+and also the way the player can get into the castle.
+
+77
+00:05:01,233 --> 00:05:05,550
+It’s like very hidden and you can guess that there is
+
+78
+00:05:05,550 --> 00:05:08,550
+something different there, if you go to the to the Gomez cellar.
+
+79
+00:05:09,450 --> 00:05:15,116
+One aspect about the story that I can tease here, that we kind of added
+
+80
+00:05:15,483 --> 00:05:18,850
+and this is like the way how you interact with the Orc culture.
+
+81
+00:05:19,433 --> 00:05:22,733
+Which I feel like was in the original very base level, I mean you had this interaction
+
+82
+00:05:23,016 --> 00:05:25,200
+with Ur-Shak and Tarrok.
+
+83
+00:05:25,433 --> 00:05:29,716
+It was to a level where it was like “Yeah, okay it served a single purpose”
+
+84
+00:05:29,716 --> 00:05:32,483
+and then it's like you just kill them off.
+
+85
+00:05:32,483 --> 00:05:35,483
+But I mean the whole thing in the whole Gothic lore,
+
+86
+00:05:35,483 --> 00:05:40,416
+the whole theme with the orcs is actually the reason why everything is happening.
+
+87
+00:05:42,250 --> 00:05:44,533
+It's the reason for why the colony exists.
+
+88
+00:05:44,550 --> 00:05:49,050
+It's the reason for why the barrier exists because without the ore mining,
+
+89
+00:05:49,050 --> 00:05:52,766
+which is needed for the war you would not have the need to create a barrier.
+
+90
+00:05:52,783 --> 00:05:55,783
+We felt like we need to give this more space.
+
+91
+00:06:03,416 --> 00:06:10,333
+As I'm mostly engaged with all the content related to economy,
+
+92
+00:06:10,600 --> 00:06:13,383
+what I try to do is mine the whole game.
+
+93
+00:06:13,383 --> 00:06:15,233
+I have a model of the the original game.
+
+94
+00:06:15,333 --> 00:06:17,216
+Then I try to see patterns.
+
+95
+00:06:17,283 --> 00:06:20,633
+Patterns that talks to me about how, what was the original intent,
+
+96
+00:06:20,633 --> 00:06:23,633
+with how the economy evolved, how the progression evolved.
+
+97
+00:06:23,966 --> 00:06:26,966
+And then I tried to see where those patterns break
+
+98
+00:06:26,983 --> 00:06:31,683
+because for example in the original Gothic the economical progression,
+
+99
+00:06:31,683 --> 00:06:33,050
+was quite broken for the last chapters.
+
+100
+00:06:33,100 --> 00:06:35,566
+You cannot generate value from nothing.
+
+101
+00:06:35,716 --> 00:06:38,316
+The player should not be the central bank of the economy.
+
+102
+00:06:38,533 --> 00:06:42,200
+And that also connects with the trading systems because
+
+103
+00:06:42,200 --> 00:06:44,600
+the traders in the original game were quite passive.
+
+104
+00:06:44,766 --> 00:06:48,416
+They only regenerated their inventory and the ore between chapters.
+
+105
+00:06:48,750 --> 00:06:52,150
+But we have a passive system that do some garbage collecting,
+
+106
+00:06:52,150 --> 00:06:55,150
+so some items are expansed from the economy.
+
+107
+00:06:55,400 --> 00:06:59,250
+Those items are managed as if they were being traded between the traders,
+
+108
+00:06:59,366 --> 00:07:04,683
+So those items are converted into ore so there's always liquidity in the market.
+
+109
+00:07:04,683 --> 00:07:08,966
+There's not an overabundance of materials, so we always have control
+
+110
+00:07:09,116 --> 00:07:10,533
+of how much you can craft.
+
+111
+00:07:10,716 --> 00:07:13,416
+At some point the economy will break, I mean it's a closed economy.
+
+112
+00:07:13,700 --> 00:07:17,616
+It's it's bound to break because the only active agent is the is the character.
+
+113
+00:07:17,716 --> 00:07:22,250
+But if we can delay that to the sixth chapter that would be the best case scenario.
+
+114
+00:07:22,650 --> 00:07:25,266
+The the exploration is a key part of the game.
+
+115
+00:07:25,833 --> 00:07:30,166
+This is a hard technical thing that we've been looking into,
+
+116
+00:07:30,200 --> 00:07:33,783
+through the whole development, such as giving the players this feeling
+
+117
+00:07:34,150 --> 00:07:37,316
+of being lost. Once it gets dark you're just lost.
+
+118
+00:07:37,600 --> 00:07:42,450
+I mean we have a lot of places that even if it's day,
+
+119
+00:07:42,716 --> 00:07:45,900
+you just get lost, so at night everything is super dark,
+
+120
+00:07:46,033 --> 00:07:48,316
+but you still can manage your way through.
+
+121
+00:07:48,316 --> 00:07:52,033
+You can have a lot of spells or even
+
+122
+00:07:52,033 --> 00:07:55,033
+your own torch that would help you go
+
+123
+00:07:55,166 --> 00:07:59,300
+through all these places, but definitely if you don't have a good sense of orientation
+
+124
+00:07:59,350 --> 00:08:00,200
+you gonna get lost.
+
+125
+00:08:00,500 --> 00:08:04,750
+Each one has its own environment and personality
+
+126
+00:08:04,750 --> 00:08:06,783
+because all the characters
+
+127
+00:08:06,783 --> 00:08:09,366
+in each camp are unique in one way or another.
+
+128
+00:08:09,366 --> 00:08:12,533
+But in the end, when you keep on walking around the world you can see
+
+129
+00:08:12,533 --> 00:08:14,483
+that all the camps are somehow connected,
+
+130
+00:08:14,483 --> 00:08:17,533
+characters move from one place to another
+
+131
+00:08:17,716 --> 00:08:22,500
+and the stories are interrelated among them.
+
+132
+00:08:22,616 --> 00:08:30,233
+The main idea we have regarding hoarding is to force the player to consume items.
+
+133
+00:08:30,750 --> 00:08:35,716
+Be it because the combat is difficult, be it because there is some dynamics
+
+134
+00:08:35,733 --> 00:08:38,733
+that require the use of those items evidently.
+
+135
+00:08:38,900 --> 00:08:44,183
+There is a problem with all open world RPGs, that it tends to be an
+
+136
+00:08:44,183 --> 00:08:47,383
+overabundance of items because you don't know where the player is going to be,
+
+137
+00:08:47,466 --> 00:08:51,733
+where the player is going to look at and you must guarantee a minimum viable
+
+138
+00:08:51,766 --> 00:08:55,833
+amount of utility for the player to overcome the challenges.
+
+139
+00:08:56,233 --> 00:09:05,683
+So if you have a very serious player that loots everything and it's a hoarder by nature,
+
+140
+00:09:05,883 --> 00:09:10,083
+we won't be able to combat that, but at least uh the design
+
+141
+00:09:10,166 --> 00:09:18,266
+will try to put the player in situations that force them to use the items they have.
+
+142
+00:09:24,883 --> 00:09:27,016
+With RPGs you tend to spend a lot of time.
+
+143
+00:09:27,016 --> 00:09:30,983
+In a lot of games you actually get tired of the music at some point,
+
+144
+00:09:31,050 --> 00:09:37,183
+but in Gothic you never get tired, which is also related to the system that they used back in the day.
+
+145
+00:09:37,450 --> 00:09:40,750
+There wasn't kind of like a master track, that they would just play back.
+
+146
+00:09:40,833 --> 00:09:45,333
+It would kind of like layers that depending on what happens in the game world,
+
+147
+00:09:45,333 --> 00:09:49,983
+it would play different cues, so it kind of like always felt different.
+
+148
+00:09:50,283 --> 00:09:55,766
+So my main priority when making music is - I want to be
+a messenger of emotions.
+
+149
+00:09:56,000 --> 00:09:58,733
+I want to understand, as the composer I want to understand
+
+150
+00:09:59,050 --> 00:10:02,683
+the emotional message that is in every single scene in the game.
+
+151
+00:10:02,950 --> 00:10:08,133
+And I want to be able to kind of push the emotional impact on the player.
+
+152
+00:10:08,133 --> 00:10:13,083
+It adds a certain depth to the game because you can actually feel what's going on and it
+
+153
+00:10:13,366 --> 00:10:17,616
+doesn't just work as like background music, but also as its own aspect to the
+
+154
+00:10:17,650 --> 00:10:18,916
+emotional landscapes.
+
+155
+00:10:19,050 --> 00:10:21,533
+You can imagine it as painting pictures.
+
+156
+00:10:21,566 --> 00:10:24,016
+So I imagine a situation for example,
+
+157
+00:10:24,383 --> 00:10:27,383
+where there's a sense of determination and adventure.
+
+158
+00:10:27,783 --> 00:10:31,366
+Then I try to come up with an image that represents that.
+
+159
+00:10:31,683 --> 00:10:36,150
+Sometimes I do abstract drawings, sometimes I pick something from from the internet
+
+160
+00:10:36,516 --> 00:10:39,516
+and then I look at all those individual visual elements
+
+161
+00:10:40,000 --> 00:10:42,666
+and try to come up with music ideas for those.
+
+162
+00:10:42,950 --> 00:10:45,950
+So for example if I have a strong, key image
+
+163
+00:10:46,250 --> 00:10:49,733
+in the center of my abstract painting for example,
+
+164
+00:10:50,300 --> 00:10:55,766
+I try to get an idea of what instrument could represent that specific part of the picture.
+
+165
+00:10:56,233 --> 00:10:59,233
+And then I just play around with it,
+
+166
+00:10:59,300 --> 00:11:03,400
+I experiment with different melodic ideas, with different harmonies and through
+
+167
+00:11:03,750 --> 00:11:07,783
+lots of iteration and tinkering around in my software I come to the final result.
+
+168
+00:11:08,583 --> 00:11:13,616
+I'm most excited actually to get the new or the extended abilities
+
+169
+00:11:13,850 --> 00:11:17,316
+in the hands of the players, So we've spent a lot of time
+
+170
+00:11:17,400 --> 00:11:22,350
+analyzing like, what sort of abilities actually don't fulfill the true vision
+
+171
+00:11:22,633 --> 00:11:25,016
+of what it could make sense in the world of Gothic.
+
+172
+00:11:25,150 --> 00:11:29,083
+We’ve teased some of it a little bit in the gameplay reveal
+
+173
+00:11:29,333 --> 00:11:33,483
+with the climbing, will add another dimension and it's similar
+
+174
+00:11:33,533 --> 00:11:36,533
+actually to the climbing in Zelda, but it's obviously kind of like
+
+175
+00:11:36,583 --> 00:11:39,200
+limited to certain areas of the game.
+
+176
+00:11:39,716 --> 00:11:41,933
+And then another thing like we’ve teased, like
+
+177
+00:11:41,933 --> 00:11:47,683
+first of all we try to kind of like make some interesting underwater path and locations.
+
+178
+00:11:47,683 --> 00:11:54,050
+So there's a lot to explore there, but also diving is a proper like skill that you need to learn
+
+179
+00:11:54,133 --> 00:11:55,300
+and get better on.
+
+180
+00:11:55,466 --> 00:11:59,150
+You can also like interact with objects underwater, which is pretty cool,
+
+181
+00:11:59,266 --> 00:12:02,266
+so you can pick up loot, you can interact with stuff.
+
+182
+00:12:02,466 --> 00:12:07,316
+So that's that's all stuff that I feel like, I'm proud that we did it,
+
+183
+00:12:07,516 --> 00:12:09,883
+like that we don't just copy the original.
+
+184
+00:12:10,550 --> 00:12:13,916
+Most of the materials will be used for different crafting stations,
+
+185
+00:12:14,383 --> 00:12:17,083
+so alchemy, cooking, whatever.
+
+186
+00:12:17,416 --> 00:12:20,416
+The idea is that those recipes will evolve with the player,
+
+187
+00:12:20,533 --> 00:12:24,683
+so if the player invests points in that those recipes will become useful.
+
+188
+00:12:25,133 --> 00:12:29,766
+Across the gameplay and also there is an important thing that even
+
+189
+00:12:29,933 --> 00:12:32,933
+if you don't have immediate utility for that
+
+190
+00:12:33,216 --> 00:12:40,550
+recipe at that moment, the act of crafting has an inherent value in
+
+191
+00:12:40,550 --> 00:12:43,550
+reducing the abundance of materials in your inventory
+
+192
+00:12:43,816 --> 00:12:46,566
+and gaining a bit of ore from the process.
+
+193
+00:12:46,800 --> 00:12:51,866
+So you spend time in and you gain a lot of utility in ore.
+
+194
+00:12:52,150 --> 00:12:55,150
+And there's things I'm sure there are things that are controversial,
+
+195
+00:12:55,300 --> 00:12:59,650
+that people are like "Well you’re contradicting what the original set out".
+
+196
+00:13:00,066 --> 00:13:04,900
+We tried to limit these things and we wanted to be extra sure that like,
+
+197
+00:13:04,983 --> 00:13:07,116
+our solution is actually better.
+
+198
+00:13:07,266 --> 00:13:08,750
+We cannot please everybody.
+
+199
+00:13:08,800 --> 00:13:13,433
+We hope that players look at it give it a try to understand our motivation
+
+200
+00:13:13,766 --> 00:13:18,650
+And I'm happy to talk through about this after the game is out
+
+201
+00:13:18,683 --> 00:13:21,683
+and give detailed reason for why we did the way we did.
+
+202
+00:13:21,816 --> 00:13:24,816
+Obviously I don't want to spoil things.
+
+203
+00:13:25,100 --> 00:13:29,916
+Our approach of coping with this struggle between old and new was
+
+204
+00:13:30,150 --> 00:13:35,783
+being practical and finding a certain baseline, that is always within the
+
+205
+00:13:35,883 --> 00:13:38,883
+Gothic vision and especially close to the original.
+
+206
+00:13:39,000 --> 00:13:42,000
+We can't wait to hear what you think about this.
+
+207
+00:13:42,450 --> 00:13:44,616
+I mean for us we are not done with it.
+
+208
+00:13:44,616 --> 00:13:47,616
+I mean, like getting started.
+
+209
+00:13:58,460 --> 00:14:00,140
+(Spanish.) Good morning, Gothic fans!
+
+210
+00:14:00,140 --> 00:14:02,070
+It's not (yet) time to go hunt some boar
+
+211
+00:14:02,070 --> 00:14:04,110
+Kai when finalizing the sound for this video "Just a little second more!"
+
+212
+00:14:04,110 --> 00:14:05,390
+We are just here to crawl in "Gomez" ass
+
+213
+00:14:05,390 --> 00:14:06,510
+After this video I need to buy another SSD, again!
+
+214
+00:14:06,510 --> 00:14:08,190
+Gomez knows nothing... yet
+
+215
+00:14:08,190 --> 00:14:10,000
+May the sleeper awaken!
+
+216
+00:14:10,000 --> 00:14:22,000
+Wishlist now!
