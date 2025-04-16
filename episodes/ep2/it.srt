@@ -1,430 +1,430 @@
 1
 00:00:06,766 --> 00:00:10,850
-Gothic was one of the first, immersive open world RPGs.
+Gothic è stato uno dei primi giochi di ruolo immersivi open world.
 
 2
 00:00:10,983 --> 00:00:14,250
-Our job was really to find out, what element should stay
+Il nostro compito era davvero scoprire quali elementi dovesse rimanere
 
 3
 00:00:14,250 --> 00:00:17,483
-exactly as they are, what element should be expanded.
+esattamente come sono, quali elementi dovrebbero essere espansi.
 
 4
 00:00:17,500 --> 00:00:21,900
-Throughout the whole production we found ourselves in struggle between old and new.
+Durante tutta la produzione ci siamo trovati a lottare tra vecchio e nuovo.
 
 5
 00:00:40,000 --> 00:00:47,000
-Making of Gothic remake
+Realizzazione di Gothic remake
 
 6
 00:00:49,000 --> 00:00:53,433
-Chapter II. Old vs. new
+Capitolo II. Vecchio contro nuovo
 
 7
 00:00:53,433 --> 00:00:55,566
-Our approach for the story was like, hey
+Il nostro approccio alla storia è stato tipo, ehi
 
 8
 00:00:55,600 --> 00:00:58,600
-the original story is actually good, but
+la storia originale è realmente bella, ma
 
 9
 00:00:58,750 --> 00:01:00,483
-it has plot holes,
+ha parecchi buchi nella trama,
 
 10
 00:01:00,583 --> 00:01:02,900
-it has things that are unlogical
+ha cose che non sono logiche
 
 11
 00:01:03,100 --> 00:01:05,350
-and it has things that are contradicting each other.
+e contiene cose che si contraddicono tra loro.
 
 12
 00:01:05,400 --> 00:01:06,983
-So our initial think was like,
+Quindi il nostro pensiero iniziale è stato questo:
 
 13
 00:01:07,050 --> 00:01:10,050
-“Okay we have to set out and fix these three points.”
+"Ok, dobbiamo darci una mossa e sistemare questi tre punti."
 
 14
 00:01:11,200 --> 00:01:12,783
-That was one of my first tasks,
+Quello è stato uno dei miei primi compiti,
 
 15
 00:01:12,783 --> 00:01:17,650
-get everything that we can extract from the old games over to like Unreal,
+trasferire tutto ciò che possiamo estrarre dai vecchi giochi su strumenti come Unreal
 
 16
 00:01:17,683 --> 00:01:20,083
-or other tools for our designers to take a look at.
+o altri, in modo che i nostri designer possano esaminarli.
 
 17
 00:01:20,183 --> 00:01:23,183
-So they can understand how the game worked,
+Così possono capire come funzionava il gioco,
 
 18
 00:01:23,183 --> 00:01:24,450
-like go through all the conversations,
+tipo seguire tutte le conversazioni,
 
 19
 00:01:24,450 --> 00:01:31,233
-like a tree size structure um with all the requirements, all the dependencies
+come una struttura ad albero con tutti i requisiti, tutte le dipendenze
 
 20
 00:01:31,233 --> 00:01:34,233
-between topics, conditions and so on.
+tra argomenti, condizioni e così via.
 
 21
 00:01:35,016 --> 00:01:38,200
-Together with the writing team we came up with with solutions
+Insieme al team di sceneggiatori abbiamo trovato delle soluzioni
 
 22
 00:01:38,200 --> 00:01:40,733
-and sometimes we had heated discussions about this because
+e a volte abbiamo avuto discussioni accese su ciò perché
 
 23
 00:01:40,783 --> 00:01:42,133
-it's getting very emotional.
+stava diventando veramente molto emozionante.
 
 24
 00:01:42,383 --> 00:01:46,833
-We we didn't choose the easiest and most straightforward solution,
+Non abbiamo scelto la soluzione più semplice e diretta,
 
 25
 00:01:46,833 --> 00:01:51,533
-but we chose a solution that fits very well in the context of the game.
+ma abbiamo scelto una soluzione che si adattasse molto bene al contesto del gioco.
 
 26
 00:01:51,833 --> 00:01:54,833
-Now we have Alkimia Narrative tool, as it's called.
+Adesso abbiamo lo strumento Alkimia Narrative, come viene chiamato.
 
 27
 00:01:55,550 --> 00:02:02,700
-The tool that can handle the complexity of the original game's dialogues. The tool that can display that, handle that and you can work with it.
+Uno strumento in grado di gestire la complessità dei dialoghi del gioco originale. Uno strumento in grado di visualizzarli, gestirli e con cui è possibile lavorare.
 
 28
 00:02:02,700 --> 00:02:08,550
-And this was the base for our designers to iterate on the original dialogues,
+E questa è stata la base per i nostri designer per navigare tra i dialoghi originali,
 
 29
 00:02:08,800 --> 00:02:12,666
-daily routines AI states, the combat AI is implemented in there.
+le routine quotidiane stabilite dall'IA, lì è implementata l'IA di combattimento.
 
 30
 00:02:13,433 --> 00:02:17,766
-All the character configuration, what interactions they can do,
+Tutte le configurazioni dei personaggi, quali interazioni possono avere,
 
 31
 00:02:17,766 --> 00:02:20,016
-what animations they should play.
+quali animazioni dovrebbero riprodurre.
 
 32
 00:02:20,016 --> 00:02:25,350
-It’s all in this scripting language and you can go there and modify it as you like.
+È tutto in questo linguaggio di scripting e puoi modificarlo a tuo piacimento.
 
 33
 00:02:25,633 --> 00:02:28,633
-We even had at one point, a sort of running
+A un certo punto abbiamo anche avuto una specie di
 
 34
 00:02:28,750 --> 00:02:31,250
-version of the original game in Unreal.
+versione funzionante del gioco originale in Unreal.
 
 35
 00:02:31,266 --> 00:02:34,266
-The biggest challenge from a design perspective is
+La sfida più grande dal punto di vista del design è
 
 36
 00:02:34,266 --> 00:02:38,500
-the making the world feel alive and hold this work with all the systems
+il far sentire il mondo vivo e sostenere questo lavoro con tutti i sistemi
 
 37
 00:02:38,900 --> 00:02:41,900
-because in the end, we are creating a living world with a lot of characters,
+perché alla fine stiamo creando un mondo vivo con molti personaggi,
 
 38
 00:02:41,933 --> 00:02:44,933
-but we are not just configuring the daily routines or their
+ma non stiamo solo configurando le routine quotidiane
 
 39
 00:02:44,950 --> 00:02:46,500
-homes or the the kind of things.
+o le loro case o cose del genere.
 
 40
 00:02:46,516 --> 00:02:50,300
-This is a systemic game, so they react to the player actions,
+Questo è un gioco sistemico, quindi reagiscono alle azioni del giocatore,
 
 41
 00:02:50,383 --> 00:02:53,383
-to the all the system, like they are witness of your crimes,
+all'intero sistema, come se fossero testimoni dei tuoi crimini,
 
 42
 00:02:53,500 --> 00:02:56,500
-how you enter trespassing a forbidden area,
+come entri sconfinando in un'area vietata,
 
 43
 00:02:56,666 --> 00:02:59,666
-how you launch an object and they interact with that.
+come lanci un oggetto e come interagiscono con esso.
 
 44
 00:03:00,016 --> 00:03:03,016
-Modernizing these systems with all these the world building
+Modernizzare questi sistemi con tutto questo, la costruzione del mondo
 
 45
 00:03:03,133 --> 00:03:05,183
-and world setting and make everything works together
+e l'ambientazione del mondo, e far funzionare tutto insieme.
 
 46
 00:03:05,350 --> 00:03:09,050
-is a really, really challenging thing for us.
+è una cosa davvero, davvero impegnativa per noi.
 
 47
 00:03:09,250 --> 00:03:14,200
-From a technical point of view, if you have an open world and you can go everywhere,
+Da un punto di vista tecnico, se hai un mondo aperto e puoi andare ovunque,
 
 48
 00:03:14,333 --> 00:03:18,716
-you need to consider that the world needs to live on while the player is not there.
+Devi considerare che il mondo deve continuare a vivere anche quando il giocatore non c'è.
 
 49
 00:03:18,833 --> 00:03:22,633
-We actually have for the full world the daily routines,
+In realtà abbiamo per il mondo intero delle routine quotidiane,
 
 50
 00:03:22,633 --> 00:03:26,016
-the living world simulation is always going.
+la simulazione del mondo è sempre in corso.
 
 51
 00:03:26,066 --> 00:03:30,450
-and when you come close to an to an NPC so they spawn,
+e quando ti avvicini a un NPC in fino a vederlo,
 
 52
 00:03:30,616 --> 00:03:33,616
-they will be spawned where they would be if you were just standing there waiting.
+verrà generato dove sarebbe se tu fossi lì fermo ad aspettare.
 
 53
 00:03:34,583 --> 00:03:37,583
-For example we have this, we have the templars
+Ad esempio, c'è questo, Ci sono i templari
 
 54
 00:03:37,783 --> 00:03:40,333
-walking from the Sect camp to the Old mine
+che camminano dall'accampamento della setta alla vecchia miniera
 
 55
 00:03:40,433 --> 00:03:43,616
-and in the original game you could never meet them in between the camps.
+mentre nel gioco originale non era possibile incontrarli tra un accampamento e l'altro.
 
 56
 00:03:43,750 --> 00:03:47,800
-Now you can stand somewhere wait for the full day,
+Ora puoi stare da qualche parte e aspettare per l'intera giornata,
 
 57
 00:03:47,800 --> 00:03:49,633
-yeah they will arrive at some point.
+e prima o poi li incontrerai.
 
 58
 00:03:49,633 --> 00:03:52,050
-Then there was the part where we kind of like set out,
+Poi c'è stata la parte in cui abbiamo, in un certo senso, affermato che
 
 59
 00:03:52,116 --> 00:03:54,283
-well, the German version is iconic
+beh, la versione tedesca è iconica,
 
 60
 00:03:54,283 --> 00:03:57,900
-and so is probably the Polish version and the Russian version,
+probabilmente lo sono anche la versione polacca e quella russa,
 
 61
 00:03:57,900 --> 00:04:00,900
-but like the English version is actually not iconic.
+ma la versione inglese in realtà non lo è.
 
 62
 00:04:01,033 --> 00:04:04,033
-Throughout this series it kind of changed style, so that's one thing.
+Nel corso di questa serie lo stile è cambiato, quindi questo è un punto.
 
 63
 00:04:04,100 --> 00:04:09,933
-It didn't manage to translate this rough language to the entire like story.
+Non si è riusciti a tradurre questo linguaggio così grezzo nell'intera storia.
 
 64
 00:04:10,266 --> 00:04:13,433
-So we set out to do a rework of the English texts
+Quindi abbiamo deciso di rielaborare i testi in inglese
 
 65
 00:04:13,816 --> 00:04:18,600
-and that was our starting point and why that we discovered even more of these plot holes
+e questo è stato il nostro punto di partenza e il motivo per cui abbiamo scoperto ancora più buchi nella trama
 
 66
 00:04:18,733 --> 00:04:21,666
-and things that we need to improve and make better.
+e ancora cose che dobbiamo sistemare e rendere ancora migliori.
 
 67
 00:04:21,750 --> 00:04:24,750
-Then there are aspects where we added things, that were just
+Poi ci sono aspetti in cui abbiamo aggiunto cose, che erano solo
 
 68
 00:04:24,916 --> 00:04:31,450
-not touched on enough or in later chapters there's too much shortcuts
+non sufficientemente approfondite oppure nei capitoli successivi ci sono troppe scorciatoie
 
 69
 00:04:31,550 --> 00:04:35,250
-about it or there are places in the world that are not used.
+o ci sono luoghi nel mondo che non vengono utilizzati.
 
 70
 00:04:35,733 --> 00:04:38,533
-The most interesting part of the Gothic Remake would be
+La parte più interessante del Gothic Remake sono
 
 71
 00:04:38,533 --> 00:04:41,550
-the cut content from the original game.
+i contenuti tagliati dal gioco originale.
 
 72
 00:04:42,350 --> 00:04:45,350
-The places that were pretty empty in the original game
+Gli spazi che nel gioco originale erano piuttosto vuoti,
 
 73
 00:04:45,466 --> 00:04:48,133
-and in Gothic Remake we create them
+in Gothic Remake li abbiamo ricreati
 
 74
 00:04:48,133 --> 00:04:52,866
-and put here and there new things that would enhance the experience.
+e abbiamo aggiunto qua e là nuovi elementi che avrebbero migliorato l'esperienza.
 
 75
 00:04:53,033 --> 00:04:57,033
-We try to make a little bit more interesting the dungeons
+Cerchiamo di rendere un po' più interessanti i sotterranei
 
 76
 00:04:57,033 --> 00:05:01,050
-and also the way the player can get into the castle.
+e anche il modo in cui il giocatore può entrare nel castello.
 
 77
 00:05:01,233 --> 00:05:05,550
-It’s like very hidden and you can guess that there is
+È molto nascosto e si può intuire che ci sia
 
 78
 00:05:05,550 --> 00:05:08,550
-something different there, if you go to the to the Gomez cellar.
+qualcosa di diverso lì, se si va nella cantina dei Gomez.
 
 79
 00:05:09,450 --> 00:05:15,116
-One aspect about the story that I can tease here, that we kind of added
+Un aspetto della storia che posso anticipare qui è che in un certo senso abbiamo aggiunto
 
 80
 00:05:15,483 --> 00:05:18,850
-and this is like the way how you interact with the Orc culture.
+qualcosa, e riguarda il modo in cui si interagisce con la cultura degli Orchi.
 
 81
 00:05:19,433 --> 00:05:22,733
-Which I feel like was in the original very base level, I mean you had this interaction
+Che mi sembra fosse nel livello base originale, intendo dire che avevi questa interazione
 
 82
 00:05:23,016 --> 00:05:25,200
-with Ur-Shak and Tarrok.
+con Ur-Shak e Tarrok.
 
 83
 00:05:25,433 --> 00:05:29,716
-It was to a level where it was like “Yeah, okay it served a single purpose”
+Era a un livello in cui era come "Sì, okay, serviva a un unico scopo"
 
 84
 00:05:29,716 --> 00:05:32,483
-and then it's like you just kill them off.
+e poi è come se li avessi semplicemente uccisi.
 
 85
 00:05:32,483 --> 00:05:35,483
-But I mean the whole thing in the whole Gothic lore,
+Ma intendo dire che l'intera questione, in tutta la tradizione di Gothic,
 
 86
 00:05:35,483 --> 00:05:40,416
-the whole theme with the orcs is actually the reason why everything is happening.
+l'intero tema degli orchi è in realtà la ragione per cui tutto sta accadendo.
 
 87
 00:05:42,250 --> 00:05:44,533
-It's the reason for why the colony exists.
+È il motivo per cui la colonia esiste.
 
 88
 00:05:44,550 --> 00:05:49,050
-It's the reason for why the barrier exists because without the ore mining,
+È il motivo per cui esiste la barriera perché senza l'estrazione del minerale,
 
 89
 00:05:49,050 --> 00:05:52,766
-which is needed for the war you would not have the need to create a barrier.
+che è necessario per la guerra non avresti bisogno di creare una barriera.
 
 90
 00:05:52,783 --> 00:05:55,783
-We felt like we need to give this more space.
+Abbiamo ritenuto necessario dargli più spazio.
 
 91
 00:06:03,416 --> 00:06:10,333
-As I'm mostly engaged with all the content related to economy,
+Poiché mi occupo principalmente di contenuti relativi all'economia,
 
 92
 00:06:10,600 --> 00:06:13,383
-what I try to do is mine the whole game.
+cerco di sfruttare al meglio l'intero gioco.
 
 93
 00:06:13,383 --> 00:06:15,233
-I have a model of the the original game.
+Ciò che cerco di fare è prendere spunto dall'intero gioco.
 
 94
 00:06:15,333 --> 00:06:17,216
-Then I try to see patterns.
+Poi cerco di vedere degli schemi.
 
 95
 00:06:17,283 --> 00:06:20,633
-Patterns that talks to me about how, what was the original intent,
+Modelli che mi parlano di come, qual era l'intento originale,
 
 96
 00:06:20,633 --> 00:06:23,633
-with how the economy evolved, how the progression evolved.
+con l'evoluzione dell'economia, con l'evoluzione della progressione.
 
 97
 00:06:23,966 --> 00:06:26,966
-And then I tried to see where those patterns break
+E poi ho provato a vedere dove si interrompono quegli schemi
 
 98
 00:06:26,983 --> 00:06:31,683
-because for example in the original Gothic the economical progression,
+perché ad esempio nel Gothic originale la progressione economica,
 
 99
 00:06:31,683 --> 00:06:33,050
-was quite broken for the last chapters.
+era abbastanza interrotta negli ultimi capitoli.
 
 100
 00:06:33,100 --> 00:06:35,566
-You cannot generate value from nothing.
+Non puoi generare valore dal nulla.
 
 101
 00:06:35,716 --> 00:06:38,316
-The player should not be the central bank of the economy.
+Il giocatore non dovrebbe essere la banca centrale dell'economia.
 
 102
 00:06:38,533 --> 00:06:42,200
-And that also connects with the trading systems because
+E questo si collega anche ai sistemi commerciali perché
 
 103
 00:06:42,200 --> 00:06:44,600
-the traders in the original game were quite passive.
+i commercianti nel gioco originale erano piuttosto passivi.
 
 104
 00:06:44,766 --> 00:06:48,416
-They only regenerated their inventory and the ore between chapters.
+Hanno solo rigenerato il loro inventario e il minerale tra un capitolo e l'altro.
 
 105
 00:06:48,750 --> 00:06:52,150
-But we have a passive system that do some garbage collecting,
+Ma abbiamo un sistema passivo che si occupa della raccolta dei rifiuti,
 
 106
 00:06:52,150 --> 00:06:55,150
-so some items are expansed from the economy.
+quindi alcuni articoli vengono esclusi dall'economia.
 
 107
 00:06:55,400 --> 00:06:59,250
-Those items are managed as if they were being traded between the traders,
+Tali articoli vengono gestiti come se fossero oggetto di scambio tra i commercianti,
 
 108
 00:06:59,366 --> 00:07:04,683
