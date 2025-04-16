@@ -176,7 +176,7 @@ Modernizzare questi sistemi con tutto questo, la costruzione del mondo
 
 45
 00:03:03,133 --> 00:03:05,183
-e l'ambientazione del mondo, e far funzionare tutto insieme.
+e l'ambientazione del mondo, e far funzionare tutto insieme
 
 46
 00:03:05,350 --> 00:03:09,050
@@ -428,438 +428,438 @@ Tali articoli vengono gestiti come se fossero oggetto di scambio tra i commercia
 
 108
 00:06:59,366 --> 00:07:04,683
-So those items are converted into ore so there's always liquidity in the market.
+Quindi quegli articoli vengono convertiti in minerale affinché ci sia sempre liquidità sul mercato.
 
 109
 00:07:04,683 --> 00:07:08,966
-There's not an overabundance of materials, so we always have control
+Non c'è sovrabbondanza di materiali, quindi abbiamo sempre il controllo
 
 110
 00:07:09,116 --> 00:07:10,533
-of how much you can craft.
+di quanto puoi creare.
 
 111
 00:07:10,716 --> 00:07:13,416
-At some point the economy will break, I mean it's a closed economy.
+A un certo punto l'economia crollerà, intendo dire che è un'economia chiusa.
 
 112
 00:07:13,700 --> 00:07:17,616
-It's it's bound to break because the only active agent is the is the character.
+È destinata a rompersi perché l'unico agente attivo è il personaggio.
 
 113
 00:07:17,716 --> 00:07:22,250
-But if we can delay that to the sixth chapter that would be the best case scenario.
+Ma se potessimo posticipare tutto al sesto capitolo, beh, quello sarebbe lo scenario migliore.
 
 114
 00:07:22,650 --> 00:07:25,266
-The the exploration is a key part of the game.
+L'esplorazione è una parte fondamentale del gioco.
 
 115
 00:07:25,833 --> 00:07:30,166
-This is a hard technical thing that we've been looking into,
+Questa è una questione tecnica complessa che abbiamo esaminato,
 
 116
 00:07:30,200 --> 00:07:33,783
-through the whole development, such as giving the players this feeling
+durante l'intero sviluppo, come dare ai giocatori questa sensazione
 
 117
 00:07:34,150 --> 00:07:37,316
-of being lost. Once it gets dark you're just lost.
+di esserti perso. Quando fa buio sei semplicemente perso.
 
 118
 00:07:37,600 --> 00:07:42,450
-I mean we have a lot of places that even if it's day,
+Voglio dire che abbiamo un sacco di posti in cui anche se è giorno,
 
 119
 00:07:42,716 --> 00:07:45,900
-you just get lost, so at night everything is super dark,
+ti perdi e basta, quindi di notte è tutto super buio,
 
 120
 00:07:46,033 --> 00:07:48,316
-but you still can manage your way through.
+ma puoi comunque cavartela.
 
 121
 00:07:48,316 --> 00:07:52,033
-You can have a lot of spells or even
+Puoi avere molti incantesimi o anche
 
 122
 00:07:52,033 --> 00:07:55,033
-your own torch that would help you go
+la tua torcia che ti aiuterebbe ad andare
 
 123
 00:07:55,166 --> 00:07:59,300
-through all these places, but definitely if you don't have a good sense of orientation
+attraverso tutti questi luoghi, ma sicuramente se non hai un buon senso dell'orientamento
 
 124
 00:07:59,350 --> 00:08:00,200
-you gonna get lost.
+ti perderai comunque.
 
 125
 00:08:00,500 --> 00:08:04,750
-Each one has its own environment and personality
+Ognuno ha il suo ambiente e la sua personalità
 
 126
 00:08:04,750 --> 00:08:06,783
-because all the characters
+perché tutti i personaggi
 
 127
 00:08:06,783 --> 00:08:09,366
-in each camp are unique in one way or another.
+in ciascun campo sono unici in un modo o nell'altro.
 
 128
 00:08:09,366 --> 00:08:12,533
-But in the end, when you keep on walking around the world you can see
+Ma alla fine, quando continui a camminare per il mondo, puoi vedere
 
 129
 00:08:12,533 --> 00:08:14,483
-that all the camps are somehow connected,
+che tutti i campi sono in qualche modo collegati,
 
 130
 00:08:14,483 --> 00:08:17,533
-characters move from one place to another
+i personaggi si spostano da un luogo all'altro
 
 131
 00:08:17,716 --> 00:08:22,500
-and the stories are interrelated among them.
+e le storie sono interconnesse tra loro.
 
 132
 00:08:22,616 --> 00:08:30,233
-The main idea we have regarding hoarding is to force the player to consume items.
+L'idea principale che abbiamo riguardo all'accumulo compulsivo è quella di costringere il giocatore a consumare oggetti.
 
 133
 00:08:30,750 --> 00:08:35,716
-Be it because the combat is difficult, be it because there is some dynamics
+Sia perché il combattimento è difficile, sia perché c'è una certa dinamica
 
 134
 00:08:35,733 --> 00:08:38,733
-that require the use of those items evidently.
+che richiedono evidentemente l'uso di quegli oggetti.
 
 135
 00:08:38,900 --> 00:08:44,183
-There is a problem with all open world RPGs, that it tends to be an
+C'è un problema con tutti i giochi di ruolo open world, ovvero che tendono ad esserci
 
 136
 00:08:44,183 --> 00:08:47,383
-overabundance of items because you don't know where the player is going to be,
+troppi oggetti perché non sai dove si troverà il giocatore,
 
 137
 00:08:47,466 --> 00:08:51,733
-where the player is going to look at and you must guarantee a minimum viable
+dove il giocatore andrà a guardare e devi garantire una quantità minima
 
 138
 00:08:51,766 --> 00:08:55,833
-amount of utility for the player to overcome the challenges.
+di oggetti utili affinché il giocatore superi le sfide.
 
 139
 00:08:56,233 --> 00:09:05,683
-So if you have a very serious player that loots everything and it's a hoarder by nature,
+Quindi se hai un giocatore molto serio che saccheggia tutto ed è un accumulatore per natura,
 
 140
 00:09:05,883 --> 00:09:10,083
-we won't be able to combat that, but at least uh the design
+Non saremo in grado di impedirlo, ma almeno
 
 141
 00:09:10,166 --> 00:09:18,266
-will try to put the player in situations that force them to use the items they have.
+cercheremo di mettere il giocatore in situazioni che lo costringano a usare gli oggetti che ha.
 
 142
 00:09:24,883 --> 00:09:27,016
-With RPGs you tend to spend a lot of time.
+Con i giochi di ruolo si tende a passare molto tempo.
 
 143
 00:09:27,016 --> 00:09:30,983
-In a lot of games you actually get tired of the music at some point,
+In molti giochi a un certo punto ti stanchi della musica,
 
 144
 00:09:31,050 --> 00:09:37,183
-but in Gothic you never get tired, which is also related to the system that they used back in the day.
+Ma in Gothic non ci si stanca mai, il che è anche dovuto al sistema che si usava a quei tempi.
 
 145
 00:09:37,450 --> 00:09:40,750
-There wasn't kind of like a master track, that they would just play back.
+Non c'era una sorta di traccia master che semplicemente continuava.
 
 146
 00:09:40,833 --> 00:09:45,333
-It would kind of like layers that depending on what happens in the game world,
+Sarebbe come se ci fossero strati che, a seconda di cosa succede nel mondo di gioco,
 
 147
 00:09:45,333 --> 00:09:49,983
-it would play different cues, so it kind of like always felt different.
+riproducevano segnali diversi, quindi sembravano sempre diversi.
 
 148
 00:09:50,283 --> 00:09:55,766
-So my main priority when making music is - I want to be
-a messenger of emotions.
+Quindi la mia priorità principale quando faccio musica è essere
+un messaggero di emozioni.
 
 149
 00:09:56,000 --> 00:09:58,733
-I want to understand, as the composer I want to understand
+In quanto compositore, voglio capire il messaggio emotivo
 
 150
 00:09:59,050 --> 00:10:02,683
-the emotional message that is in every single scene in the game.
+racchiuso in ogni singola scena del gioco.
 
 151
 00:10:02,950 --> 00:10:08,133
-And I want to be able to kind of push the emotional impact on the player.
+E voglio essere in grado di trasmettere, in un certo senso, l'impatto emotivo sul giocatore.
 
 152
 00:10:08,133 --> 00:10:13,083
-It adds a certain depth to the game because you can actually feel what's going on and it
+Aggiunge una certa profondità al gioco perché puoi effettivamente sentire cosa sta succedendo e
 
 153
 00:10:13,366 --> 00:10:17,616
-doesn't just work as like background music, but also as its own aspect to the
+non funziona solo come musica di sottofondo, ma anche come aspetto a sé stante
 
 154
 00:10:17,650 --> 00:10:18,916
-emotional landscapes.
+emozioni del luogo.
 
 155
 00:10:19,050 --> 00:10:21,533
-You can imagine it as painting pictures.
+Si può immaginare come se si stesse dipingendo un quadro.
 
 156
 00:10:21,566 --> 00:10:24,016
-So I imagine a situation for example,
+Quindi immagino una situazione per esempio,
 
 157
 00:10:24,383 --> 00:10:27,383
-where there's a sense of determination and adventure.
+dove c'è un senso di determinazione e avventura.
 
 158
 00:10:27,783 --> 00:10:31,366
-Then I try to come up with an image that represents that.
+Poi cerco di elaborare un'immagine che lo rappresenti.
 
 159
 00:10:31,683 --> 00:10:36,150
-Sometimes I do abstract drawings, sometimes I pick something from from the internet
+A volte faccio disegni astratti, a volte prendo qualcosa da internet
 
 160
 00:10:36,516 --> 00:10:39,516
-and then I look at all those individual visual elements
+e poi guardo tutti quegli elementi visivi individuali
 
 161
 00:10:40,000 --> 00:10:42,666
-and try to come up with music ideas for those.
+e cercare di trovare idee musicali adatte.
 
 162
 00:10:42,950 --> 00:10:45,950
-So for example if I have a strong, key image
+Quindi, ad esempio, se ho un'immagine forte e determinante
 
 163
 00:10:46,250 --> 00:10:49,733
-in the center of my abstract painting for example,
+al centro del mio dipinto astratto, per esempio,
 
 164
 00:10:50,300 --> 00:10:55,766
-I try to get an idea of what instrument could represent that specific part of the picture.
+Cerco di farmi un'idea di quale strumento potrebbe rappresentare quella specifica parte dell'immagine.
 
 165
 00:10:56,233 --> 00:10:59,233
-And then I just play around with it,
+E poi ci gioco un po',
 
 166
 00:10:59,300 --> 00:11:03,400
-I experiment with different melodic ideas, with different harmonies and through
+Sperimento con diverse idee melodiche, con diverse armonie e attraverso
 
 167
 00:11:03,750 --> 00:11:07,783
-lots of iteration and tinkering around in my software I come to the final result.
+Dopo molte iterazioni e aggiustamenti col mio software, arrivo al risultato finale.
 
 168
 00:11:08,583 --> 00:11:13,616
-I'm most excited actually to get the new or the extended abilities
+In realtà, ciò che più mi entusiasma è mettere le abilità nuove o estese
 
 169
 00:11:13,850 --> 00:11:17,316
-in the hands of the players, So we've spent a lot of time
+nelle mani dei giocatori. Abbiamo trascorso molto tempo
 
 170
 00:11:17,400 --> 00:11:22,350
-analyzing like, what sort of abilities actually don't fulfill the true vision
+ad analizzare quali tipi di abilità in realtà non soddisfano la vera visione
 
 171
 00:11:22,633 --> 00:11:25,016
-of what it could make sense in the world of Gothic.
+di ciò che potrebbe avere senso nel mondo di Gothic.
 
 172
 00:11:25,150 --> 00:11:29,083
-We’ve teased some of it a little bit in the gameplay reveal
+Ne abbiamo anticipato un po' nella presentazione del gameplay
 
 173
 00:11:29,333 --> 00:11:33,483
-with the climbing, will add another dimension and it's similar
+con l'arrampicata, si aggiungerà un'altra dimensione ed è simile
 
 174
 00:11:33,533 --> 00:11:36,533
-actually to the climbing in Zelda, but it's obviously kind of like
+in realtà all'arrampicata in Zelda, ma è ovviamente in un certo senso
 
 175
 00:11:36,583 --> 00:11:39,200
-limited to certain areas of the game.
+limitata a certe aree del gioco.
 
 176
 00:11:39,716 --> 00:11:41,933
-And then another thing like we’ve teased, like
+E poi un'altra cosa a cui abbiamo accennato, tipo
 
 177
 00:11:41,933 --> 00:11:47,683
-first of all we try to kind of like make some interesting underwater path and locations.
+prima di tutto cerchiamo di creare dei percorsi e delle location sottomarine interessanti.
 
 178
 00:11:47,683 --> 00:11:54,050
-So there's a lot to explore there, but also diving is a proper like skill that you need to learn
+Quindi c'è molto da esplorare lì, ma anche l'immersione è un'abilità vera e propria che devi imparare
 
 179
 00:11:54,133 --> 00:11:55,300
-and get better on.
+e migliorare.
 
 180
 00:11:55,466 --> 00:11:59,150
-You can also like interact with objects underwater, which is pretty cool,
+Puoi anche interagire con gli oggetti sott'acqua, il che è piuttosto interessante,
 
 181
 00:11:59,266 --> 00:12:02,266
-so you can pick up loot, you can interact with stuff.
+così puoi raccogliere bottino e interagire con le cose.
 
 182
 00:12:02,466 --> 00:12:07,316
-So that's that's all stuff that I feel like, I'm proud that we did it,
+Quindi, questo è tutto ciò di cui mi sento orgoglioso, sono orgoglioso di averlo fatto,
 
 183
 00:12:07,516 --> 00:12:09,883
-like that we don't just copy the original.
+così non copiamo semplicemente l'originale.
 
 184
 00:12:10,550 --> 00:12:13,916
-Most of the materials will be used for different crafting stations,
+La maggior parte dei materiali verrà utilizzata per diverse postazioni di lavorazione,
 
 185
 00:12:14,383 --> 00:12:17,083
-so alchemy, cooking, whatever.
+quindi alchimia, cucina, quant'altro.
 
 186
 00:12:17,416 --> 00:12:20,416
-The idea is that those recipes will evolve with the player,
+L'idea è che queste ricette si evolvano con il giocatore,
 
 187
 00:12:20,533 --> 00:12:24,683
-so if the player invests points in that those recipes will become useful.
+quindi se il giocatore investe punti in quelle ricette, diventeranno utili.
 
 188
 00:12:25,133 --> 00:12:29,766
-Across the gameplay and also there is an important thing that even
+In tutto il gameplay e c'è anche una cosa importante che anche
 
 189
 00:12:29,933 --> 00:12:32,933
-if you don't have immediate utility for that
+se non vedi un'utilità immediata per quello
 
 190
 00:12:33,216 --> 00:12:40,550
-recipe at that moment, the act of crafting has an inherent value in
+ricetta in quel momento, l'atto del creare ha un valore intrinseco in
 
 191
 00:12:40,550 --> 00:12:43,550
-reducing the abundance of materials in your inventory
+riducendo l'abbondanza di materiali nel tuo inventario
 
 192
 00:12:43,816 --> 00:12:46,566
-and gaining a bit of ore from the process.
+e ricavando un po' di minerale dal processo.
 
 193
 00:12:46,800 --> 00:12:51,866
-So you spend time in and you gain a lot of utility in ore.
+Quindi investi tempo e ottieni molta roba utile dal minerale.
 
 194
 00:12:52,150 --> 00:12:55,150
-And there's things I'm sure there are things that are controversial,
+E ci sono cose che sono sicuro siano controverse,
 
 195
 00:12:55,300 --> 00:12:59,650
-that people are like "Well you’re contradicting what the original set out".
+che la gente pensa "Beh, stai contraddicendo ciò che era stabilito nell'originale".
 
 196
 00:13:00,066 --> 00:13:04,900
-We tried to limit these things and we wanted to be extra sure that like,
+Abbiamo cercato di limitare queste cose e volevamo essere particolarmente sicuri che, ad esempio,
 
 197
 00:13:04,983 --> 00:13:07,116
-our solution is actually better.
+la nostra soluzione sia effettivamente migliore.
 
 198
 00:13:07,266 --> 00:13:08,750
-We cannot please everybody.
+Non possiamo accontentare tutti.
 
 199
 00:13:08,800 --> 00:13:13,433
-We hope that players look at it give it a try to understand our motivation
+Ci auguriamo che i giocatori lo guardino e lo provino per capire le nostre motivazioni
 
 200
 00:13:13,766 --> 00:13:18,650
-And I'm happy to talk through about this after the game is out
+E sarò felice di parlarne dopo l'uscita del gioco
 
 201
 00:13:18,683 --> 00:13:21,683
-and give detailed reason for why we did the way we did.
+e spiegare dettagliatamente perché abbiamo agito in un certo modo.
 
 202
 00:13:21,816 --> 00:13:24,816
-Obviously I don't want to spoil things.
+Ovviamente non voglio rovinarvi la sorpresa.
 
 203
 00:13:25,100 --> 00:13:29,916
-Our approach of coping with this struggle between old and new was
+Il nostro approccio per affrontare questa lotta tra vecchio e nuovo è stato
 
 204
 00:13:30,150 --> 00:13:35,783
-being practical and finding a certain baseline, that is always within the
+essere pratici e trovare una certa linea di base, che sia sempre all'interno della
 
 205
 00:13:35,883 --> 00:13:38,883
-Gothic vision and especially close to the original.
+visione di Gothic e particolarmente vicina all'originale.
 
 206
 00:13:39,000 --> 00:13:42,000
-We can't wait to hear what you think about this.
+Non vediamo l'ora di sapere cosa ne pensi.
 
 207
 00:13:42,450 --> 00:13:44,616
-I mean for us we are not done with it.
+Voglio dire che per noi non è finita qui.
 
 208
 00:13:44,616 --> 00:13:47,616
-I mean, like getting started.
+Voglio dire, come iniziare.
 
 209
 00:13:58,460 --> 00:14:00,140
-(Spanish.) Good morning, Gothic fans!
+(Spagnolo.) Buongiorno, fan di Gothic!
 
 210
 00:14:00,140 --> 00:14:02,070
-It's not (yet) time to go hunt some boar
+Non è (ancora) il momento di andare a caccia di cinghiali
 
 211
 00:14:02,070 --> 00:14:04,110
-Kai when finalizing the sound for this video "Just a little second more!"
+Kai mentre finalizza l'audio per questo video: "Ancora qualche secondo!"
 
 212
 00:14:04,110 --> 00:14:05,390
-We are just here to crawl in "Gomez" ass
+Siamo qui solo per metterla in culo a "Gomez"
 
 213
 00:14:05,390 --> 00:14:06,510
-After this video I need to buy another SSD, again!
+Dopo questo video dovrò comprare di nuovo un altro SSD!
 
 214
 00:14:06,510 --> 00:14:08,190
-Gomez knows nothing... yet
+Gomez non ne sa niente...per ora!
 
 215
 00:14:08,190 --> 00:14:10,000
-May the sleeper awaken!
+Che il dormiente si svegli!
 
 216
 00:14:10,000 --> 00:14:22,000
-Wishlist now!
+Aggiungilo subito alla lista dei desideri!
 
