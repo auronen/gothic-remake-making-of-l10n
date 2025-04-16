@@ -1,10 +1,10 @@
 1
 00:00:06,766 --> 00:00:10,850
-Gothic a fost unul dintre primele RPG-uri cu o lume deschisă care te captivează total.
+Gothic a fost unul dintre primele RPG-uri imersive cu o lume deschisă.
 
 2
 00:00:10,983 --> 00:00:14,250
-Treaba noastră a fost într-adevăr să aflăm ce elemente ar trebui să rămână
+Treaba noastră a fost practic să aflăm ce elemente ar trebui să rămână
 
 3
 00:00:14,250 --> 00:00:17,483
@@ -28,11 +28,11 @@ Abordarea noastră pentru poveste a fost gen: Hei!...
 
 8
 00:00:55,600 --> 00:00:58,600
-...povestea originală chiar e bună de fapt, dar
+povestea originală chiar e bună de fapt, dar
 
 9
 00:00:58,750 --> 00:01:00,483
-are lipsuri în poveste,
+are inadvertențe în poveste,
 
 10
 00:01:00,583 --> 00:01:02,900
@@ -44,11 +44,11 @@ are lucruri ilogice
 
 12
 00:01:05,400 --> 00:01:06,983
-Așa că gândul nostru inițial a fost:
+Deci, gândul nostru inițial a fost:
 
 13
 00:01:07,050 --> 00:01:10,050
-„Bine, trebuie să ne potrivim și să reparăm aceste trei puncte.”
+„Bine, trebuie să ne punem pe treabă și să reparăm aceste trei puncte.”
 
 14
 00:01:11,200 --> 00:01:12,783
@@ -56,11 +56,11 @@ Asta a fost una dintre primele mele sarcini,
 
 15
 00:01:12,783 --> 00:01:17,650
-să aduc, tot ceea ce putem extrage din seria inițială, pentru a fi utilizat în Unreal,
+să aduc tot ceea ce putem extrage din seria inițială pentru a fi utilizat în Unreal,
 
 16
 00:01:17,683 --> 00:01:20,083
-sau în alte instrumente, pentru ca designerii noștri să arunce o privire.
+sau în alte programe, pentru ca designerii noștri să arunce o privire.
 
 17
 00:01:20,183 --> 00:01:23,183
@@ -88,7 +88,7 @@ iar uneori am avut discuţii aprinse despre asta, pentru că
 
 23
 00:01:40,783 --> 00:01:42,133
-devine foarte emotionant.
+devine foarte încărcat emoțional.
 
 24
 00:01:42,383 --> 00:01:46,833
@@ -104,31 +104,31 @@ Acum avem instrumentul Alkimia Narrative, așa cum se numește.
 
 27
 00:01:55,550 --> 00:02:02,700
-Care este o unealtă ce poate gestiona complexitatea dialogurilor jocului original. Instrumentul le afișează, le manevrează în așa fel încât să poți lucra cu ele.
+programul care poate gestiona complexitatea dialogurilor jocului original. Programul le afișează, le manevrează în așa fel încât să poți lucra cu ele.
 
 28
 00:02:02,700 --> 00:02:08,550
-Și aceasta a fost baza pentru designerii noștri pentru a repeta dialogurile originale,
+Și aceasta a fost baza pentru ca designerii noștri să dezvolte dialogurile originale,
 
 29
 00:02:08,800 --> 00:02:12,666
-rutinele zilnice, starea IA, IA-ul de luptă este implementat tot acolo.
+rutinele zilnice, stările IA, IA-ul de luptă este implementat tot acolo.
 
 30
 00:02:13,433 --> 00:02:17,766
-Toată configurația personajelor, interacțiunile pe care le pot face,
+Toate configurările personajelor, interacțiunile pe care le pot face,
 
 31
 00:02:17,766 --> 00:02:20,016
-ce animații ar trebui să deruleze.
+ce animații ar trebui să reproducă.
 
 32
 00:02:20,016 --> 00:02:25,350
-Totul este în acest limbaj de scripting și il puteți utiliza pentru a aduce modificări după cum doriți.
+Totul este în acest limbaj de scripting și îl puteți utiliza pentru a aduce modificări după cum doriți.
 
 33
 00:02:25,633 --> 00:02:28,633
-Am avut chiar la un moment dat, un fel de versiune funcțională
+Am avut chiar la un moment dat un fel de versiune funcțională
 
 34
 00:02:28,750 --> 00:02:31,250
@@ -140,7 +140,7 @@ Cea mai mare provocare din perspectiva designului este
 
 36
 00:02:34,266 --> 00:02:38,500
-de a face lumea să se simtă vie și de a menține această funționalitate cu toate sistemele
+de a face lumea să se simtă vie și de a menține această funcționalitate cu toate sistemele ei
 
 37
 00:02:38,900 --> 00:02:41,900
@@ -148,7 +148,7 @@ pentru că în cele din urmă, creăm o lume vie cu multe personaje,
 
 38
 00:02:41,933 --> 00:02:44,933
-dar nu doar configuram rutinele zilnice sau
+dar nu doar configurăm rutinele zilnice sau
 
 39
 00:02:44,950 --> 00:02:46,500
@@ -156,7 +156,7 @@ casele lor sau genul ăsta de lucruri.
 
 40
 00:02:46,516 --> 00:02:50,300
-Acesta este un joc sistemic, așa că se reacționează la acțiunile jucătorului,
+Acesta este un joc sistemic, așa că ele reacționează la acțiunile jucătorului,
 
 41
 00:02:50,383 --> 00:02:53,383
@@ -168,7 +168,7 @@ cum traversezi printr-o zonă interzisă,
 
 43
 00:02:56,666 --> 00:02:59,666
-cum arunci un obiect și ei interacționează cu acesta.
+cum arunci un obiect și cum interacționează ei cu acesta.
 
 44
 00:03:00,016 --> 00:03:03,016
@@ -176,7 +176,7 @@ Modernizarea sistemelor cu toate astea, construirea lumii
 
 45
 00:03:03,133 --> 00:03:05,183
-și setarea lumii și de face ca totul să funcționeze împreună
+și cadrul lumii, și de face ca totul să funcționeze împreună
 
 46
 00:03:05,350 --> 00:03:09,050
@@ -200,11 +200,11 @@ avem o simulare continuă a unei lumi vii.
 
 51
 00:03:26,066 --> 00:03:30,450
-și când te apropii de un NPC, astfel încât acesta să fie generat,
+și când te apropii de un NPC, astfel încât acesta să apară,
 
 52
 00:03:30,616 --> 00:03:33,616
-ei vor apărea acolo unde ar trebui sa fie ca și cum ați sta doar acolo așteptând.
+el va apărea acolo unde ar trebui să fie ca și cum doar ai fi stat acolo așteptând.
 
 53
 00:03:34,583 --> 00:03:37,583
@@ -212,7 +212,7 @@ De exemplu, avem chestia asta, avem templieri
 
 54
 00:03:37,783 --> 00:03:40,333
-mergând de la Tabăra Sectei până la Mina Veche
+care merg de la Tabăra Sectei până la Mina Veche
 
 55
 00:03:40,433 --> 00:03:43,616
@@ -228,7 +228,7 @@ Acum poți sta undeva pe traseu, să-i aștepți toată ziua,
 
 58
 00:03:49,633 --> 00:03:52,050
-Apoi a fost partea în care ne-am propus să stabilim,
+Apoi a fost partea în care, cum ar fi, am stabilit că
 
 59
 00:03:52,116 --> 00:03:54,283
@@ -264,15 +264,15 @@ acesta fiind punctul nostru de plecare și motivul pentru care am descoperit și
 
 67
 00:04:21,750 --> 00:04:24,750
-Apoi sunt aspecte în care am adăugat lucruri, care au fost doar
+Apoi sunt aspecte în care am adăugat lucruri, care pur și simplu
 
 68
 00:04:24,916 --> 00:04:31,450
-neatinse sau nu suficient sau în capitolele dinspre final sunt prea multe comenzi rapide
+nu au fost abordate suficient sau în capitolele dinspre final sunt prea multe scurtături
 
 69
 00:04:31,550 --> 00:04:35,250
-despre asta sau există locuri în lume care nu sunt folosite.
+legate de ele sau există locuri în lume care nu sunt folosite.
 
 70
 00:04:35,733 --> 00:04:38,533
@@ -296,7 +296,7 @@ iar în Gothic Remake le creăm
 
 75
 00:04:53,033 --> 00:04:57,033
-Încercăm să facem un pic mai interesante temnițele
+Încercăm să facem un pic mai interesante subteranele
 
 76
 00:04:57,033 --> 00:05:01,050
@@ -312,7 +312,7 @@ ceva diferit pe acolo, dacă mergi în pivnița lui Gomez.
 
 79
 00:05:09,450 --> 00:05:15,116
-Un aspect despre poveste pe care îl pot tachina aici, pe care l-am cam adăugat
+Un aspect despre poveste pe care îl pot menționa aici, pe care l-am cam adăugat
 
 80
 00:05:15,483 --> 00:05:18,850
@@ -332,7 +332,7 @@ A fost la un nivel în care era de genul „Da, bine, a servit unui singur scop�
 
 84
 00:05:29,716 --> 00:05:32,483
-și apoi parcă i-ai ucide.
+și apoi e ca și când i-ai fi ucis pur și simplu.
 
 85
 00:05:32,483 --> 00:05:35,483
@@ -368,7 +368,7 @@ ceea ce încerc să fac este să extrag întreg jocul.
 
 93
 00:06:13,383 --> 00:06:15,233
-Am o machetă a jocului original.
+Am un model al jocului original.
 
 94
 00:06:15,333 --> 00:06:17,216
@@ -376,7 +376,7 @@ Apoi încerc să văd tipare.
 
 95
 00:06:17,283 --> 00:06:20,633
-Tipare care îmi “vorbesc“ despre cum și care a fost intenția inițială,
+Tipare care îmi „vorbesc” despre cum și care a fost intenția inițială,
 
 96
 00:06:20,633 --> 00:06:23,633
@@ -384,11 +384,11 @@ despre modul în care evoluează economia, cum evoluează progresul.
 
 97
 00:06:23,966 --> 00:06:26,966
-Și apoi am încercat să văd unde se “rup“ acele tipare
+Și apoi am încercat să văd unde se „rup” acele tipare
 
 98
 00:06:26,983 --> 00:06:31,683
-pentru că, de exemplu, în Gothic original, progresul economic,
+pentru că, de exemplu, în Gothic originalul, progresul economic,
 
 99
 00:06:31,683 --> 00:06:33,050
@@ -404,7 +404,7 @@ Jucătorul nu ar trebui să fie banca centrală a economiei.
 
 102
 00:06:38,533 --> 00:06:42,200
-Și asta se conectează și cu sistemele de tranzacționare pentru că
+Și asta se referă și la sistemele de tranzacționare pentru că
 
 103
 00:06:42,200 --> 00:06:44,600
@@ -416,11 +416,11 @@ Doar își regenerau inventarul și minereul între capitole.
 
 105
 00:06:48,750 --> 00:06:52,150
-Dar avem un sistem pasiv care face niște colectare de gunoi,
+Dar avem un sistem pasiv care face niște „colectare de deșeuri”,
 
 106
 00:06:52,150 --> 00:06:55,150
-deci unele articole sunt extinse din economie.
+deci unele articole sunt scoase din economie.
 
 107
 00:06:55,400 --> 00:06:59,250
@@ -432,19 +432,19 @@ Deci acele articole sunt transformate în minereu, astfel încât să existe în
 
 109
 00:07:04,683 --> 00:07:08,966
-Nu există o supraabundență de materiale, așa că avem întotdeauna controlul
+Nu există o supraabundență de materiale, așa că putem întotdeauna controla
 
 110
 00:07:09,116 --> 00:07:10,533
-de cât de mult poți crea.
+cât de mult poți crea.
 
 111
 00:07:10,716 --> 00:07:13,416
-La un moment dat economia se va rupe, până la urmă este o economie închisă.
+La un moment dat economia se va prăbuși, până la urmă este o economie închisă.
 
 112
 00:07:13,700 --> 00:07:17,616
-Ruperea economiei este iminentă pentru că singurul agent activ este personajul.
+Prăbușirea economiei este certă pentru că singurul agent activ este personajul.
 
 113
 00:07:17,716 --> 00:07:22,250
@@ -460,7 +460,7 @@ Acesta este un lucru tehnic destul de greu pe care l-am analizat,
 
 116
 00:07:30,200 --> 00:07:33,783
-pe parcursul întregii dezvoltări, cum ar fi oferirea jucătorilor acest sentiment
+pe parcursul întregii dezvoltări, cum ar fi să le oferim jucătorilor acest sentiment
 
 117
 00:07:34,150 --> 00:07:37,316
@@ -524,7 +524,7 @@ iar poveștile sunt interconectate între ele.
 
 132
 00:08:22,616 --> 00:08:30,233
-Ideea principală pe care o avem în ceea ce privește stocarea masivă este de a forța jucătorul să consume articole.
+Ideea principală pe care o avem în ceea ce privește acumularea compulsivă este de a forța jucătorul să consume articole.
 
 133
 00:08:30,750 --> 00:08:35,716
@@ -552,7 +552,7 @@ al articolelor de utilitate, astfel încât jucătorul să poată depăși provo
 
 139
 00:08:56,233 --> 00:09:05,683
-Deci, dacă ai un jucător foarte serios care jefuiește totul și este un colecționar prin fire,
+Deci, dacă ai un jucător foarte serios care jefuiește totul și este strângător din fire,
 
 140
 00:09:05,883 --> 00:09:10,083
@@ -576,7 +576,7 @@ dar în Gothic nu te plictisești niciodată, ceea ce este legat și de sistemul
 
 145
 00:09:37,450 --> 00:09:40,750
-Nu era un fel de piesă principală, pe care să o redea.
+Nu era un fel de piesă principală, pe care să o tot redea încontinuu.
 
 146
 00:09:40,833 --> 00:09:45,333
@@ -588,8 +588,8 @@ derula repere diferite, drept urmare s-a simțit întotdeauna diferit.
 
 148
 00:09:50,283 --> 00:09:55,766
-Așa că prioritatea mea principală când fac muzică este: vreau să fiu -
-Un mesager al emoțiilor.
+Deci, prioritatea mea principală când fac muzică este: vreau să fiu -
+un mesager al emoțiilor.
 
 149
 00:09:56,000 --> 00:09:58,733
@@ -617,19 +617,19 @@ decorului emoțional.
 
 155
 00:10:19,050 --> 00:10:21,533
-Vă puteți imagina ca și o pictură.
+Vă puteți imagina ca și cum ar fi vorba de pictarea unui tablou.
 
 156
 00:10:21,566 --> 00:10:24,016
-Așa că îmi imaginez o situație, de exemplu,
+Deci, îmi imaginez o situație, de exemplu,
 
 157
 00:10:24,383 --> 00:10:27,383
-unde există un sentiment de determinare și aventură.
+unde există un sentiment de determinare și aventură
 
 158
 00:10:27,783 --> 00:10:31,366
-Apoi încerc să vin cu o imagine care să reprezinte asta.
+apoi încerc să vin cu o imagine care să reprezinte asta.
 
 159
 00:10:31,683 --> 00:10:36,150
@@ -657,7 +657,7 @@ Deci, de exemplu, dacă am o imagine puternică, cheie
 
 165
 00:10:56,233 --> 00:10:59,233
-Și apoi doar mă joc cu ea,
+Și apoi doar mă joc cu ea.
 
 166
 00:10:59,300 --> 00:11:03,400
@@ -665,7 +665,7 @@ Experimentez cu diferite idei melodice, cu diferite armonii și prin
 
 167
 00:11:03,750 --> 00:11:07,783
-o mulțime de iterații și de reparații în software-ul meu ajung la rezultatul final.
+o mulțime de iterații și de ajustări în software-ul meu ajung la rezultatul final.
 
 168
 00:11:08,583 --> 00:11:13,616
@@ -674,7 +674,7 @@ De fapt, sunt cel mai încântat să pun abilități noi sau extinse
 169
 00:11:13,850 --> 00:11:17,316
 în mâinile jucătorilor.
-Așa că am petrecut mult timp
+Am petrecut mult timp
 
 170
 00:11:17,400 --> 00:11:22,350
@@ -686,23 +686,23 @@ a ceea ce ar putea avea sens în lumea Gothic.
 
 172
 00:11:25,150 --> 00:11:29,083
-Am tachinat cu o parte din el în dezvăluirea gameplay-ului
+Am arătat o parte din asta în dezvăluirea gameplay-ului
 
 173
 00:11:29,333 --> 00:11:33,483
-odată cu cățărarea, se va adăuga o altă dimensiune și este asemănător
+odată cu cățărarea, se va adăuga o altă dimensiune și este asemănătoare
 
 174
 00:11:33,533 --> 00:11:36,533
-de fapt, cu cățărarea din Zelda, dar este, evident, că am
+de fapt, cu cățărarea din Zelda, dar este, evident,
 
 175
 00:11:36,583 --> 00:11:39,200
-limitat la anumite zone ale jocului.
+limitată la anumite zone ale jocului.
 
 176
 00:11:39,716 --> 00:11:41,933
-Și apoi un alt lucru pe care l-am tachinat, cum ar fi
+Și apoi un alt lucru pe care l-am arătat, cum ar fi
 
 177
 00:11:41,933 --> 00:11:47,683
@@ -710,11 +710,11 @@ limitat la anumite zone ale jocului.
 
 178
 00:11:47,683 --> 00:11:54,050
-Deci sunt multe de explorat acolo, dar și scufundarea este o abilitate asemănătoare pe care trebuie să o înveți
+Deci sunt multe de explorat acolo, dar și scufundarea este, practic, o abilitate pe care trebuie să o înveți
 
 179
 00:11:54,133 --> 00:11:55,300
-si să devii mai bun.
+și pe care să ți-o îmbunătățești.
 
 180
 00:11:55,466 --> 00:11:59,150
@@ -722,15 +722,15 @@ De asemenea, vei putea să interacționezi cu obiecte sub apă, ceea ce este des
 
 181
 00:11:59,266 --> 00:12:02,266
-astfel încât să puteți colecta articole, să puteți interacționa cu lucruri.
+adică o să poți lua obiecte, interacționa cu lucruri.
 
 182
 00:12:02,466 --> 00:12:07,316
-Așa că astea sunt toate lucrurile pe care le simt, sunt mândru că am făcut-o,
+Deci, astea sunt lucrurile despre care simt că sunt mândru că le-am făcut,
 
 183
 00:12:07,516 --> 00:12:09,883
-în așa fel încât nu am copiat doar originalul.
+în așa fel încât nu am copiat originalul pur și simplu.
 
 184
 00:12:10,550 --> 00:12:13,916
@@ -750,7 +750,7 @@ deci dacă jucătorul investește puncte în asta, rețetele vor deveni utile.
 
 188
 00:12:25,133 --> 00:12:29,766
-Pe parcursul jocului, există un lucru important care chiar și
+Pe parcursul jocului, e un lucru important faptul că chiar
 
 189
 00:12:29,933 --> 00:12:32,933
@@ -758,7 +758,7 @@ dacă nu ai utilitate imediată pentru acea
 
 190
 00:12:33,216 --> 00:12:40,550
-rețetă în acel moment, actul de a lucra are o valoare inerentă în
+rețetă în acel moment, actul de a crea are o valoare inerentă în
 
 191
 00:12:40,550 --> 00:12:43,550
@@ -766,7 +766,7 @@ reducerea abundenței materialelor din inventarul tău
 
 192
 00:12:43,816 --> 00:12:46,566
-și obținerea de ceva minereu din proces.
+și obținerea a ceva minereu din proces.
 
 193
 00:12:46,800 --> 00:12:51,866
@@ -794,7 +794,7 @@ Nu putem mulțumi pe toată lumea.
 
 199
 00:13:08,800 --> 00:13:13,433
-Sperăm ca jucătorii să-și arunce o privire și să încerce să ne înțeleagă motivația
+Sperăm ca jucătorii să se uite la ea și să încerce să ne înțeleagă motivația
 
 200
 00:13:13,766 --> 00:13:18,650
@@ -810,7 +810,7 @@ Evident că nu vreau să stric lucrurile.
 
 203
 00:13:25,100 --> 00:13:29,916
-Abordarea noastră, de a face față acestei lupte între vechi și nou, a fost
+Abordarea noastră de a face față acestei lupte între vechi și nou a fost
 
 204
 00:13:30,150 --> 00:13:35,783
@@ -846,7 +846,7 @@ Kai la finalizarea sunetului pentru acest videoclip „Încă o secundă!”
 
 212
 00:14:04,110 --> 00:14:05,390
-Suntem aici doar să ne târâm în fundul lui "Gomez".
+Suntem aici doar să ne târâm în fundul lui „Gomez”
 
 213
 00:14:05,390 --> 00:14:06,510
