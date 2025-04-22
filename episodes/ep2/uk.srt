@@ -1,865 +1,865 @@
 1
 00:00:06,766 --> 00:00:10,850
-Gothic was one of the first, immersive open world RPGs.
+Ґотика була однією з перших іммерсивних ігор з відкритим світом,
 
 2
 00:00:10,983 --> 00:00:14,250
-Our job was really to find out, what element should stay
+нашим завданням було з'ясувати, які елементи повинні залишитись
 
 3
 00:00:14,250 --> 00:00:17,483
-exactly as they are, what element should be expanded.
+саме такими якими вони є, а які потрібно розширити.
 
 4
 00:00:17,500 --> 00:00:21,900
-Throughout the whole production we found ourselves in struggle between old and new.
+На протягу усієї розробки ми боролись між старим та новим.
 
 5
 00:00:40,000 --> 00:00:47,000
-Making of Gothic remake
+Створення Gothci 1 Remake
 
 6
 00:00:49,000 --> 00:00:53,433
-Chapter II. Old vs. new
+Розділ II. Старе проти нового
 
 7
 00:00:53,433 --> 00:00:55,566
-Our approach for the story was like, hey
+Наш підхід до історії був таким: Гей
 
 8
 00:00:55,600 --> 00:00:58,600
-the original story is actually good, but
+оригінальна історія справді гарна, але
 
 9
 00:00:58,750 --> 00:01:00,483
-it has plot holes,
+вона має сюжетні прогалини,
 
 10
 00:01:00,583 --> 00:01:02,900
-it has things that are unlogical
+вона має нелогічні речі,
 
 11
 00:01:03,100 --> 00:01:05,350
-and it has things that are contradicting each other.
+та в ній є речі, котрі протиречать одна одній.
 
 12
 00:01:05,400 --> 00:01:06,983
-So our initial think was like,
+Тож наша перша думка була такою,
 
 13
 00:01:07,050 --> 00:01:10,050
-“Okay we have to set out and fix these three points.”
+“Добре, ми повинні почати виправляти ці три пункти.”
 
 14
 00:01:11,200 --> 00:01:12,783
-That was one of my first tasks,
+Це було одне з моїх перших завдань,
 
 15
 00:01:12,783 --> 00:01:17,650
-get everything that we can extract from the old games over to like Unreal,
+перенести усе що ми могли витягти зі старих ігор у Unreal,
 
 16
 00:01:17,683 --> 00:01:20,083
-or other tools for our designers to take a look at.
+або в інші інтрименти, аби наші дизайнери змогли це вивчити.
 
 17
 00:01:20,183 --> 00:01:23,183
-So they can understand how the game worked,
+Щоб вони могли зрозуміти, як працювала гра,
 
 18
 00:01:23,183 --> 00:01:24,450
-like go through all the conversations,
+пройтись усіма діалогами,
 
 19
 00:01:24,450 --> 00:01:31,233
-like a tree size structure um with all the requirements, all the dependencies
+як по структурованому древу з вимогами, залежностями
 
 20
 00:01:31,233 --> 00:01:34,233
-between topics, conditions and so on.
+поміж темами, умовами та далі.
 
 21
 00:01:35,016 --> 00:01:38,200
-Together with the writing team we came up with with solutions
+Разом із командою сценаристів ми вигадували різні рішення
 
 22
 00:01:38,200 --> 00:01:40,733
-and sometimes we had heated discussions about this because
+та інколи в нас були палкі суперечки з цього приводу, тому що
 
 23
 00:01:40,783 --> 00:01:42,133
-it's getting very emotional.
+іноді це було дуже емоційно
 
 24
 00:01:42,383 --> 00:01:46,833
-We we didn't choose the easiest and most straightforward solution,
+Ми не обирали саме просте та очевидне рішення,
 
 25
 00:01:46,833 --> 00:01:51,533
-but we chose a solution that fits very well in the context of the game.
+але ми намагались обрати те, яке дуже добре вписується у контекст гри .
 
 26
 00:01:51,833 --> 00:01:54,833
-Now we have Alkimia Narrative tool, as it's called.
+Тепер в нас є Alkimia Narrative tool, так ми його назвали.
 
 27
 00:01:55,550 --> 00:02:02,700
-The tool that can handle the complexity of the original game's dialogues. The tool that can display that, handle that and you can work with it.
+Інструмент, який дозволяє справлятись зі складністю диалогів оригінальної гри. 
+Відображає їх, допомагає керувати ними.
 
 28
 00:02:02,700 --> 00:02:08,550
-And this was the base for our designers to iterate on the original dialogues,
+І це була основа для наших дизайнерів, щоб вони мали змогу переробляти оригінальні діалоги,
 
 29
 00:02:08,800 --> 00:02:12,666
-daily routines AI states, the combat AI is implemented in there.
+щоденні рутини, стан ШІ, Бойовий ШІ там теж реалізований.
 
 30
 00:02:13,433 --> 00:02:17,766
-All the character configuration, what interactions they can do,
+Усі конфігурації персонажів, які взаємодії вони можуть виконувати,
 
 31
 00:02:17,766 --> 00:02:20,016
-what animations they should play.
+які анімації вони повинні програвати.
 
 32
 00:02:20,016 --> 00:02:25,350
-It’s all in this scripting language and you can go there and modify it as you like.
+Усе це на мові скриптів, і ви можете туди заходити та змінювати як забажаєте
 
 33
 00:02:25,633 --> 00:02:28,633
-We even had at one point, a sort of running
+У якийсь момент в нас навіть була свого роду робоча
 
 34
 00:02:28,750 --> 00:02:31,250
-version of the original game in Unreal.
+версія оригінальної гри у Unreal.
 
 35
 00:02:31,266 --> 00:02:34,266
-The biggest challenge from a design perspective is
+Найбільша проблема з точки зору дизайну -
 
 36
 00:02:34,266 --> 00:02:38,500
-the making the world feel alive and hold this work with all the systems
+це створити світ живим, та утримати його за допомогою усіх систем
 
 37
 00:02:38,900 --> 00:02:41,900
-because in the end, we are creating a living world with a lot of characters,
+Тому що в результаті ми створюємо живий світ із безліччю персонажів.
 
 38
 00:02:41,933 --> 00:02:44,933
-but we are not just configuring the daily routines or their
+Але ми не просто налаштовуємо їхні щоденні рутини або їхні
 
 39
 00:02:44,950 --> 00:02:46,500
-homes or the the kind of things.
+дома або подібні речі.
 
 40
 00:02:46,516 --> 00:02:50,300
-This is a systemic game, so they react to the player actions,
+Це системна гра, тому персонажі реагують на дії гравця,
 
 41
 00:02:50,383 --> 00:02:53,383
-to the all the system, like they are witness of your crimes,
+На всі системи, наприклад, вони стають свідками твоїх злочинів,
 
 42
 00:02:53,500 --> 00:02:56,500
-how you enter trespassing a forbidden area,
+як ти проникаєш у заборонену зону,
 
 43
 00:02:56,666 --> 00:02:59,666
-how you launch an object and they interact with that.
+як ти кидаєш об'єкт, і вони взаємодіють із ним.
 
 44
 00:03:00,016 --> 00:03:03,016
-Modernizing these systems with all these the world building
+Модернізація цих систем із усією будовою світу
 
 45
 00:03:03,133 --> 00:03:05,183
-and world setting and make everything works together
+його налаштуванням і об'єднанням всього разом
 
 46
 00:03:05,350 --> 00:03:09,050
-is a really, really challenging thing for us.
+це дійсно дуже складне завдання для нас.
 
 47
 00:03:09,250 --> 00:03:14,200
-From a technical point of view, if you have an open world and you can go everywhere,
+З технічної точки зору, якщо у вас є відкритий світ і ви можете піти куди завгодно,
 
 48
 00:03:14,333 --> 00:03:18,716
-you need to consider that the world needs to live on while the player is not there.
+потрібно враховувати, що світ має продовжувати жити, навіть коли гравця там немає.
 
 49
 00:03:18,833 --> 00:03:22,633
-We actually have for the full world the daily routines,
+У нас дійсно для всього світу є щоденні рутини,
 
 50
 00:03:22,633 --> 00:03:26,016
-the living world simulation is always going.
+симуляція живого світу завжди триває.
 
 51
 00:03:26,066 --> 00:03:30,450
-and when you come close to an to an NPC so they spawn,
+І коли ти підходиш до NPC, щоб він з'явився,
 
 52
 00:03:30,616 --> 00:03:33,616
-they will be spawned where they would be if you were just standing there waiting.
+він буде заспавнений там, де був би, якби ти просто стояв і чекав.
 
 53
 00:03:34,583 --> 00:03:37,583
-For example we have this, we have the templars
+Наприклад, у нас є храмівники,
 
 54
 00:03:37,783 --> 00:03:40,333
-walking from the Sect camp to the Old mine
+які йдуть із табору сектантів до Старої копальні,
 
 55
 00:03:40,433 --> 00:03:43,616
-and in the original game you could never meet them in between the camps.
+і в оригінальній грі ти ніколи не міг зустріти їх між таборами.
 
 56
 00:03:43,750 --> 00:03:47,800
-Now you can stand somewhere wait for the full day,
+Тепер ти можеш стояти десь, чекати цілий день,
 
 57
 00:03:47,800 --> 00:03:49,633
-yeah they will arrive at some point.
+і вони в якийсь момент прийдуть.
 
 58
 00:03:49,633 --> 00:03:52,050
-Then there was the part where we kind of like set out,
+Потім був момент, коли ми вирішили,
 
 59
 00:03:52,116 --> 00:03:54,283
-well, the German version is iconic
+ну, німецька версія культова,
 
 60
 00:03:54,283 --> 00:03:57,900
-and so is probably the Polish version and the Russian version,
+і, ймовірно, польська та російська версії також,
 
 61
 00:03:57,900 --> 00:04:00,900
-but like the English version is actually not iconic.
+але англійська версія насправді такою не є.
 
 62
 00:04:01,033 --> 00:04:04,033
-Throughout this series it kind of changed style, so that's one thing.
+Протягом усієї серії вона змінювала стиль, це одна з причин.
 
 63
 00:04:04,100 --> 00:04:09,933
-It didn't manage to translate this rough language to the entire like story.
+Їй не вдалося передати цю грубість протягом усієї історії.
 
 64
 00:04:10,266 --> 00:04:13,433
-So we set out to do a rework of the English texts
+Тому ми вирішили переробити англійські тексти,
 
 65
 00:04:13,816 --> 00:04:18,600
-and that was our starting point and why that we discovered even more of these plot holes
+і це було нашою відправною точкою, і тоді ми виявили ще більше цих сюжетних прогалин
 
 66
 00:04:18,733 --> 00:04:21,666
-and things that we need to improve and make better.
+та речей, які потрібно покращити й розширити.
 
 67
 00:04:21,750 --> 00:04:24,750
-Then there are aspects where we added things, that were just
+Тоді є моменти, де ми додали речі, які просто
 
 68
 00:04:24,916 --> 00:04:31,450
-not touched on enough or in later chapters there's too much shortcuts
+недостатньо висвітлювались або у наступних главах сильно скорочувалися,
 
 69
 00:04:31,550 --> 00:04:35,250
-about it or there are places in the world that are not used.
+або є місця у світі, які взагалі не використовувалися.
 
 70
 00:04:35,733 --> 00:04:38,533
-The most interesting part of the Gothic Remake would be
+Найцікавіша частина ремейка Готики, мабуть — це
 
 71
 00:04:38,533 --> 00:04:41,550
-the cut content from the original game.
+вирізаний контент з оригінальної гри.
 
 72
 00:04:42,350 --> 00:04:45,350
-The places that were pretty empty in the original game
+Місця, які в оригінальній грі були досить порожніми,
 
 73
 00:04:45,466 --> 00:04:48,133
-and in Gothic Remake we create them
+і в Gothic Remake ми їх створюємо спочатку
 
 74
 00:04:48,133 --> 00:04:52,866
-and put here and there new things that would enhance the experience.
+і додаємо тут і там нові речі, які покращать досвід.
 
 75
 00:04:53,033 --> 00:04:57,033
-We try to make a little bit more interesting the dungeons
+Ми намагаємося зробити підземелля трохи цікавішими
 
 76
 00:04:57,033 --> 00:05:01,050
-and also the way the player can get into the castle.
+а також способи, як гравець може потрапити до умовного замку, наприклад.
 
 77
 00:05:01,233 --> 00:05:05,550
-It’s like very hidden and you can guess that there is
+Це не на поверхні, і ти можеш здогадатися, що там є щось приховане,
 
 78
 00:05:05,550 --> 00:05:08,550
-something different there, if you go to the to the Gomez cellar.
+тільки якщо зайдеш до підвалу Гомеза.
 
 79
 00:05:09,450 --> 00:05:15,116
-One aspect about the story that I can tease here, that we kind of added
+Один аспект історії, який я можу тут трохи відкрити, який ми додали,
 
 80
 00:05:15,483 --> 00:05:18,850
-and this is like the way how you interact with the Orc culture.
+це спосіб взаємодії з культурою орків.
 
 81
 00:05:19,433 --> 00:05:22,733
-Which I feel like was in the original very base level, I mean you had this interaction
+Мені здається, в оригіналі це було на дуже базовому рівні, я маю на увазі, у тебе були взаємодії
 
 82
 00:05:23,016 --> 00:05:25,200
-with Ur-Shak and Tarrok.
+з Ур-Шаком і Тарроком.
 
 83
 00:05:25,433 --> 00:05:29,716
-It was to a level where it was like “Yeah, okay it served a single purpose”
+Це було приблизно так: «Так, гаразд, мені це було потрібно лише для однієї мети»,
 
 84
 00:05:29,716 --> 00:05:32,483
-and then it's like you just kill them off.
+а потім ти просто їх вбивав.
 
 85
 00:05:32,483 --> 00:05:35,483
-But I mean the whole thing in the whole Gothic lore,
+Але я маю на увазі, вся ця тема в лорі Ґотики,
 
 86
 00:05:35,483 --> 00:05:40,416
-the whole theme with the orcs is actually the reason why everything is happening.
+Вся тема з орками насправді є причиною, чому все відбувається.
 
 87
 00:05:42,250 --> 00:05:44,533
-It's the reason for why the colony exists.
+Це причина існування колонії.
 
 88
 00:05:44,550 --> 00:05:49,050
-It's the reason for why the barrier exists because without the ore mining,
+Це причина існування бар'єра, тому що без видобутку руди,
 
 89
 00:05:49,050 --> 00:05:52,766
-which is needed for the war you would not have the need to create a barrier.
+яка потрібна для війни, не було б необхідності створювати бар'єр.
 
 90
 00:05:52,783 --> 00:05:55,783
-We felt like we need to give this more space.
+Ми відчули, що потрібно надати цьому більше простору.
 
 91
 00:06:03,416 --> 00:06:10,333
-As I'm mostly engaged with all the content related to economy,
+Оскільки я здебільшого займаюся всім, що пов'язано з економікою,
 
 92
 00:06:10,600 --> 00:06:13,383
-what I try to do is mine the whole game.
+те, що я намагаюся робити, — це досліджувати всю гру.
 
 93
 00:06:13,383 --> 00:06:15,233
-I have a model of the the original game.
+У мене є модель оригінальної гри.
 
 94
 00:06:15,333 --> 00:06:17,216
-Then I try to see patterns.
+Потім я намагаюся побачити закономірності.
 
 95
 00:06:17,283 --> 00:06:20,633
-Patterns that talks to me about how, what was the original intent,
+Закономірності, які говорять мені про те, який був початковий задум,
 
 96
 00:06:20,633 --> 00:06:23,633
-with how the economy evolved, how the progression evolved.
+з тим, як еволюціонувала економіка, як розвивалася прогресія.
 
 97
 00:06:23,966 --> 00:06:26,966
-And then I tried to see where those patterns break
+І потім я намагався побачити, де ці закономірності порушуються,
 
 98
 00:06:26,983 --> 00:06:31,683
-because for example in the original Gothic the economical progression,
+тому що, наприклад, у оригінальній Ґотиці економічна прогресія
 
 99
 00:06:31,683 --> 00:06:33,050
-was quite broken for the last chapters.
+була досить порушеною у останніх розділах.
 
 100
 00:06:33,100 --> 00:06:35,566
-You cannot generate value from nothing.
+Ти не можеш створювати цінність з нічого.
 
 101
 00:06:35,716 --> 00:06:38,316
-The player should not be the central bank of the economy.
+Гравець не повинен бути центральним банком економіки.
 
 102
 00:06:38,533 --> 00:06:42,200
-And that also connects with the trading systems because
+І це також пов'язано з торговельними системами, тому що
 
 103
 00:06:42,200 --> 00:06:44,600
-the traders in the original game were quite passive.
+торговці в оригінальній грі були досить пасивними.
 
 104
 00:06:44,766 --> 00:06:48,416
-They only regenerated their inventory and the ore between chapters.
+Вони лише відновлювали свої запаси і руду між розділами.
 
 105
 00:06:48,750 --> 00:06:52,150
-But we have a passive system that do some garbage collecting,
+Але ми маємо пасивну систему, яка займається очищенням,
 
 106
 00:06:52,150 --> 00:06:55,150
-so some items are expansed from the economy.
+тому деякі предмети вилучаються з економіки.
 
 107
 00:06:55,400 --> 00:06:59,250
-Those items are managed as if they were being traded between the traders,
+Ці предмети обробляються так, ніби вони торгуються між торговцями,
 
 108
 00:06:59,366 --> 00:07:04,683
-So those items are converted into ore so there's always liquidity in the market.
+Тож ці предмети конвертуються у руду, щоб завжди була ліквідність на ринку."
 
 109
 00:07:04,683 --> 00:07:08,966
-There's not an overabundance of materials, so we always have control
+Матеріалів не надлишок, тому ми завжди маємо контроль
 
 110
 00:07:09,116 --> 00:07:10,533
-of how much you can craft.
+над тим, скільки ти можеш створювати.
 
 111
 00:07:10,716 --> 00:07:13,416
-At some point the economy will break, I mean it's a closed economy.
+У якийсь момент економіка зламається, я маю на увазі, це закрита економіка.
 
 112
 00:07:13,700 --> 00:07:17,616
-It's it's bound to break because the only active agent is the is the character.
+Вона приречена на крах, тому що єдиним активним агентом є персонаж.
 
 113
 00:07:17,716 --> 00:07:22,250
-But if we can delay that to the sixth chapter that would be the best case scenario.
+Але якщо ми можемо відстрочити це до шостого розділу, це був би найкращий сценарій.
 
 114
 00:07:22,650 --> 00:07:25,266
-The the exploration is a key part of the game.
+Дослідження — ключова частина гри.
 
 115
 00:07:25,833 --> 00:07:30,166
-This is a hard technical thing that we've been looking into,
+Це складне технічне питання, яке ми розглядали протягом усього розроблення,
 
 116
 00:07:30,200 --> 00:07:33,783
-through the whole development, such as giving the players this feeling
+наприклад, даючи гравцям це відчуття
 
 117
 00:07:34,150 --> 00:07:37,316
-of being lost. Once it gets dark you're just lost.
+загубленості. Як тільки стає темно, ти просто губишся.
 
 118
 00:07:37,600 --> 00:07:42,450
-I mean we have a lot of places that even if it's day,
+У нас є багато місць, де навіть якщо це день,
 
 119
 00:07:42,716 --> 00:07:45,900
-you just get lost, so at night everything is super dark,
+ти все одно губишся, а вночі все стає дуже темним,
 
 120
 00:07:46,033 --> 00:07:48,316
-but you still can manage your way through.
+але ти все ще можеш знайти свій шлях.
 
 121
 00:07:48,316 --> 00:07:52,033
-You can have a lot of spells or even
+Ти можеш мати багато заклять або навіть
 
 122
 00:07:52,033 --> 00:07:55,033
-your own torch that would help you go
+власний факел, який допоможе тобі пройти
 
 123
 00:07:55,166 --> 00:07:59,300
-through all these places, but definitely if you don't have a good sense of orientation
+через усі ці місця, але, безумовно, якщо у тебе немає гарного почуття орієнтації,
 
 124
 00:07:59,350 --> 00:08:00,200
-you gonna get lost.
+ти заблукаєш.
 
 125
 00:08:00,500 --> 00:08:04,750
-Each one has its own environment and personality
+Кожне місце має своє унікальне оточення та особливості,
 
 126
 00:08:04,750 --> 00:08:06,783
-because all the characters
+тому що всі персонажі
 
 127
 00:08:06,783 --> 00:08:09,366
-in each camp are unique in one way or another.
+у кожному таборі унікальні у тій чи іншій мірі.
 
 128
 00:08:09,366 --> 00:08:12,533
-But in the end, when you keep on walking around the world you can see
+Але зрештою, коли ти продовжуєш мандрувати світом, ти можеш побачити,
 
 129
 00:08:12,533 --> 00:08:14,483
-that all the camps are somehow connected,
+що всі табори якось пов’язані між собою,
 
 130
 00:08:14,483 --> 00:08:17,533
-characters move from one place to another
+персонажі переміщаються з одного місця до іншого,
 
 131
 00:08:17,716 --> 00:08:22,500
-and the stories are interrelated among them.
+а історії між ними взаємопов’язані.
 
 132
 00:08:22,616 --> 00:08:30,233
-The main idea we have regarding hoarding is to force the player to consume items.
+Головна ідея, яку ми маємо щодо накопичення, — це змусити гравця споживати предмети.
 
 133
 00:08:30,750 --> 00:08:35,716
-Be it because the combat is difficult, be it because there is some dynamics
+Будь то через те, що бій складний, чи через те, що існує динаміка,
 
 134
 00:08:35,733 --> 00:08:38,733
-that require the use of those items evidently.
+яка явно вимагає використання цих предметів.
 
 135
 00:08:38,900 --> 00:08:44,183
-There is a problem with all open world RPGs, that it tends to be an
+Є проблема у всіх RPG з відкритим світом, і вона полягає в надлишку предметів,
 
 136
 00:08:44,183 --> 00:08:47,383
-overabundance of items because you don't know where the player is going to be,
+оскільки ти не знаєш, де буде гравець,
 
 137
 00:08:47,466 --> 00:08:51,733
-where the player is going to look at and you must guarantee a minimum viable
+на що гравець подивиться, і ти маєш гарантувати мінімальну життєздатну
 
 138
 00:08:51,766 --> 00:08:55,833
-amount of utility for the player to overcome the challenges.
+кількість утилітарності, щоб гравець міг подолати виклики.
 
 139
 00:08:56,233 --> 00:09:05,683
-So if you have a very serious player that loots everything and it's a hoarder by nature,
+Отже, якщо є дуже серйозний гравець, який грабує все і за своєю природою накопичує предмети,
 
 140
 00:09:05,883 --> 00:09:10,083
-we won't be able to combat that, but at least uh the design
+ми не зможемо з цим боротися, але принаймні дизайн
 
 141
 00:09:10,166 --> 00:09:18,266
-will try to put the player in situations that force them to use the items they have.
+спробує поставити гравця в ситуації, які змушують його використовувати предмети, які він має.
 
 142
 00:09:24,883 --> 00:09:27,016
-With RPGs you tend to spend a lot of time.
+З RPG ти зазвичай проводиш багато часу.
 
 143
 00:09:27,016 --> 00:09:30,983
-In a lot of games you actually get tired of the music at some point,
+У багатьох іграх ти насправді в якийсь момент втомлюєшся від музики,
 
 144
 00:09:31,050 --> 00:09:37,183
-but in Gothic you never get tired, which is also related to the system that they used back in the day.
+але в Готиці ти ніколи не втомлюєшся, що також пов'язано із системою, яку вони використовували тоді.
 
 145
 00:09:37,450 --> 00:09:40,750
-There wasn't kind of like a master track, that they would just play back.
+Там не було ніби основного треку, який просто програвався.
 
 146
 00:09:40,833 --> 00:09:45,333
-It would kind of like layers that depending on what happens in the game world,
+Це була ніби багатошаровість, яка залежно від того, що відбувається у світі гри,
 
 147
 00:09:45,333 --> 00:09:49,983
-it would play different cues, so it kind of like always felt different.
+грала різні сигнали, тому це завжди здавалося інакшим.
 
 148
 00:09:50,283 --> 00:09:55,766
-So my main priority when making music is - I want to be
-a messenger of emotions.
+Отже, моя головна мета під час створення музики — я хочу бути посланцем емоцій.
 
 149
 00:09:56,000 --> 00:09:58,733
-I want to understand, as the composer I want to understand
+Я хочу розуміти, як композитор
 
 150
 00:09:59,050 --> 00:10:02,683
-the emotional message that is in every single scene in the game.
+емоційний посил, який є у кожній сцені гри.
 
 151
 00:10:02,950 --> 00:10:08,133
-And I want to be able to kind of push the emotional impact on the player.
+І я хочу мати можливість ніби посилити емоційний вплив на гравця.
 
 152
 00:10:08,133 --> 00:10:13,083
-It adds a certain depth to the game because you can actually feel what's going on and it
+Це додає певної глибини грі, тому що ти можеш справді відчувати, що відбувається, і це
 
 153
 00:10:13,366 --> 00:10:17,616
-doesn't just work as like background music, but also as its own aspect to the
+не просто працює як фоновий музичний супровід, але також як свій власний аспект
 
 154
 00:10:17,650 --> 00:10:18,916
-emotional landscapes.
+емоційного ландшафту.
 
 155
 00:10:19,050 --> 00:10:21,533
-You can imagine it as painting pictures.
+Це можна уявити як малювання картин.
 
 156
 00:10:21,566 --> 00:10:24,016
-So I imagine a situation for example,
+Отже, я уявляю ситуацію, наприклад,
 
 157
 00:10:24,383 --> 00:10:27,383
-where there's a sense of determination and adventure.
+де є відчуття рішучості та пригод.
 
 158
 00:10:27,783 --> 00:10:31,366
-Then I try to come up with an image that represents that.
+Потім я намагаюся придумати образ, який представляє це.
 
 159
 00:10:31,683 --> 00:10:36,150
-Sometimes I do abstract drawings, sometimes I pick something from from the internet
+Іноді я роблю абстрактні малюнки, іноді беру щось із інтернету
 
 160
 00:10:36,516 --> 00:10:39,516
-and then I look at all those individual visual elements
+і потім дивлюся на всі ці окремі візуальні елементи
 
 161
 00:10:40,000 --> 00:10:42,666
-and try to come up with music ideas for those.
+і намагаюся придумати музичні ідеї для них.
 
 162
 00:10:42,950 --> 00:10:45,950
-So for example if I have a strong, key image
+Отже, наприклад, якщо у мене є сильний ключовий образ
 
 163
 00:10:46,250 --> 00:10:49,733
-in the center of my abstract painting for example,
+у центрі мого абстрактного малюнка, наприклад,
 
 164
 00:10:50,300 --> 00:10:55,766
-I try to get an idea of what instrument could represent that specific part of the picture.
+я намагаюся отримати ідею про те, який інструмент може представляти цю конкретну частину картини.
 
 165
 00:10:56,233 --> 00:10:59,233
-And then I just play around with it,
+І тоді я просто експериментую з цим,
 
 166
 00:10:59,300 --> 00:11:03,400
-I experiment with different melodic ideas, with different harmonies and through
+експериментую з різними мелодійними ідеями, з різними гармоніями, і через
 
 167
 00:11:03,750 --> 00:11:07,783
-lots of iteration and tinkering around in my software I come to the final result.
+багато ітерацій і налаштувань у моєму програмному забезпеченні я доходжу до остаточного результату.
 
 168
 00:11:08,583 --> 00:11:13,616
-I'm most excited actually to get the new or the extended abilities
+Насправді я найбільше захоплений тим, щоб дати нові або розширені можливості
 
 169
 00:11:13,850 --> 00:11:17,316
-in the hands of the players, So we've spent a lot of time
+до рук гравців. Тому ми багато часу
 
 170
 00:11:17,400 --> 00:11:22,350
-analyzing like, what sort of abilities actually don't fulfill the true vision
+витратили на аналіз того, які здібності фактично не реалізують справжнє бачення
 
 171
 00:11:22,633 --> 00:11:25,016
-of what it could make sense in the world of Gothic.
+того, що може мати сенс у світі Ґотики.
 
 172
 00:11:25,150 --> 00:11:29,083
-We’ve teased some of it a little bit in the gameplay reveal
+Ми трохи анонсували дещо в розкритті ігрового процесу
 
 173
 00:11:29,333 --> 00:11:33,483
-with the climbing, will add another dimension and it's similar
+з лазінням, яке додасть ще одного виміру, і це схоже
 
 174
 00:11:33,533 --> 00:11:36,533
-actually to the climbing in Zelda, but it's obviously kind of like
+на лазіння в Zelda, але, очевидно, воно обмежене
 
 175
 00:11:36,583 --> 00:11:39,200
-limited to certain areas of the game.
+певними областями гри.
 
 176
 00:11:39,716 --> 00:11:41,933
-And then another thing like we’ve teased, like
+І ще одна річ, яку ми анонсували,
 
 177
 00:11:41,933 --> 00:11:47,683
-first of all we try to kind of like make some interesting underwater path and locations.
+— це створення цікавих підводних шляхів та локацій.
 
 178
 00:11:47,683 --> 00:11:54,050
-So there's a lot to explore there, but also diving is a proper like skill that you need to learn
+Тож там є що досліджувати, але занурення — це також скіл, якому потрібно навчатися
 
 179
 00:11:54,133 --> 00:11:55,300
-and get better on.
+і вдосконалювати його.
 
 180
 00:11:55,466 --> 00:11:59,150
-You can also like interact with objects underwater, which is pretty cool,
+Також можна буде взаємодіяти з об'єктами під водою, що досить круто,
 
 181
 00:11:59,266 --> 00:12:02,266
-so you can pick up loot, you can interact with stuff.
+ти можеш знаходити лут, взаємодіяти з речима.
 
 182
 00:12:02,466 --> 00:12:07,316
-So that's that's all stuff that I feel like, I'm proud that we did it,
+Ми пишаємося тим, що зробили це,
 
 183
 00:12:07,516 --> 00:12:09,883
-like that we don't just copy the original.
+і тим, що ми не просто копіюємо оригінал.
 
 184
 00:12:10,550 --> 00:12:13,916
-Most of the materials will be used for different crafting stations,
+Більшість матеріалів буде використовуватись для різних станцій крафту,
 
 185
 00:12:14,383 --> 00:12:17,083
-so alchemy, cooking, whatever.
+наприклад, алхімія, кулінарія тощо.
 
 186
 00:12:17,416 --> 00:12:20,416
-The idea is that those recipes will evolve with the player,
+Ідея полягає в тому, що ці рецепти еволюціонуватимуть із гравцем,
 
 187
 00:12:20,533 --> 00:12:24,683
-so if the player invests points in that those recipes will become useful.
+тож якщо гравець інвестує в них очки, ці рецепти стануть корисними.
 
 188
 00:12:25,133 --> 00:12:29,766
-Across the gameplay and also there is an important thing that even
+І ще важливо, навіть якщо в тебе немає миттєвого застосування
 
 189
 00:12:29,933 --> 00:12:32,933
-if you don't have immediate utility for that
+для цього рецепта в даний момент,
 
 190
 00:12:33,216 --> 00:12:40,550
-recipe at that moment, the act of crafting has an inherent value in
+сам акт крафту має власну цінність,
 
 191
 00:12:40,550 --> 00:12:43,550
-reducing the abundance of materials in your inventory
+зменшуючи кількість матеріалів у твоєму інвентарі
 
 192
 00:12:43,816 --> 00:12:46,566
-and gaining a bit of ore from the process.
+та отримуючи трохи руди в процесі.
 
 193
 00:12:46,800 --> 00:12:51,866
-So you spend time in and you gain a lot of utility in ore.
+Отже, ти витрачаєш час, отримуючи багато користі з руди.
 
 194
 00:12:52,150 --> 00:12:55,150
-And there's things I'm sure there are things that are controversial,
+Звісно, є спірні моменти,
 
 195
 00:12:55,300 --> 00:12:59,650
-that people are like "Well you’re contradicting what the original set out".
+що люди говорять: «Ну, ви суперечите тому, що було закладено в оригіналі».
 
 196
 00:13:00,066 --> 00:13:04,900
-We tried to limit these things and we wanted to be extra sure that like,
+Ми намагалися обмежити ці речі і хотіли бути абсолютно впевненими, що
 
 197
 00:13:04,983 --> 00:13:07,116
-our solution is actually better.
+наше рішення дійсно краще.
 
 198
 00:13:07,266 --> 00:13:08,750
-We cannot please everybody.
+Ми не можемо догодити всім.
 
 199
 00:13:08,800 --> 00:13:13,433
-We hope that players look at it give it a try to understand our motivation
+Ми сподіваємося, що гравці спробують і зрозуміють нашу мотивацію.
 
 200
 00:13:13,766 --> 00:13:18,650
-And I'm happy to talk through about this after the game is out
+Я із задоволенням розповім про це докладніше після виходу гри
 
 201
 00:13:18,683 --> 00:13:21,683
-and give detailed reason for why we did the way we did.
+і поясню, чому ми зробили це саме так.
 
 202
 00:13:21,816 --> 00:13:24,816
-Obviously I don't want to spoil things.
+Очевидно, я не хочу спойлерити.
 
 203
 00:13:25,100 --> 00:13:29,916
-Our approach of coping with this struggle between old and new was
+Наш підхід до боротьби між старим і новим полягав у
 
 204
 00:13:30,150 --> 00:13:35,783
-being practical and finding a certain baseline, that is always within the
+практичності й пошуку базової точки, яка завжди є в межах
 
 205
 00:13:35,883 --> 00:13:38,883
-Gothic vision and especially close to the original.
+бачення Ґотики особливо близької до оригіналу.
 
 206
 00:13:39,000 --> 00:13:42,000
-We can't wait to hear what you think about this.
+Ми з нетерпінням чекаємо ваших думок про це.
 
 207
 00:13:42,450 --> 00:13:44,616
-I mean for us we are not done with it.
+Для нас це тільки початок.
 
 208
 00:13:44,616 --> 00:13:47,616
-I mean, like getting started.
+Маю на увазі, ніби лише розпочинаємо
 
 209
 00:13:58,460 --> 00:14:00,140
-(Spanish.) Good morning, Gothic fans!
+(Іспанською.) Доброго ранку, фанати Ґотики!
 
 210
 00:14:00,140 --> 00:14:02,070
-It's not (yet) time to go hunt some boar
+Ще не час йти на полювання за кабанами.
 
 211
 00:14:02,070 --> 00:14:04,110
-Kai when finalizing the sound for this video "Just a little second more!"
+Кай, завершує звук для цього відео, «Ще одну секунду!»
 
 212
 00:14:04,110 --> 00:14:05,390
-We are just here to crawl in "Gomez" ass
+Ми просто тут, щоб залізти в дупу Ґомеза.
 
 213
 00:14:05,390 --> 00:14:06,510
-After this video I need to buy another SSD, again!
+Після цього відео мені знову потрібно купити новий SSD!
 
 214
 00:14:06,510 --> 00:14:08,190
-Gomez knows nothing... yet
+Ґомез ще нічого не знає... поки що.
 
 215
 00:14:08,190 --> 00:14:10,000
-May the sleeper awaken!
+Нехай прокинеться Сплячий!
 
 216
 00:14:10,000 --> 00:14:22,000
-Wishlist now!
+Додайте у список бажаного зараз!
 
